@@ -1,6 +1,6 @@
-mui__material-ui-33873	environment check failed: reference fix did not pass on first validation
-mui__material-ui-33801	environment check failed: reference fix did not pass on first validation
-mui__material-ui-33777	environment check failed: reference fix did not pass on first validation
-mui__material-ui-32713	environment check failed: reference fix did not pass on first validation
-mui__material-ui-32182	environment check failed: reference fix did not pass on first validation
-mui__material-ui-31313	environment check failed: reference fix did not pass on first validation
+mui__material-ui-33873	failed first validation and retry: broken environment
+mui__material-ui-33801	failed first validation and retry: broken environment
+mui__material-ui-33777	failed first validation, passed on retry: unreliable tests
+mui__material-ui-32713	failed first validation and retry: broken environment
+mui__material-ui-32182	failed first validation and retry: broken environment
+mui__material-ui-31313	failed first validation, passed on retry: unreliable tests

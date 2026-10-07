@@ -13,14 +13,14 @@ done < "$ids"
 
 if [ ! -s "$root/schedule.tsv" ]; then
 python3 - "$ids" "$reps" "$seed" > "$root/schedule.tsv" << 'PY'
-import sys, random
+import sys, random, os
 ids = [l.strip() for l in open(sys.argv[1]) if l.strip()]
 rng = random.Random(int(sys.argv[3]))
 for rep in range(1, int(sys.argv[2]) + 1):
     order = ids[:]
     rng.shuffle(order)
     for i in order:
-        conds = ["none", "accurate", "stale"]
+        conds = os.environ.get("CONDS", "none accurate stale").split()
         rng.shuffle(conds)
         for c in conds:
             print(f"{i}\t{c}\t{rep}")
