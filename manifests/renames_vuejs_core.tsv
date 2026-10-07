@@ -1,0 +1,9 @@
+vuejs__core-11813	easy	packages/reactivity/src/effect.ts	471899af8 2019-06-11 packages/observer/src/effect.ts -> packages/reactivity/src/effect.ts
+vuejs__core-11625	easy	packages/runtime-core/src/apiWatch.ts	07403c9ab 2019-06-07 packages/runtime-core/src/reactivity.ts -> packages/runtime-core/src/apiWatch.ts
+vuejs__core-11515	easy	packages/compiler-ssr/src/transforms/ssrTransformTransitionGroup.ts	NONE
+vuejs__core-10325	hard	packages/runtime-core/src/hydration.ts	NONE
+vuejs__core-10289	easy	packages/reactivity/src/reactive.ts	caba6d5c9 2019-08-16 packages/reactivity/src/state.ts -> packages/reactivity/src/reactive.ts|471899af8 2019-06-11 packages/observer/src/state.ts -> packages/reactivity/src/state.ts
+vuejs__core-9492	easy	packages/compiler-core/src/transforms/transformExpression.ts	dcf476436 2019-09-23 packages/compiler-core/src/transforms/expression.ts -> packages/compiler-core/src/transforms/transformExpression.ts
+vuejs__core-8911	easy	packages/compiler-sfc/src/script/utils.ts	NONE
+vuejs__core-8381	medium	packages/compiler-core/src/babelUtils.ts	NONE
+vuejs__core-8365	easy	packages/compiler-sfc/src/script/resolveType.ts	NONE

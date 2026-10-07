@@ -1,0 +1,606 @@
+vuejs__core-11813	easy	packages/reactivity/src/effect.ts	471899af8 2019-06-11 packages/observer/src/effect.ts -> packages/reactivity/src/effect.ts
+vuejs__core-11625	easy	packages/runtime-core/src/apiWatch.ts	07403c9ab 2019-06-07 packages/runtime-core/src/reactivity.ts -> packages/runtime-core/src/apiWatch.ts
+vuejs__core-11515	easy	packages/compiler-ssr/src/transforms/ssrTransformTransitionGroup.ts	NONE
+vuejs__core-10325	hard	packages/runtime-core/src/hydration.ts	NONE
+vuejs__core-10289	easy	packages/reactivity/src/reactive.ts	caba6d5c9 2019-08-16 packages/reactivity/src/state.ts -> packages/reactivity/src/reactive.ts|471899af8 2019-06-11 packages/observer/src/state.ts -> packages/reactivity/src/state.ts
+vuejs__core-9492	easy	packages/compiler-core/src/transforms/transformExpression.ts	dcf476436 2019-09-23 packages/compiler-core/src/transforms/expression.ts -> packages/compiler-core/src/transforms/transformExpression.ts
+vuejs__core-8911	easy	packages/compiler-sfc/src/script/utils.ts	NONE
+vuejs__core-8381	medium	packages/compiler-core/src/babelUtils.ts	NONE
+vuejs__core-8365	easy	packages/compiler-sfc/src/script/resolveType.ts	NONE
+iamkun__dayjs-2369	easy	src/plugin/duration/index.js	NONE
+iamkun__dayjs-1611	medium	src/plugin/duration/index.js	NONE
+iamkun__dayjs-1201	medium	src/plugin/utc/index.js	NONE
+iamkun__dayjs-882	hard	src/index.js	NONE
+iamkun__dayjs-882	hard	src/plugin/customParseFormat/index.js	NONE
+iamkun__dayjs-882	hard	src/plugin/utc/index.js	NONE
+iamkun__dayjs-873	hard	src/plugin/customParseFormat/index.js	NONE
+iamkun__dayjs-857	medium	src/plugin/isToday/index.js	NONE
+iamkun__dayjs-857	medium	src/plugin/isTomorrow/index.js	NONE
+iamkun__dayjs-857	medium	src/plugin/isYesterday/index.js	NONE
+iamkun__dayjs-857	medium	types/plugin/isToday.d.ts	NONE
+iamkun__dayjs-857	medium	types/plugin/isTomorrow.d.ts	NONE
+iamkun__dayjs-857	medium	types/plugin/isYesterday.d.ts	NONE
+iamkun__dayjs-658	hard	src/plugin/weekOfYear/index.js	NONE
+axios__axios-5919	hard	lib/adapters/adapters.js	NONE
+axios__axios-5919	hard	lib/defaults/index.js	170588f3 2022-03-07 lib/defaults.js -> lib/defaults/index.js
+darkreader__darkreader-7241	easy	src/generators/utils/parse.ts	NONE
+darkreader__darkreader-6747	easy	src/generators/dynamic-theme.ts	NONE
+darkreader__darkreader-6747	easy	src/generators/utils/parse.ts	NONE
+anuraghazra__github-readme-stats-3442	hard	.gitignore	NONE
+anuraghazra__github-readme-stats-3442	hard	api/gist.js	NONE
+anuraghazra__github-readme-stats-3442	hard	api/index.js	NONE
+anuraghazra__github-readme-stats-3442	hard	api/pin.js	NONE
+anuraghazra__github-readme-stats-3442	hard	api/status/pat-info.js	NONE
+anuraghazra__github-readme-stats-3442	hard	api/status/up.js	NONE
+anuraghazra__github-readme-stats-3442	hard	api/top-langs.js	NONE
+anuraghazra__github-readme-stats-3442	hard	api/wakatime.js	NONE
+anuraghazra__github-readme-stats-3442	hard	cloudflare/adapter.js	NONE
+anuraghazra__github-readme-stats-3442	hard	cloudflare/index.js	NONE
+anuraghazra__github-readme-stats-3442	hard	readme.md	NONE
+anuraghazra__github-readme-stats-3442	hard	src/cards/gist-card.js	NONE
+anuraghazra__github-readme-stats-3442	hard	src/cards/stats-card.js	67b434d 2020-08-02 src/renderStatsCard.js -> src/cards/stats-card.js
+anuraghazra__github-readme-stats-3442	hard	src/cards/wakatime-card.js	NONE
+anuraghazra__github-readme-stats-3442	hard	src/common/Card.js	67b434d 2020-08-02 src/Card.js -> src/common/Card.js
+anuraghazra__github-readme-stats-3442	hard	src/common/retryer.js	67b434d 2020-08-02 src/retryer.js -> src/common/retryer.js
+anuraghazra__github-readme-stats-3442	hard	src/common/utils.js	67b434d 2020-08-02 src/utils.js -> src/common/utils.js|45941f6 2020-07-11 utils.js -> src/utils.js
+anuraghazra__github-readme-stats-3442	hard	src/fetchers/gist-fetcher.js	NONE
+anuraghazra__github-readme-stats-3442	hard	src/fetchers/repo-fetcher.js	67b434d 2020-08-02 src/fetchRepo.js -> src/fetchers/repo-fetcher.js
+anuraghazra__github-readme-stats-3442	hard	src/fetchers/stats-fetcher.js	67b434d 2020-08-02 src/fetchStats.js -> src/fetchers/stats-fetcher.js
+anuraghazra__github-readme-stats-3442	hard	src/fetchers/top-languages-fetcher.js	67b434d 2020-08-02 src/fetchTopLanguages.js -> src/fetchers/top-languages-fetcher.js
+anuraghazra__github-readme-stats-3442	hard	wrangler.toml	NONE
+anuraghazra__github-readme-stats-1370	hard	src/cards/repo-card.js	67b434d 2020-08-02 src/renderRepoCard.js -> src/cards/repo-card.js
+anuraghazra__github-readme-stats-1370	hard	src/common/utils.js	67b434d 2020-08-02 src/utils.js -> src/common/utils.js|45941f6 2020-07-11 utils.js -> src/utils.js
+anuraghazra__github-readme-stats-1314	hard	src/cards/repo-card.js	67b434d 2020-08-02 src/renderRepoCard.js -> src/cards/repo-card.js
+anuraghazra__github-readme-stats-1314	hard	src/cards/top-languages-card.js	67b434d 2020-08-02 src/renderTopLanguages.js -> src/cards/top-languages-card.js
+anuraghazra__github-readme-stats-1314	hard	src/common/utils.js	67b434d 2020-08-02 src/utils.js -> src/common/utils.js|45941f6 2020-07-11 utils.js -> src/utils.js
+sveltejs__svelte-15115	hard	.changeset/strong-shoes-whisper.md	NONE
+sveltejs__svelte-15115	hard	packages/svelte/src/compiler/phases/2-analyze/visitors/CallExpression.js	NONE
+sveltejs__svelte-14640	hard	.changeset/silent-tips-cover.md	NONE
+sveltejs__svelte-14640	hard	packages/svelte/src/internal/client/dom/elements/attributes.js	NONE
+sveltejs__svelte-14445	hard	.changeset/green-pumpkins-ring.md	NONE
+sveltejs__svelte-14445	hard	documentation/docs/98-reference/.generated/compile-errors.md	NONE
+sveltejs__svelte-14445	hard	documentation/docs/98-reference/.generated/compile-warnings.md	NONE
+sveltejs__svelte-14445	hard	packages/svelte/messages/compile-errors/template.md	NONE
+sveltejs__svelte-14445	hard	packages/svelte/messages/compile-warnings/template.md	NONE
+sveltejs__svelte-14445	hard	packages/svelte/src/compiler/errors.js	NONE
+sveltejs__svelte-14445	hard	packages/svelte/src/compiler/phases/2-analyze/visitors/ExpressionTag.js	NONE
+sveltejs__svelte-14445	hard	packages/svelte/src/compiler/phases/2-analyze/visitors/RegularElement.js	NONE
+sveltejs__svelte-14445	hard	packages/svelte/src/compiler/phases/2-analyze/visitors/Text.js	NONE
+sveltejs__svelte-14445	hard	packages/svelte/src/compiler/warnings.js	NONE
+sveltejs__svelte-14445	hard	packages/svelte/src/html-tree-validation.js	NONE
+sveltejs__svelte-14445	hard	packages/svelte/src/internal/server/dev.js	NONE
+sveltejs__svelte-14317	hard	.changeset/rotten-turkeys-sniff.md	NONE
+sveltejs__svelte-14317	hard	packages/svelte/src/compiler/phases/2-analyze/visitors/Attribute.js	NONE
+sveltejs__svelte-14153	medium	.changeset/four-countries-taste.md	NONE
+sveltejs__svelte-14153	medium	packages/svelte/src/compiler/phases/1-parse/remove_typescript_nodes.js	bce4f3f01 2024-02-01 packages/svelte/src/compiler/phases/3-transform/typescript.js -> packages/svelte/src/compiler/phases/1-parse/remove_typescript_nodes.js
+sveltejs__svelte-13746	hard	.changeset/moody-kids-brake.md	NONE
+sveltejs__svelte-13746	hard	packages/svelte/src/compiler/phases/3-transform/css/index.js	NONE
+sveltejs__svelte-13668	hard	.changeset/nasty-teachers-end.md	NONE
+sveltejs__svelte-13668	hard	packages/svelte/src/compiler/migrate/index.js	NONE
+sveltejs__svelte-13646	medium	.changeset/eight-pans-worry.md	NONE
+sveltejs__svelte-13646	medium	packages/svelte/src/internal/client/dom/blocks/svelte-component.js	NONE
+sveltejs__svelte-13632	hard	.changeset/spotty-kings-hug.md	NONE
+sveltejs__svelte-13632	hard	packages/svelte/src/compiler/migrate/index.js	NONE
+sveltejs__svelte-13589	hard	.changeset/green-cameras-bake.md	NONE
+sveltejs__svelte-13589	hard	packages/svelte/src/compiler/phases/2-analyze/css/css-prune.js	cec3540ac 2024-02-15 packages/svelte/src/compiler/css/Selector.js -> packages/svelte/src/compiler/phases/2-analyze/css/css-prune.js|302c379e0 2024-02-14 packages/svelte/src/compiler/phases/2-analyze/css/Selector.js -> packages/svelte/src/compiler/css/Selector.js|fe8a9ce31 2023-11-10 packages/svelte/src/compiler/compile/css/Selector.js -> packages/svelte/src/compiler/phases/2-analyze/css/Selector.js
+sveltejs__svelte-13589	hard	packages/svelte/src/compiler/phases/2-analyze/index.js	NONE
+sveltejs__svelte-13589	hard	packages/svelte/src/compiler/phases/2-analyze/visitors/RenderTag.js	NONE
+sveltejs__svelte-13589	hard	packages/svelte/src/compiler/phases/types.d.ts	NONE
+sveltejs__svelte-13540	medium	.changeset/chilly-glasses-retire.md	NONE
+sveltejs__svelte-13540	medium	packages/svelte/src/html-tree-validation.js	NONE
+sveltejs__svelte-13437	hard	.changeset/good-vans-bake.md	NONE
+sveltejs__svelte-13437	hard	packages/svelte/src/compiler/migrate/index.js	NONE
+sveltejs__svelte-13437	hard	packages/svelte/src/compiler/phases/1-parse/state/element.js	fe8a9ce31 2023-11-10 packages/svelte/src/compiler/parse/state/tag.js -> packages/svelte/src/compiler/phases/1-parse/state/element.js|bd51e6f3e 2023-05-28 src/compiler/parse/state/tag.js -> packages/svelte/src/compiler/parse/state/tag.js|d35d9045f 2023-05-19 src/compiler/parse/state/tag.ts -> src/compiler/parse/state/tag.js
+sveltejs__svelte-13437	hard	packages/svelte/src/compiler/phases/2-analyze/visitors/SvelteComponent.js	NONE
+sveltejs__svelte-13437	hard	packages/svelte/src/compiler/phases/scope.js	NONE
+sveltejs__svelte-13057	hard	.changeset/gentle-needles-train.md	NONE
+sveltejs__svelte-13057	hard	packages/svelte/messages/compile-errors/template.md	NONE
+sveltejs__svelte-13057	hard	packages/svelte/src/compiler/errors.js	NONE
+sveltejs__svelte-13057	hard	packages/svelte/src/compiler/phases/1-parse/state/element.js	fe8a9ce31 2023-11-10 packages/svelte/src/compiler/parse/state/tag.js -> packages/svelte/src/compiler/phases/1-parse/state/element.js|bd51e6f3e 2023-05-28 src/compiler/parse/state/tag.js -> packages/svelte/src/compiler/parse/state/tag.js|d35d9045f 2023-05-19 src/compiler/parse/state/tag.ts -> src/compiler/parse/state/tag.js
+sveltejs__svelte-12938	hard	.changeset/proud-dots-swim.md	NONE
+sveltejs__svelte-12938	hard	packages/svelte/src/internal/client/reactivity/sources.js	NONE
+sveltejs__svelte-12845	hard	.changeset/eleven-teachers-drive.md	NONE
+sveltejs__svelte-12845	hard	packages/svelte/src/compiler/phases/3-transform/client/transform-client.js	NONE
+sveltejs__svelte-12845	hard	packages/svelte/src/compiler/phases/3-transform/client/visitors/Program.js	NONE
+sveltejs__svelte-12734	hard	.changeset/forty-guests-chew.md	NONE
+sveltejs__svelte-12734	hard	packages/svelte/src/internal/client/dom/elements/attributes.js	NONE
+sveltejs__svelte-12692	hard	.changeset/serious-owls-think.md	NONE
+sveltejs__svelte-12692	hard	packages/svelte/src/compiler/phases/2-analyze/index.js	NONE
+sveltejs__svelte-12692	hard	packages/svelte/src/compiler/phases/2-analyze/visitors/CallExpression.js	NONE
+sveltejs__svelte-12692	hard	packages/svelte/src/compiler/phases/2-analyze/visitors/TaggedTemplateExpression.js	NONE
+sveltejs__svelte-12692	hard	packages/svelte/src/compiler/phases/2-analyze/visitors/shared/utils.js	NONE
+sveltejs__svelte-12460	hard	.changeset/wicked-carrots-explain.md	NONE
+sveltejs__svelte-12460	hard	packages/svelte/src/internal/client/dom/elements/transitions.js	eb40417c3 2024-03-12 packages/svelte/src/internal/client/transitions.js -> packages/svelte/src/internal/client/dom/elements/transitions.js
+sveltejs__svelte-12373	medium	packages/svelte/src/internal/client/dom/blocks/html.js	NONE
+sveltejs__svelte-12373	medium	sites/svelte-5-preview/src/routes/docs/content/03-appendix/02-breaking-changes.md	NONE
+sveltejs__svelte-12304	hard	packages/svelte/src/compiler/phases/3-transform/utils.js	NONE
+sveltejs__svelte-12047	hard	.changeset/brave-pigs-obey.md	NONE
+sveltejs__svelte-12047	hard	packages/svelte/src/internal/client/reactivity/deriveds.js	NONE
+sveltejs__svelte-12047	hard	packages/svelte/src/internal/client/reactivity/props.js	NONE
+sveltejs__svelte-12047	hard	packages/svelte/src/internal/client/reactivity/sources.js	NONE
+sveltejs__svelte-12047	hard	packages/svelte/src/internal/client/runtime.js	NONE
+sveltejs__svelte-11947	medium	.changeset/breezy-waves-camp.md	NONE
+sveltejs__svelte-11947	medium	packages/svelte/src/compiler/phases/2-analyze/validation.js	NONE
+sveltejs__svelte-11736	medium	.changeset/funny-trees-cry.md	NONE
+sveltejs__svelte-11736	medium	packages/svelte/messages/compile-errors/template.md	NONE
+sveltejs__svelte-11736	medium	packages/svelte/src/compiler/errors.js	NONE
+sveltejs__svelte-11736	medium	packages/svelte/src/compiler/phases/2-analyze/validation.js	NONE
+sveltejs__svelte-11736	medium	packages/svelte/src/compiler/utils/ast.js	NONE
+sveltejs__svelte-11669	medium	.changeset/twelve-beans-drive.md	NONE
+sveltejs__svelte-11669	medium	packages/svelte/src/compiler/utils/extract_svelte_ignore.js	bd51e6f3e 2023-05-28 src/compiler/utils/extract_svelte_ignore.js -> packages/svelte/src/compiler/utils/extract_svelte_ignore.js|d35d9045f 2023-05-19 src/compiler/utils/extract_svelte_ignore.ts -> src/compiler/utils/extract_svelte_ignore.js
+sveltejs__svelte-11652	hard	.changeset/fresh-beds-wash.md	NONE
+sveltejs__svelte-11652	hard	packages/svelte/src/compiler/phases/3-transform/client/visitors/template.js	NONE
+sveltejs__svelte-11632	hard	.changeset/eight-carrots-hunt.md	NONE
+sveltejs__svelte-11632	hard	packages/svelte/messages/compile-errors/script.md	NONE
+sveltejs__svelte-11632	hard	packages/svelte/src/compiler/errors.js	NONE
+sveltejs__svelte-11632	hard	packages/svelte/src/compiler/phases/2-analyze/validation.js	NONE
+sveltejs__svelte-11371	hard	.changeset/blue-lemons-wait.md	NONE
+sveltejs__svelte-11371	hard	packages/svelte/src/internal/client/dom/elements/attributes.js	NONE
+sveltejs__svelte-11344	medium	.changeset/cyan-squids-drive.md	NONE
+sveltejs__svelte-11344	medium	packages/svelte/src/constants.js	NONE
+sveltejs__svelte-11325	hard	.changeset/brown-geckos-fry.md	NONE
+sveltejs__svelte-11325	hard	packages/svelte/messages/compile-warnings/a11y.md	NONE
+sveltejs__svelte-11325	hard	packages/svelte/src/compiler/phases/2-analyze/a11y.js	NONE
+sveltejs__svelte-11325	hard	packages/svelte/src/compiler/warnings.js	NONE
+sveltejs__svelte-10297	medium	.changeset/three-icons-trade.md	NONE
+sveltejs__svelte-10297	medium	packages/svelte/src/internal/server/index.js	NONE
+sveltejs__svelte-10297	medium	packages/svelte/src/main/main-server.js	fe8a9ce31 2023-11-10 packages/svelte/src/runtime/ssr.js -> packages/svelte/src/main/main-server.js|bd51e6f3e 2023-05-28 src/runtime/ssr.js -> packages/svelte/src/runtime/ssr.js|d35d9045f 2023-05-19 src/runtime/ssr.ts -> src/runtime/ssr.js
+sveltejs__svelte-10235	medium	.changeset/hungry-boxes-relate.md	NONE
+sveltejs__svelte-10235	medium	packages/svelte/src/compiler/phases/3-transform/client/visitors/template.js	NONE
+sveltejs__svelte-10187	hard	.changeset/big-cars-serve.md	NONE
+sveltejs__svelte-10187	hard	packages/svelte/src/compiler/phases/3-transform/client/visitors/template.js	NONE
+sveltejs__svelte-10187	hard	packages/svelte/src/compiler/phases/3-transform/server/transform-server.js	NONE
+sveltejs__svelte-9973	hard	.changeset/long-buckets-lay.md	NONE
+sveltejs__svelte-9973	hard	packages/svelte/src/compiler/phases/3-transform/client/visitors/template.js	NONE
+sveltejs__svelte-9973	hard	packages/svelte/src/compiler/phases/3-transform/server/transform-server.js	NONE
+sveltejs__svelte-9973	hard	packages/svelte/src/compiler/utils/builders.js	NONE
+sveltejs__svelte-9973	hard	packages/svelte/src/compiler/utils/sanitize_template_string.js	NONE
+sveltejs__svelte-9838	hard	.changeset/wise-donkeys-marry.md	NONE
+sveltejs__svelte-9838	hard	packages/svelte/src/compiler/errors.js	NONE
+sveltejs__svelte-9838	hard	packages/svelte/src/compiler/phases/2-analyze/validation.js	NONE
+sveltejs__svelte-9838	hard	packages/svelte/src/compiler/phases/3-transform/client/visitors/javascript-runes.js	NONE
+sveltejs__svelte-9838	hard	packages/svelte/src/compiler/phases/3-transform/server/transform-server.js	NONE
+sveltejs__svelte-9838	hard	packages/svelte/src/compiler/phases/3-transform/utils.js	NONE
+sveltejs__svelte-9838	hard	packages/svelte/src/compiler/phases/constants.js	NONE
+sveltejs__svelte-9838	hard	packages/svelte/src/compiler/phases/scope.js	NONE
+sveltejs__svelte-9838	hard	packages/svelte/src/internal/client/runtime.js	NONE
+sveltejs__svelte-9838	hard	packages/svelte/src/internal/server/index.js	NONE
+sveltejs__svelte-9838	hard	packages/svelte/src/main/ambient.d.ts	NONE
+sveltejs__svelte-9838	hard	sites/svelte-5-preview/src/routes/docs/content/01-api/02-runes.md	NONE
+sveltejs__svelte-9784	hard	.changeset/polite-ravens-study.md	NONE
+sveltejs__svelte-9784	hard	packages/svelte/src/compiler/phases/3-transform/client/utils.js	NONE
+sveltejs__svelte-9784	hard	packages/svelte/src/constants.js	NONE
+sveltejs__svelte-9784	hard	packages/svelte/src/internal/client/runtime.js	NONE
+sveltejs__svelte-9723	hard	.changeset/gentle-sheep-hug.md	NONE
+sveltejs__svelte-9723	hard	packages/svelte/src/compiler/errors.js	NONE
+sveltejs__svelte-9723	hard	packages/svelte/src/compiler/phases/1-parse/index.js	NONE
+sveltejs__svelte-9723	hard	packages/svelte/src/compiler/phases/1-parse/read/style.js	NONE
+sveltejs__svelte-9723	hard	packages/svelte/src/compiler/phases/2-analyze/css/Selector.js	fe8a9ce31 2023-11-10 packages/svelte/src/compiler/compile/css/Selector.js -> packages/svelte/src/compiler/phases/2-analyze/css/Selector.js|bd51e6f3e 2023-05-28 src/compiler/compile/css/Selector.js -> packages/svelte/src/compiler/compile/css/Selector.js|d35d9045f 2023-05-19 src/compiler/compile/css/Selector.ts -> src/compiler/compile/css/Selector.js
+sveltejs__svelte-9723	hard	packages/svelte/src/compiler/phases/2-analyze/validation.js	NONE
+sveltejs__svelte-9723	hard	packages/svelte/src/compiler/phases/3-transform/client/visitors/javascript-legacy.js	NONE
+sveltejs__svelte-9723	hard	packages/svelte/src/compiler/phases/3-transform/client/visitors/template.js	NONE
+sveltejs__svelte-9723	hard	packages/svelte/src/compiler/phases/3-transform/server/transform-server.js	NONE
+sveltejs__svelte-9723	hard	packages/svelte/src/compiler/phases/constants.js	NONE
+sveltejs__svelte-9723	hard	packages/svelte/src/compiler/phases/patterns.js	NONE
+sveltejs__svelte-9723	hard	packages/svelte/src/compiler/phases/scope.js	NONE
+sveltejs__svelte-9723	hard	packages/svelte/src/compiler/types/css.d.ts	NONE
+sveltejs__svelte-9723	hard	packages/svelte/src/compiler/types/template.d.ts	NONE
+sveltejs__svelte-9723	hard	packages/svelte/src/compiler/warnings.js	NONE
+sveltejs__svelte-9723	hard	sites/svelte-5-preview/src/routes/docs/content/03-appendix/02-breaking-changes.md	NONE
+sveltejs__svelte-9718	medium	.changeset/flat-melons-protect.md	NONE
+sveltejs__svelte-9718	medium	packages/svelte/src/compiler/phases/2-analyze/index.js	NONE
+sveltejs__svelte-9717	hard	.changeset/ninety-dingos-walk.md	NONE
+sveltejs__svelte-9717	hard	packages/svelte/src/internal/client/runtime.js	NONE
+sveltejs__svelte-9713	medium	.changeset/great-icons-retire.md	NONE
+sveltejs__svelte-9713	medium	packages/svelte/src/compiler/phases/2-analyze/validation.js	NONE
+mui__material-ui-39962	medium	packages/mui-system/src/borders.js	49b3469442 2021-09-06 packages/material-ui-system/src/borders.js -> packages/mui-system/src/borders.js
+mui__material-ui-39962	medium	packages/mui-system/src/styleFunctionSx/defaultSxConfig.js	NONE
+mui__material-ui-39196	medium	docs/data/system/spacing/spacing.md	27f1c282cf 2022-02-04 docs/src/pages/system/spacing/spacing.md -> docs/data/system/spacing/spacing.md
+mui__material-ui-39196	medium	packages/mui-system/src/spacing.js	49b3469442 2021-09-06 packages/material-ui-system/src/spacing.js -> packages/mui-system/src/spacing.js
+mui__material-ui-38916	hard	docs/data/joy/getting-started/templates/framesx-web-blocks/theme.tsx	NONE
+mui__material-ui-38916	hard	docs/data/joy/main-features/color-inversion/ColorInversionAnyParent.js	NONE
+mui__material-ui-38916	hard	docs/data/joy/main-features/color-inversion/ColorInversionAnyParent.tsx	NONE
+mui__material-ui-38916	hard	docs/data/joy/main-features/color-inversion/ColorInversionNavigation.js	NONE
+mui__material-ui-38916	hard	docs/data/joy/main-features/color-inversion/ColorInversionNavigation.tsx	NONE
+mui__material-ui-38916	hard	docs/data/joy/main-features/color-inversion/ColorInversionOverview.js	NONE
+mui__material-ui-38916	hard	docs/data/joy/main-features/color-inversion/ColorInversionOverview.tsx	NONE
+mui__material-ui-38916	hard	docs/data/joy/main-features/color-inversion/ColorInversionSkip.js	NONE
+mui__material-ui-38916	hard	docs/data/joy/main-features/color-inversion/ColorInversionSkip.tsx	NONE
+mui__material-ui-38916	hard	docs/data/joy/main-features/color-inversion/ColorInversionSurface.js	NONE
+mui__material-ui-38916	hard	docs/data/joy/main-features/color-inversion/ColorInversionSurface.tsx	NONE
+mui__material-ui-38916	hard	docs/data/joy/main-features/color-inversion/ColorInversionSurface.tsx.preview	NONE
+mui__material-ui-38916	hard	docs/data/joy/main-features/color-inversion/color-inversion.md	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/AccordionGroup/AccordionGroup.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/Alert/Alert.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/AspectRatio/AspectRatio.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/Autocomplete/Autocomplete.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/AutocompleteListbox/AutocompleteListbox.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/AutocompleteOption/AutocompleteOption.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/Avatar/Avatar.tsx	49b3469442 2021-09-06 packages/material-ui/src/Avatar/Avatar.js -> packages/mui-material/src/Avatar/Avatar.js|3e4854b39b 2018-04-16 src/Avatar/Avatar.js -> packages/material-ui/src/Avatar/Avatar.js|c055cf6bbd 2016-03-22 src/Avatar/Avatar.jsx -> src/Avatar/Avatar.js
+mui__material-ui-38916	hard	packages/mui-joy/src/Badge/Badge.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/Button/Button.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/ButtonGroup/ButtonGroup.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/Card/Card.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/CardOverflow/CardOverflow.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/Checkbox/Checkbox.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/Chip/Chip.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/ChipDelete/ChipDelete.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/CircularProgress/CircularProgress.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/DialogTitle/DialogTitle.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/Drawer/Drawer.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/FormControl/FormControl.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/IconButton/IconButton.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/Input/Input.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/Input/InputProps.ts	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/LinearProgress/LinearProgress.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/Link/Link.tsx	49b3469442 2021-09-06 packages/material-ui/src/Link/Link.js -> packages/mui-material/src/Link/Link.js
+mui__material-ui-38916	hard	packages/mui-joy/src/List/List.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/ListItem/ListItem.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/ListItemButton/ListItemButton.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/ListSubheader/ListSubheader.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/ListSubheader/ListSubheaderProps.ts	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/Menu/Menu.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/MenuButton/MenuButton.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/MenuItem/MenuItem.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/MenuList/MenuList.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/ModalClose/ModalClose.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/ModalDialog/ModalDialog.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/Option/Option.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/Radio/Radio.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/Select/Select.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/Select/SelectProps.ts	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/Sheet/Sheet.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/Slider/Slider.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/SvgIcon/SvgIcon.tsx	49b3469442 2021-09-06 packages/material-ui/src/SvgIcon/SvgIcon.js -> packages/mui-material/src/SvgIcon/SvgIcon.js|3e4854b39b 2018-04-16 src/SvgIcon/SvgIcon.js -> packages/material-ui/src/SvgIcon/SvgIcon.js|c055cf6bbd 2016-03-22 src/SvgIcon/SvgIcon.jsx -> src/SvgIcon/SvgIcon.js
+mui__material-ui-38916	hard	packages/mui-joy/src/Switch/Switch.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/Tab/Tab.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/TabList/TabList.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/TabPanel/TabPanel.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/Table/Table.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/Tabs/Tabs.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/Textarea/Textarea.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/Textarea/TextareaProps.ts	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/Tooltip/Tooltip.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/Typography/Typography.tsx	49b3469442 2021-09-06 packages/material-ui/src/Typography/Typography.js -> packages/mui-material/src/Typography/Typography.js|3e4854b39b 2018-04-16 src/Typography/Typography.js -> packages/material-ui/src/Typography/Typography.js|82af80d05d 2017-04-22 src/Text/Text.js -> src/Typography/Typography.js
+mui__material-ui-38916	hard	packages/mui-joy/src/colorInversion/colorInversionUtils.ts	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/colorInversion/index.ts	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/styles/ColorInversion.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/styles/CssVarsProvider.tsx	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/styles/extendTheme.ts	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/styles/index.ts	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/styles/shouldSkipGeneratingVar.ts	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/styles/types/colorSystem.ts	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/styles/types/theme.ts	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/styles/types/variants.ts	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/styles/variantUtils.ts	NONE
+mui__material-ui-38916	hard	packages/mui-joy/src/utils/useSlot.ts	NONE
+mui__material-ui-38801	medium	docs/data/joy/components/snackbar/CustomAnimatedSnackbar.js	NONE
+mui__material-ui-38801	medium	docs/data/joy/components/snackbar/CustomAnimatedSnackbar.tsx	NONE
+mui__material-ui-38801	medium	docs/data/joy/components/snackbar/PositionedSnackbar.js	NONE
+mui__material-ui-38801	medium	docs/data/joy/components/snackbar/PositionedSnackbar.tsx	NONE
+mui__material-ui-38801	medium	docs/data/joy/components/snackbar/PositionedSnackbar.tsx.preview	NONE
+mui__material-ui-38801	medium	docs/data/joy/components/snackbar/SnackbarCloseReason.js	NONE
+mui__material-ui-38801	medium	docs/data/joy/components/snackbar/SnackbarCloseReason.tsx	NONE
+mui__material-ui-38801	medium	docs/data/joy/components/snackbar/SnackbarColors.js	NONE
+mui__material-ui-38801	medium	docs/data/joy/components/snackbar/SnackbarColors.tsx	NONE
+mui__material-ui-38801	medium	docs/data/joy/components/snackbar/SnackbarHideDuration.js	NONE
+mui__material-ui-38801	medium	docs/data/joy/components/snackbar/SnackbarHideDuration.tsx	NONE
+mui__material-ui-38801	medium	docs/data/joy/components/snackbar/SnackbarInvertedColors.js	NONE
+mui__material-ui-38801	medium	docs/data/joy/components/snackbar/SnackbarInvertedColors.tsx	NONE
+mui__material-ui-38801	medium	docs/data/joy/components/snackbar/SnackbarSizes.js	NONE
+mui__material-ui-38801	medium	docs/data/joy/components/snackbar/SnackbarSizes.tsx	NONE
+mui__material-ui-38801	medium	docs/data/joy/components/snackbar/SnackbarUsage.js	NONE
+mui__material-ui-38801	medium	docs/data/joy/components/snackbar/SnackbarVariants.js	NONE
+mui__material-ui-38801	medium	docs/data/joy/components/snackbar/SnackbarVariants.tsx	NONE
+mui__material-ui-38801	medium	docs/data/joy/components/snackbar/SnackbarWithDecorators.js	NONE
+mui__material-ui-38801	medium	docs/data/joy/components/snackbar/SnackbarWithDecorators.tsx	NONE
+mui__material-ui-38801	medium	docs/data/joy/components/snackbar/snackbar.md	NONE
+mui__material-ui-38801	medium	docs/data/joy/pages.ts	NONE
+mui__material-ui-38801	medium	docs/data/joy/pagesApi.js	NONE
+mui__material-ui-38801	medium	docs/pages/base-ui/api/snackbar.json	a60988d6ef 2023-06-12 docs/pages/base/api/snackbar.json -> docs/pages/base-ui/api/snackbar.json|e5558282a8 2023-04-24 docs/pages/base/api/snackbar-unstyled.json -> docs/pages/base/api/snackbar.json
+mui__material-ui-38801	medium	docs/pages/joy-ui/api/snackbar.js	NONE
+mui__material-ui-38801	medium	docs/pages/joy-ui/api/snackbar.json	NONE
+mui__material-ui-38801	medium	docs/src/modules/components/JoyUsageDemo.tsx	NONE
+mui__material-ui-38801	medium	docs/translations/api-docs-joy/snackbar/snackbar.json	NONE
+mui__material-ui-38801	medium	packages/mui-base/src/Snackbar/Snackbar.tsx	e5558282a8 2023-04-24 packages/mui-base/src/SnackbarUnstyled/SnackbarUnstyled.tsx -> packages/mui-base/src/Snackbar/Snackbar.tsx
+mui__material-ui-38801	medium	packages/mui-joy/src/Snackbar/Snackbar.tsx	NONE
+mui__material-ui-38801	medium	packages/mui-joy/src/Snackbar/SnackbarProps.ts	NONE
+mui__material-ui-38801	medium	packages/mui-joy/src/Snackbar/index.ts	NONE
+mui__material-ui-38801	medium	packages/mui-joy/src/Snackbar/snackbarClasses.ts	NONE
+mui__material-ui-38801	medium	packages/mui-joy/src/index.ts	NONE
+mui__material-ui-38801	medium	packages/mui-joy/src/styles/components.d.ts	1c02cf8e68 2021-12-27 packages/mui-joy/src/styles/types/components.ts -> packages/mui-joy/src/styles/components.d.ts|c82145cbf9 2021-11-30 packages/mui-joy/src/styles/components.d.ts -> packages/mui-joy/src/styles/types/components.ts
+mui__material-ui-38801	medium	packages/mui-joy/src/styles/extendTheme.ts	NONE
+mui__material-ui-38801	medium	packages/mui-joy/src/styles/types/zIndex.ts	NONE
+mui__material-ui-38788	medium	packages/mui-base/src/useAutocomplete/useAutocomplete.js	cba0019bf8 2023-02-21 packages/mui-base/src/AutocompleteUnstyled/useAutocomplete.js -> packages/mui-base/src/useAutocomplete/useAutocomplete.js|21dba852b1 2021-11-09 packages/mui-core/src/AutocompleteUnstyled/useAutocomplete.js -> packages/mui-base/src/AutocompleteUnstyled/useAutocomplete.js|49b3469442 2021-09-06 packages/material-ui-unstyled/src/AutocompleteUnstyled/useAutocomplete.js -> packages/mui-core/src/AutocompleteUnstyled/useAutocomplete.js
+mui__material-ui-36971	hard	docs/data/material/components/autocomplete/GloballyCustomizedOptions.js	NONE
+mui__material-ui-36971	hard	docs/data/material/components/autocomplete/GloballyCustomizedOptions.tsx	NONE
+mui__material-ui-36971	hard	docs/data/material/components/autocomplete/GloballyCustomizedOptions.tsx.preview	NONE
+mui__material-ui-36971	hard	docs/data/material/components/autocomplete/autocomplete.md	27f1c282cf 2022-02-04 docs/src/pages/components/autocomplete/autocomplete.md -> docs/data/material/components/autocomplete/autocomplete.md|1555e52367 2019-05-08 docs/src/pages/demos/autocomplete/autocomplete.md -> docs/src/pages/components/autocomplete/autocomplete.md|d7d69ed10e 2018-10-04 docs/src/pages/demos/autocomplete/autocomplete-en.md -> docs/src/pages/demos/autocomplete/autocomplete.md
+mui__material-ui-36971	hard	docs/translations/api-docs/autocomplete/autocomplete.json	NONE
+mui__material-ui-36971	hard	packages/mui-material/src/Autocomplete/Autocomplete.d.ts	49b3469442 2021-09-06 packages/material-ui/src/Autocomplete/Autocomplete.d.ts -> packages/mui-material/src/Autocomplete/Autocomplete.d.ts
+mui__material-ui-36971	hard	packages/mui-material/src/Autocomplete/Autocomplete.js	49b3469442 2021-09-06 packages/material-ui/src/Autocomplete/Autocomplete.js -> packages/mui-material/src/Autocomplete/Autocomplete.js
+mui__material-ui-36659	medium	packages/mui-base/src/useAutocomplete/useAutocomplete.js	cba0019bf8 2023-02-21 packages/mui-base/src/AutocompleteUnstyled/useAutocomplete.js -> packages/mui-base/src/useAutocomplete/useAutocomplete.js|21dba852b1 2021-11-09 packages/mui-core/src/AutocompleteUnstyled/useAutocomplete.js -> packages/mui-base/src/AutocompleteUnstyled/useAutocomplete.js|49b3469442 2021-09-06 packages/material-ui-unstyled/src/AutocompleteUnstyled/useAutocomplete.js -> packages/mui-core/src/AutocompleteUnstyled/useAutocomplete.js
+mui__material-ui-36399	hard	docs/data/material/components/grid2/grid2.md	NONE
+mui__material-ui-36399	hard	packages/mui-system/src/Unstable_Grid/GridProps.ts	d1d1654deb 2022-07-12 packages/mui-system/src/Grid/GridProps.ts -> packages/mui-system/src/Unstable_Grid/GridProps.ts|49b3469442 2021-09-06 packages/material-ui/src/Grid/Grid.d.ts -> packages/mui-material/src/Grid/Grid.d.ts|3e4854b39b 2018-04-16 src/Grid/Grid.d.ts -> packages/material-ui/src/Grid/Grid.d.ts
+mui__material-ui-36399	hard	packages/mui-system/src/Unstable_Grid/createGrid.tsx	d1d1654deb 2022-07-12 packages/mui-system/src/Grid/createGrid.tsx -> packages/mui-system/src/Unstable_Grid/createGrid.tsx
+mui__material-ui-36399	hard	packages/mui-system/src/Unstable_Grid/gridGenerator.ts	d1d1654deb 2022-07-12 packages/mui-system/src/Grid/gridGenerator.ts -> packages/mui-system/src/Unstable_Grid/gridGenerator.ts
+mui__material-ui-36399	hard	packages/mui-system/src/createStyled.js	49b3469442 2021-09-06 packages/material-ui-system/src/createStyled.js -> packages/mui-system/src/createStyled.js
+mui__material-ui-36024	hard	docs/data/material/components/selects/selects.md	27f1c282cf 2022-02-04 docs/src/pages/components/selects/selects.md -> docs/data/material/components/selects/selects.md|1555e52367 2019-05-08 docs/src/pages/demos/selects/selects.md -> docs/src/pages/components/selects/selects.md|d7d69ed10e 2018-10-04 docs/src/pages/demos/selects/selects-en.md -> docs/src/pages/demos/selects/selects.md
+mui__material-ui-36024	hard	packages/mui-material/src/ListSubheader/ListSubheader.js	49b3469442 2021-09-06 packages/material-ui/src/ListSubheader/ListSubheader.js -> packages/mui-material/src/ListSubheader/ListSubheader.js|f4be182606 2018-05-12 packages/material-ui/src/List/ListSubheader.js -> packages/material-ui/src/ListSubheader/ListSubheader.js|3e4854b39b 2018-04-16 src/List/ListSubheader.js -> packages/material-ui/src/List/ListSubheader.js
+mui__material-ui-36024	hard	packages/mui-material/src/MenuList/MenuList.js	49b3469442 2021-09-06 packages/material-ui/src/MenuList/MenuList.js -> packages/mui-material/src/MenuList/MenuList.js|f4be182606 2018-05-12 packages/material-ui/src/Menu/MenuList.js -> packages/material-ui/src/MenuList/MenuList.js|3e4854b39b 2018-04-16 src/Menu/MenuList.js -> packages/material-ui/src/Menu/MenuList.js
+mui__material-ui-36024	hard	packages/mui-material/src/Select/SelectInput.js	49b3469442 2021-09-06 packages/material-ui/src/Select/SelectInput.js -> packages/mui-material/src/Select/SelectInput.js|3e4854b39b 2018-04-16 src/Select/SelectInput.js -> packages/material-ui/src/Select/SelectInput.js
+mui__material-ui-35838	easy	packages/mui-base/src/ListboxUnstyled/useListbox.ts	NONE
+mui__material-ui-35477	medium	packages/mui-utils/src/resolveProps.ts	NONE
+mui__material-ui-35178	hard	packages/mui-material/src/styles/experimental_extendTheme.js	NONE
+mui__material-ui-35178	hard	packages/mui-system/src/colorManipulator.d.ts	49b3469442 2021-09-06 packages/material-ui-system/src/colorManipulator.d.ts -> packages/mui-system/src/colorManipulator.d.ts|925c984680 2021-06-11 packages/material-ui/src/styles/colorManipulator.d.ts -> packages/material-ui-system/src/colorManipulator.d.ts|3e4854b39b 2018-04-16 src/styles/colorManipulator.d.ts -> packages/material-ui/src/styles/colorManipulator.d.ts
+mui__material-ui-35178	hard	packages/mui-system/src/colorManipulator.js	49b3469442 2021-09-06 packages/material-ui-system/src/colorManipulator.js -> packages/mui-system/src/colorManipulator.js|925c984680 2021-06-11 packages/material-ui/src/styles/colorManipulator.js -> packages/material-ui-system/src/colorManipulator.js|3e4854b39b 2018-04-16 src/styles/colorManipulator.js -> packages/material-ui/src/styles/colorManipulator.js
+mui__material-ui-35047	easy	packages/mui-material/src/Select/SelectInput.js	49b3469442 2021-09-06 packages/material-ui/src/Select/SelectInput.js -> packages/mui-material/src/Select/SelectInput.js|3e4854b39b 2018-04-16 src/Select/SelectInput.js -> packages/material-ui/src/Select/SelectInput.js
+mui__material-ui-34401	hard	.eslintrc.js	NONE
+mui__material-ui-34401	hard	.github/CODEOWNERS	NONE
+mui__material-ui-34401	hard	docs/data/base/components/badge/badge.md	NONE
+mui__material-ui-34401	hard	docs/data/base/components/button/UseButton.js	40be8b4bec 2022-03-12 docs/data/material/components/buttons/UseButton.js -> docs/data/base/components/button/UseButton.js|27f1c282cf 2022-02-04 docs/src/pages/components/buttons/UseButton.js -> docs/data/material/components/buttons/UseButton.js
+mui__material-ui-34401	hard	docs/data/base/components/button/UseButton.tsx	40be8b4bec 2022-03-12 docs/data/material/components/buttons/UseButton.tsx -> docs/data/base/components/button/UseButton.tsx|27f1c282cf 2022-02-04 docs/src/pages/components/buttons/UseButton.tsx -> docs/data/material/components/buttons/UseButton.tsx
+mui__material-ui-34401	hard	docs/data/base/components/button/button.md	NONE
+mui__material-ui-34401	hard	docs/data/base/components/form-control/BasicFormControl.tsx	NONE
+mui__material-ui-34401	hard	docs/data/base/components/form-control/form-control.md	NONE
+mui__material-ui-34401	hard	docs/data/base/components/input/UseInput.js	a91961524b 2022-03-25 docs/data/material/components/text-fields/UseInput.js -> docs/data/base/components/input/UseInput.js|27f1c282cf 2022-02-04 docs/src/pages/components/text-fields/UseInput.js -> docs/data/material/components/text-fields/UseInput.js
+mui__material-ui-34401	hard	docs/data/base/components/input/UseInput.tsx	a91961524b 2022-03-25 docs/data/material/components/text-fields/UseInput.tsx -> docs/data/base/components/input/UseInput.tsx|27f1c282cf 2022-02-04 docs/src/pages/components/text-fields/UseInput.tsx -> docs/data/material/components/text-fields/UseInput.tsx
+mui__material-ui-34401	hard	docs/data/base/components/input/input.md	NONE
+mui__material-ui-34401	hard	docs/data/base/components/menu/UseMenu.js	NONE
+mui__material-ui-34401	hard	docs/data/base/components/menu/UseMenu.tsx	NONE
+mui__material-ui-34401	hard	docs/data/base/components/menu/menu.md	NONE
+mui__material-ui-34401	hard	docs/data/base/components/select/UnstyledSelectCustomRenderValue.js	39056934a5 2022-03-29 docs/data/material/components/selects/UnstyledSelectCustomRenderValue.js -> docs/data/base/components/select/UnstyledSelectCustomRenderValue.js|27f1c282cf 2022-02-04 docs/src/pages/components/selects/UnstyledSelectCustomRenderValue.js -> docs/data/material/components/selects/UnstyledSelectCustomRenderValue.js
+mui__material-ui-34401	hard	docs/data/base/components/select/UnstyledSelectCustomRenderValue.tsx	39056934a5 2022-03-29 docs/data/material/components/selects/UnstyledSelectCustomRenderValue.tsx -> docs/data/base/components/select/UnstyledSelectCustomRenderValue.tsx|27f1c282cf 2022-02-04 docs/src/pages/components/selects/UnstyledSelectCustomRenderValue.tsx -> docs/data/material/components/selects/UnstyledSelectCustomRenderValue.tsx
+mui__material-ui-34401	hard	docs/data/base/components/select/UnstyledSelectObjectValuesForm.js	39056934a5 2022-03-29 docs/data/material/components/selects/UnstyledSelectObjectValues.js -> docs/data/base/components/select/UnstyledSelectObjectValues.js|27f1c282cf 2022-02-04 docs/src/pages/components/selects/UnstyledSelectObjectValues.js -> docs/data/material/components/selects/UnstyledSelectObjectValues.js
+mui__material-ui-34401	hard	docs/data/base/components/select/UnstyledSelectObjectValuesForm.tsx	39056934a5 2022-03-29 docs/data/material/components/selects/UnstyledSelectObjectValues.tsx -> docs/data/base/components/select/UnstyledSelectObjectValues.tsx|27f1c282cf 2022-02-04 docs/src/pages/components/selects/UnstyledSelectObjectValues.tsx -> docs/data/material/components/selects/UnstyledSelectObjectValues.tsx
+mui__material-ui-34401	hard	docs/data/base/components/select/UseSelect.js	39056934a5 2022-03-29 docs/data/material/components/selects/UseSelect.js -> docs/data/base/components/select/UseSelect.js|27f1c282cf 2022-02-04 docs/src/pages/components/selects/UseSelect.js -> docs/data/material/components/selects/UseSelect.js
+mui__material-ui-34401	hard	docs/data/base/components/select/UseSelect.tsx	39056934a5 2022-03-29 docs/data/material/components/selects/UseSelect.tsx -> docs/data/base/components/select/UseSelect.tsx|27f1c282cf 2022-02-04 docs/src/pages/components/selects/UseSelect.tsx -> docs/data/material/components/selects/UseSelect.tsx
+mui__material-ui-34401	hard	docs/data/base/components/select/select.md	NONE
+mui__material-ui-34401	hard	docs/data/base/components/slider/slider.md	NONE
+mui__material-ui-34401	hard	docs/data/base/components/switch/UseSwitchesBasic.js	895bb3f034 2022-03-31 docs/data/material/components/switches/UseSwitchesBasic.js -> docs/data/base/components/switch/UseSwitchesBasic.js|27f1c282cf 2022-02-04 docs/src/pages/components/switches/UseSwitchesBasic.js -> docs/data/material/components/switches/UseSwitchesBasic.js
+mui__material-ui-34401	hard	docs/data/base/components/switch/UseSwitchesBasic.tsx	895bb3f034 2022-03-31 docs/data/material/components/switches/UseSwitchesBasic.tsx -> docs/data/base/components/switch/UseSwitchesBasic.tsx|27f1c282cf 2022-02-04 docs/src/pages/components/switches/UseSwitchesBasic.tsx -> docs/data/material/components/switches/UseSwitchesBasic.tsx
+mui__material-ui-34401	hard	docs/data/base/components/switch/UseSwitchesCustom.js	895bb3f034 2022-03-31 docs/data/material/components/switches/UseSwitchesCustom.js -> docs/data/base/components/switch/UseSwitchesCustom.js|27f1c282cf 2022-02-04 docs/src/pages/components/switches/UseSwitchesCustom.js -> docs/data/material/components/switches/UseSwitchesCustom.js
+mui__material-ui-34401	hard	docs/data/base/components/switch/UseSwitchesCustom.tsx	895bb3f034 2022-03-31 docs/data/material/components/switches/UseSwitchesCustom.tsx -> docs/data/base/components/switch/UseSwitchesCustom.tsx|27f1c282cf 2022-02-04 docs/src/pages/components/switches/UseSwitchesCustom.tsx -> docs/data/material/components/switches/UseSwitchesCustom.tsx
+mui__material-ui-34401	hard	docs/data/base/components/switch/switch.md	NONE
+mui__material-ui-34401	hard	docs/data/base/getting-started/customization/StylingHooks.js	56ca17ec77 2022-05-09 docs/data/material/customization/unstyled-components/StylingHooks.js -> docs/data/base/getting-started/customization/StylingHooks.js|27f1c282cf 2022-02-04 docs/src/pages/customization/unstyled-components/StylingHooks.js -> docs/data/material/customization/unstyled-components/StylingHooks.js|60f2f06828 2021-07-21 docs/src/pages/customization/unstyled-components/stylingHooks.js -> docs/src/pages/customization/unstyled-components/StylingHooks.js
+mui__material-ui-34401	hard	docs/data/base/getting-started/customization/StylingHooks.tsx	56ca17ec77 2022-05-09 docs/data/material/customization/unstyled-components/StylingHooks.tsx -> docs/data/base/getting-started/customization/StylingHooks.tsx|27f1c282cf 2022-02-04 docs/src/pages/customization/unstyled-components/StylingHooks.tsx -> docs/data/material/customization/unstyled-components/StylingHooks.tsx|60f2f06828 2021-07-21 docs/src/pages/customization/unstyled-components/stylingHooks.tsx -> docs/src/pages/customization/unstyled-components/StylingHooks.tsx
+mui__material-ui-34401	hard	docs/data/material/components/autocomplete/CustomizedHook.js	27f1c282cf 2022-02-04 docs/src/pages/components/autocomplete/CustomizedHook.js -> docs/data/material/components/autocomplete/CustomizedHook.js
+mui__material-ui-34401	hard	docs/data/material/components/autocomplete/CustomizedHook.tsx	27f1c282cf 2022-02-04 docs/src/pages/components/autocomplete/CustomizedHook.tsx -> docs/data/material/components/autocomplete/CustomizedHook.tsx
+mui__material-ui-34401	hard	docs/data/material/components/autocomplete/UseAutocomplete.js	27f1c282cf 2022-02-04 docs/src/pages/components/autocomplete/UseAutocomplete.js -> docs/data/material/components/autocomplete/UseAutocomplete.js
+mui__material-ui-34401	hard	docs/data/material/components/autocomplete/UseAutocomplete.tsx	27f1c282cf 2022-02-04 docs/src/pages/components/autocomplete/UseAutocomplete.tsx -> docs/data/material/components/autocomplete/UseAutocomplete.tsx
+mui__material-ui-34401	hard	docs/data/material/components/autocomplete/autocomplete.md	27f1c282cf 2022-02-04 docs/src/pages/components/autocomplete/autocomplete.md -> docs/data/material/components/autocomplete/autocomplete.md|1555e52367 2019-05-08 docs/src/pages/demos/autocomplete/autocomplete.md -> docs/src/pages/components/autocomplete/autocomplete.md|d7d69ed10e 2018-10-04 docs/src/pages/demos/autocomplete/autocomplete-en.md -> docs/src/pages/demos/autocomplete/autocomplete.md
+mui__material-ui-34401	hard	docs/pages/blog/2021-q3-update.md	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/AutocompleteUnstyled/index.js	21dba852b1 2021-11-09 packages/mui-core/src/AutocompleteUnstyled/index.js -> packages/mui-base/src/AutocompleteUnstyled/index.js|49b3469442 2021-09-06 packages/material-ui-unstyled/src/AutocompleteUnstyled/index.js -> packages/mui-core/src/AutocompleteUnstyled/index.js
+mui__material-ui-34401	hard	packages/mui-base/src/BadgeUnstyled/BadgeUnstyled.tsx	f1994bf7f9 2022-05-24 packages/mui-base/src/BadgeUnstyled/BadgeUnstyled.js -> packages/mui-base/src/BadgeUnstyled/BadgeUnstyled.tsx|21dba852b1 2021-11-09 packages/mui-core/src/BadgeUnstyled/BadgeUnstyled.js -> packages/mui-base/src/BadgeUnstyled/BadgeUnstyled.js|49b3469442 2021-09-06 packages/material-ui-unstyled/src/BadgeUnstyled/BadgeUnstyled.js -> packages/mui-core/src/BadgeUnstyled/BadgeUnstyled.js
+mui__material-ui-34401	hard	packages/mui-base/src/BadgeUnstyled/index.ts	f1994bf7f9 2022-05-24 packages/mui-base/src/BadgeUnstyled/index.d.ts -> packages/mui-base/src/BadgeUnstyled/index.ts|21dba852b1 2021-11-09 packages/mui-core/src/BadgeUnstyled/index.d.ts -> packages/mui-base/src/BadgeUnstyled/index.d.ts|49b3469442 2021-09-06 packages/material-ui-unstyled/src/BadgeUnstyled/index.d.ts -> packages/mui-core/src/BadgeUnstyled/index.d.ts
+mui__material-ui-34401	hard	packages/mui-base/src/ButtonUnstyled/ButtonUnstyled.tsx	21dba852b1 2021-11-09 packages/mui-core/src/ButtonUnstyled/ButtonUnstyled.tsx -> packages/mui-base/src/ButtonUnstyled/ButtonUnstyled.tsx|49b3469442 2021-09-06 packages/material-ui-unstyled/src/ButtonUnstyled/ButtonUnstyled.tsx -> packages/mui-core/src/ButtonUnstyled/ButtonUnstyled.tsx
+mui__material-ui-34401	hard	packages/mui-base/src/ButtonUnstyled/ButtonUnstyled.types.ts	d1aada7a8f 2022-02-25 packages/mui-base/src/ButtonUnstyled/ButtonUnstyledProps.ts -> packages/mui-base/src/ButtonUnstyled/ButtonUnstyled.types.ts|21dba852b1 2021-11-09 packages/mui-core/src/ButtonUnstyled/ButtonUnstyledProps.ts -> packages/mui-base/src/ButtonUnstyled/ButtonUnstyledProps.ts|49b3469442 2021-09-06 packages/material-ui-unstyled/src/ButtonUnstyled/ButtonUnstyledProps.ts -> packages/mui-core/src/ButtonUnstyled/ButtonUnstyledProps.ts
+mui__material-ui-34401	hard	packages/mui-base/src/ButtonUnstyled/index.ts	21dba852b1 2021-11-09 packages/mui-core/src/ButtonUnstyled/index.ts -> packages/mui-base/src/ButtonUnstyled/index.ts|49b3469442 2021-09-06 packages/material-ui-unstyled/src/ButtonUnstyled/index.ts -> packages/mui-core/src/ButtonUnstyled/index.ts
+mui__material-ui-34401	hard	packages/mui-base/src/InputUnstyled/InputUnstyled.tsx	21dba852b1 2021-11-09 packages/mui-core/src/InputUnstyled/InputUnstyled.tsx -> packages/mui-base/src/InputUnstyled/InputUnstyled.tsx
+mui__material-ui-34401	hard	packages/mui-base/src/InputUnstyled/InputUnstyled.types.ts	b33d38f58f 2022-05-12 packages/mui-base/src/InputUnstyled/InputUnstyledProps.ts -> packages/mui-base/src/InputUnstyled/InputUnstyled.types.ts|21dba852b1 2021-11-09 packages/mui-core/src/InputUnstyled/InputUnstyledProps.ts -> packages/mui-base/src/InputUnstyled/InputUnstyledProps.ts
+mui__material-ui-34401	hard	packages/mui-base/src/InputUnstyled/index.ts	21dba852b1 2021-11-09 packages/mui-core/src/InputUnstyled/index.ts -> packages/mui-base/src/InputUnstyled/index.ts
+mui__material-ui-34401	hard	packages/mui-base/src/MenuItemUnstyled/MenuItemUnstyled.tsx	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/MenuItemUnstyled/index.tsx	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/MenuUnstyled/MenuUnstyled.tsx	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/MenuUnstyled/MenuUnstyled.types.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/MenuUnstyled/MenuUnstyledContext.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/MenuUnstyled/index.tsx	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/MultiSelectUnstyled/MultiSelectUnstyled.tsx	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/MultiSelectUnstyled/MultiSelectUnstyled.types.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/OptionUnstyled/OptionUnstyled.tsx	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/OptionUnstyled/OptionUnstyled.types.ts	ff54d9da75 2022-05-13 packages/mui-base/src/OptionUnstyled/OptionUnstyledProps.ts -> packages/mui-base/src/OptionUnstyled/OptionUnstyled.types.ts
+mui__material-ui-34401	hard	packages/mui-base/src/SelectUnstyled/SelectUnstyled.tsx	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/SelectUnstyled/SelectUnstyled.types.ts	d1aada7a8f 2022-02-25 packages/mui-base/src/SelectUnstyled/SelectUnstyledProps.ts -> packages/mui-base/src/SelectUnstyled/SelectUnstyled.types.ts
+mui__material-ui-34401	hard	packages/mui-base/src/SelectUnstyled/SelectUnstyledContext.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/SelectUnstyled/index.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/SelectUnstyled/utils.tsx	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/SliderUnstyled/SliderUnstyled.js	21dba852b1 2021-11-09 packages/mui-core/src/SliderUnstyled/SliderUnstyled.js -> packages/mui-base/src/SliderUnstyled/SliderUnstyled.js|49b3469442 2021-09-06 packages/material-ui-unstyled/src/SliderUnstyled/SliderUnstyled.js -> packages/mui-core/src/SliderUnstyled/SliderUnstyled.js|c13deae820 2020-10-29 packages/material-ui-lab/src/SliderUnstyled/SliderUnstyled.js -> packages/material-ui-unstyled/src/SliderUnstyled/SliderUnstyled.js
+mui__material-ui-34401	hard	packages/mui-base/src/SliderUnstyled/SliderUnstyled.types.ts	67f9781f44 2022-05-25 packages/mui-base/src/SliderUnstyled/SliderUnstyledProps.ts -> packages/mui-base/src/SliderUnstyled/SliderUnstyled.types.ts|21dba852b1 2021-11-09 packages/mui-core/src/SliderUnstyled/SliderUnstyled.d.ts -> packages/mui-base/src/SliderUnstyled/SliderUnstyled.d.ts|49b3469442 2021-09-06 packages/material-ui-unstyled/src/SliderUnstyled/SliderUnstyled.d.ts -> packages/mui-core/src/SliderUnstyled/SliderUnstyled.d.ts
+mui__material-ui-34401	hard	packages/mui-base/src/SliderUnstyled/index.d.ts	21dba852b1 2021-11-09 packages/mui-core/src/SliderUnstyled/index.d.ts -> packages/mui-base/src/SliderUnstyled/index.d.ts|49b3469442 2021-09-06 packages/material-ui-unstyled/src/SliderUnstyled/index.d.ts -> packages/mui-core/src/SliderUnstyled/index.d.ts
+mui__material-ui-34401	hard	packages/mui-base/src/SliderUnstyled/index.js	21dba852b1 2021-11-09 packages/mui-core/src/SliderUnstyled/index.js -> packages/mui-base/src/SliderUnstyled/index.js|49b3469442 2021-09-06 packages/material-ui-unstyled/src/SliderUnstyled/index.js -> packages/mui-core/src/SliderUnstyled/index.js
+mui__material-ui-34401	hard	packages/mui-base/src/SwitchUnstyled/SwitchUnstyled.tsx	21dba852b1 2021-11-09 packages/mui-core/src/SwitchUnstyled/SwitchUnstyled.tsx -> packages/mui-base/src/SwitchUnstyled/SwitchUnstyled.tsx|49b3469442 2021-09-06 packages/material-ui-unstyled/src/SwitchUnstyled/SwitchUnstyled.tsx -> packages/mui-core/src/SwitchUnstyled/SwitchUnstyled.tsx
+mui__material-ui-34401	hard	packages/mui-base/src/SwitchUnstyled/SwitchUnstyled.types.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/SwitchUnstyled/index.ts	21dba852b1 2021-11-09 packages/mui-core/src/SwitchUnstyled/index.ts -> packages/mui-base/src/SwitchUnstyled/index.ts|49b3469442 2021-09-06 packages/material-ui-unstyled/src/SwitchUnstyled/index.ts -> packages/mui-core/src/SwitchUnstyled/index.ts
+mui__material-ui-34401	hard	packages/mui-base/src/TabPanelUnstyled/TabPanelUnstyled.tsx	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/TabPanelUnstyled/TabPanelUnstyled.types.ts	ed3e95f802 2022-06-03 packages/mui-base/src/TabPanelUnstyled/TabPanelUnstyledProps.ts -> packages/mui-base/src/TabPanelUnstyled/TabPanelUnstyled.types.ts
+mui__material-ui-34401	hard	packages/mui-base/src/TabPanelUnstyled/index.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/TabUnstyled/TabUnstyled.tsx	21dba852b1 2021-11-09 packages/mui-core/src/ButtonUnstyled/ButtonUnstyled.tsx -> packages/mui-base/src/ButtonUnstyled/ButtonUnstyled.tsx|49b3469442 2021-09-06 packages/material-ui-unstyled/src/ButtonUnstyled/ButtonUnstyled.tsx -> packages/mui-core/src/ButtonUnstyled/ButtonUnstyled.tsx
+mui__material-ui-34401	hard	packages/mui-base/src/TabUnstyled/TabUnstyled.types.ts	dcac5d9451 2022-05-27 packages/mui-base/src/TabUnstyled/TabUnstyledProps.ts -> packages/mui-base/src/TabUnstyled/TabUnstyled.types.ts
+mui__material-ui-34401	hard	packages/mui-base/src/TabUnstyled/index.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/TabsListUnstyled/TabsListUnstyled.tsx	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/TabsListUnstyled/TabsListUnstyled.types.ts	4a855079b0 2022-06-03 packages/mui-base/src/TabsListUnstyled/TabsListUnstyledProps.ts -> packages/mui-base/src/TabsListUnstyled/TabsListUnstyled.types.ts
+mui__material-ui-34401	hard	packages/mui-base/src/TabsListUnstyled/index.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/TabsUnstyled/TabsUnstyled.tsx	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/TabsUnstyled/index.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/index.d.ts	21dba852b1 2021-11-09 packages/mui-core/src/index.d.ts -> packages/mui-base/src/index.d.ts|49b3469442 2021-09-06 packages/material-ui-unstyled/src/index.d.ts -> packages/mui-core/src/index.d.ts
+mui__material-ui-34401	hard	packages/mui-base/src/index.js	21dba852b1 2021-11-09 packages/mui-core/src/index.js -> packages/mui-base/src/index.js|49b3469442 2021-09-06 packages/material-ui-unstyled/src/index.js -> packages/mui-core/src/index.js
+mui__material-ui-34401	hard	packages/mui-base/src/AutocompleteUnstyled/index.d.ts	21dba852b1 2021-11-09 packages/mui-core/src/AutocompleteUnstyled/index.d.ts -> packages/mui-base/src/AutocompleteUnstyled/index.d.ts|49b3469442 2021-09-06 packages/material-ui-unstyled/src/AutocompleteUnstyled/index.d.ts -> packages/mui-core/src/AutocompleteUnstyled/index.d.ts
+mui__material-ui-34401	hard	packages/mui-base/src/useAutocomplete/index.js	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/AutocompleteUnstyled/useAutocomplete.d.ts	21dba852b1 2021-11-09 packages/mui-core/src/AutocompleteUnstyled/useAutocomplete.d.ts -> packages/mui-base/src/AutocompleteUnstyled/useAutocomplete.d.ts|49b3469442 2021-09-06 packages/material-ui-unstyled/src/AutocompleteUnstyled/useAutocomplete.d.ts -> packages/mui-core/src/AutocompleteUnstyled/useAutocomplete.d.ts|35ab090c2d 2021-08-03 packages/material-ui/src/useAutocomplete/useAutocomplete.d.ts -> packages/material-ui-unstyled/src/AutocompleteUnstyled/useAutocomplete.d.ts
+mui__material-ui-34401	hard	packages/mui-base/src/AutocompleteUnstyled/useAutocomplete.js	21dba852b1 2021-11-09 packages/mui-core/src/AutocompleteUnstyled/useAutocomplete.js -> packages/mui-base/src/AutocompleteUnstyled/useAutocomplete.js|49b3469442 2021-09-06 packages/material-ui-unstyled/src/AutocompleteUnstyled/useAutocomplete.js -> packages/mui-core/src/AutocompleteUnstyled/useAutocomplete.js|35ab090c2d 2021-08-03 packages/material-ui/src/useAutocomplete/useAutocomplete.js -> packages/material-ui-unstyled/src/AutocompleteUnstyled/useAutocomplete.js
+mui__material-ui-34401	hard	packages/mui-base/src/useBadge/index.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/BadgeUnstyled/useBadge.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/useButton/index.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/ButtonUnstyled/useButton.ts	21dba852b1 2021-11-09 packages/mui-core/src/ButtonUnstyled/useButton.ts -> packages/mui-base/src/ButtonUnstyled/useButton.ts|49b3469442 2021-09-06 packages/material-ui-unstyled/src/ButtonUnstyled/useButton.ts -> packages/mui-core/src/ButtonUnstyled/useButton.ts
+mui__material-ui-34401	hard	packages/mui-base/src/ButtonUnstyled/useButton.types.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/useInput/index.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/InputUnstyled/useInput.ts	21dba852b1 2021-11-09 packages/mui-core/src/InputUnstyled/useInput.ts -> packages/mui-base/src/InputUnstyled/useInput.ts
+mui__material-ui-34401	hard	packages/mui-base/src/InputUnstyled/useInput.types.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/ListboxUnstyled/defaultListboxReducer.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/ListboxUnstyled/index.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/ListboxUnstyled/useControllableReducer.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/ListboxUnstyled/useListbox.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/ListboxUnstyled/useListbox.types.ts	d1aada7a8f 2022-02-25 packages/mui-base/src/ListboxUnstyled/types.ts -> packages/mui-base/src/ListboxUnstyled/useListbox.types.ts
+mui__material-ui-34401	hard	packages/mui-base/src/useMenu/index.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/MenuUnstyled/useMenu.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/MenuUnstyled/useMenu.types.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/useMenuItem/index.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/MenuItemUnstyled/useMenuItem.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/MenuItemUnstyled/useMenuItem.types.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/SelectUnstyled/defaultOptionStringifier.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/useSelect/index.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/SelectUnstyled/useSelect.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/SelectUnstyled/useSelect.types.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/useSlider/index.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/SliderUnstyled/useSlider.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/SliderUnstyled/useSlider.types.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/useSwitch/index.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/SwitchUnstyled/useSwitch.ts	21dba852b1 2021-11-09 packages/mui-core/src/SwitchUnstyled/useSwitch.ts -> packages/mui-base/src/SwitchUnstyled/useSwitch.ts|49b3469442 2021-09-06 packages/material-ui-unstyled/src/SwitchUnstyled/useSwitch.ts -> packages/mui-core/src/SwitchUnstyled/useSwitch.ts
+mui__material-ui-34401	hard	packages/mui-base/src/SwitchUnstyled/useSwitch.types.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/useTab/index.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/TabUnstyled/useTab.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/TabUnstyled/useTab.types.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/useTabPanel/index.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/TabPanelUnstyled/useTabPanel.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/TabPanelUnstyled/useTabPanel.types.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/useTabs/index.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/TabsUnstyled/useTabs.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/useTabsList/index.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/TabsListUnstyled/useTabsList.ts	NONE
+mui__material-ui-34401	hard	packages/mui-base/src/TabsListUnstyled/useTabsList.types.ts	NONE
+mui__material-ui-34401	hard	packages/mui-joy/src/Button/Button.tsx	NONE
+mui__material-ui-34401	hard	packages/mui-joy/src/Checkbox/Checkbox.tsx	NONE
+mui__material-ui-34401	hard	packages/mui-joy/src/Checkbox/CheckboxProps.ts	NONE
+mui__material-ui-34401	hard	packages/mui-joy/src/IconButton/IconButton.tsx	NONE
+mui__material-ui-34401	hard	packages/mui-joy/src/Input/useForwardedInput.ts	NONE
+mui__material-ui-34401	hard	packages/mui-joy/src/ListItemButton/ListItemButton.tsx	NONE
+mui__material-ui-34401	hard	packages/mui-joy/src/Menu/Menu.tsx	NONE
+mui__material-ui-34401	hard	packages/mui-joy/src/MenuItem/MenuItem.tsx	NONE
+mui__material-ui-34401	hard	packages/mui-joy/src/MenuList/MenuList.tsx	NONE
+mui__material-ui-34401	hard	packages/mui-joy/src/ModalClose/ModalClose.tsx	NONE
+mui__material-ui-34401	hard	packages/mui-joy/src/Option/OptionProps.ts	NONE
+mui__material-ui-34401	hard	packages/mui-joy/src/Radio/Radio.tsx	NONE
+mui__material-ui-34401	hard	packages/mui-joy/src/Radio/RadioProps.ts	NONE
+mui__material-ui-34401	hard	packages/mui-joy/src/Select/Select.tsx	NONE
+mui__material-ui-34401	hard	packages/mui-joy/src/Select/SelectProps.ts	NONE
+mui__material-ui-34401	hard	packages/mui-joy/src/Slider/Slider.tsx	NONE
+mui__material-ui-34401	hard	packages/mui-joy/src/Switch/Switch.tsx	NONE
+mui__material-ui-34401	hard	packages/mui-joy/src/Switch/SwitchProps.ts	NONE
+mui__material-ui-34401	hard	packages/mui-joy/src/Tab/Tab.tsx	NONE
+mui__material-ui-34401	hard	packages/mui-joy/src/TabList/TabList.tsx	NONE
+mui__material-ui-34401	hard	packages/mui-joy/src/TabPanel/TabPanel.tsx	NONE
+mui__material-ui-34401	hard	packages/mui-joy/src/Tabs/Tabs.tsx	NONE
+mui__material-ui-34401	hard	packages/mui-material-next/src/Button/Button.js	NONE
+mui__material-ui-34401	hard	packages/mui-material-next/src/Tab/Tab.js	49b3469442 2021-09-06 packages/material-ui/src/Tab/Tab.js -> packages/mui-material/src/Tab/Tab.js|f4be182606 2018-05-12 packages/material-ui/src/Tabs/Tab.js -> packages/material-ui/src/Tab/Tab.js|3e4854b39b 2018-04-16 src/Tabs/Tab.js -> packages/material-ui/src/Tabs/Tab.js
+mui__material-ui-34401	hard	packages/mui-material-next/src/Tabs/Tabs.js	49b3469442 2021-09-06 packages/material-ui/src/Tabs/Tabs.js -> packages/mui-material/src/Tabs/Tabs.js|3e4854b39b 2018-04-16 src/Tabs/Tabs.js -> packages/material-ui/src/Tabs/Tabs.js|c055cf6bbd 2016-03-22 src/Tabs/Tabs.jsx -> src/Tabs/Tabs.js
+mui__material-ui-34401	hard	packages/mui-material-next/src/Tabs/TabsList.js	NONE
+mui__material-ui-34401	hard	packages/mui-material/src/useAutocomplete/useAutocomplete.d.ts	49b3469442 2021-09-06 packages/material-ui/src/useAutocomplete/useAutocomplete.d.ts -> packages/mui-material/src/useAutocomplete/useAutocomplete.d.ts|4d50a9ed6a 2020-10-01 packages/material-ui-lab/src/useAutocomplete/useAutocomplete.d.ts -> packages/material-ui/src/useAutocomplete/useAutocomplete.d.ts
+mui__material-ui-34401	hard	packages/mui-material/src/useAutocomplete/useAutocomplete.js	49b3469442 2021-09-06 packages/material-ui/src/useAutocomplete/useAutocomplete.js -> packages/mui-material/src/useAutocomplete/useAutocomplete.js|4d50a9ed6a 2020-10-01 packages/material-ui-lab/src/useAutocomplete/useAutocomplete.js -> packages/material-ui/src/useAutocomplete/useAutocomplete.js
+mui__material-ui-34245	medium	packages/mui-material/src/Fab/Fab.js	49b3469442 2021-09-06 packages/material-ui/src/Fab/Fab.js -> packages/mui-material/src/Fab/Fab.js
+mui__material-ui-34229	medium	packages/mui-material/src/Select/SelectInput.js	49b3469442 2021-09-06 packages/material-ui/src/Select/SelectInput.js -> packages/mui-material/src/Select/SelectInput.js|3e4854b39b 2018-04-16 src/Select/SelectInput.js -> packages/material-ui/src/Select/SelectInput.js
+mui__material-ui-34159	easy	packages/mui-material/src/ListItemButton/ListItemButton.js	49b3469442 2021-09-06 packages/material-ui/src/ListItemButton/ListItemButton.js -> packages/mui-material/src/ListItemButton/ListItemButton.js
+mui__material-ui-34158	hard	docs/data/base/components/select/UnstyledSelectControlled.js	39056934a5 2022-03-29 docs/data/material/components/selects/UnstyledSelectControlled.js -> docs/data/base/components/select/UnstyledSelectControlled.js|27f1c282cf 2022-02-04 docs/src/pages/components/selects/UnstyledSelectControlled.js -> docs/data/material/components/selects/UnstyledSelectControlled.js
+mui__material-ui-34158	hard	docs/data/base/components/select/UnstyledSelectControlled.tsx	39056934a5 2022-03-29 docs/data/material/components/selects/UnstyledSelectControlled.tsx -> docs/data/base/components/select/UnstyledSelectControlled.tsx|27f1c282cf 2022-02-04 docs/src/pages/components/selects/UnstyledSelectControlled.tsx -> docs/data/material/components/selects/UnstyledSelectControlled.tsx
+mui__material-ui-34158	hard	docs/data/base/components/select/UnstyledSelectControlled.tsx.preview	39056934a5 2022-03-29 docs/data/material/components/selects/UnstyledSelectControlled.tsx.preview -> docs/data/base/components/select/UnstyledSelectControlled.tsx.preview|27f1c282cf 2022-02-04 docs/src/pages/components/selects/UnstyledSelectControlled.tsx.preview -> docs/data/material/components/selects/UnstyledSelectControlled.tsx.preview
+mui__material-ui-34158	hard	docs/data/base/components/select/UnstyledSelectObjectValues.js	39056934a5 2022-03-29 docs/data/material/components/selects/UnstyledSelectObjectValues.js -> docs/data/base/components/select/UnstyledSelectObjectValues.js|27f1c282cf 2022-02-04 docs/src/pages/components/selects/UnstyledSelectObjectValues.js -> docs/data/material/components/selects/UnstyledSelectObjectValues.js
+mui__material-ui-34158	hard	docs/data/base/components/select/UnstyledSelectObjectValues.tsx	39056934a5 2022-03-29 docs/data/material/components/selects/UnstyledSelectObjectValues.tsx -> docs/data/base/components/select/UnstyledSelectObjectValues.tsx|27f1c282cf 2022-02-04 docs/src/pages/components/selects/UnstyledSelectObjectValues.tsx -> docs/data/material/components/selects/UnstyledSelectObjectValues.tsx
+mui__material-ui-34158	hard	docs/data/base/components/select/UnstyledSelectObjectValues.tsx.preview	39056934a5 2022-03-29 docs/data/material/components/selects/UnstyledSelectObjectValues.tsx.preview -> docs/data/base/components/select/UnstyledSelectObjectValues.tsx.preview|27f1c282cf 2022-02-04 docs/src/pages/components/selects/UnstyledSelectObjectValues.tsx.preview -> docs/data/material/components/selects/UnstyledSelectObjectValues.tsx.preview
+mui__material-ui-34158	hard	docs/data/base/components/select/UnstyledSelectObjectValuesForm.js	39056934a5 2022-03-29 docs/data/material/components/selects/UnstyledSelectObjectValues.js -> docs/data/base/components/select/UnstyledSelectObjectValues.js|27f1c282cf 2022-02-04 docs/src/pages/components/selects/UnstyledSelectObjectValues.js -> docs/data/material/components/selects/UnstyledSelectObjectValues.js
+mui__material-ui-34158	hard	docs/data/base/components/select/UnstyledSelectObjectValuesForm.tsx	39056934a5 2022-03-29 docs/data/material/components/selects/UnstyledSelectObjectValues.tsx -> docs/data/base/components/select/UnstyledSelectObjectValues.tsx|27f1c282cf 2022-02-04 docs/src/pages/components/selects/UnstyledSelectObjectValues.tsx -> docs/data/material/components/selects/UnstyledSelectObjectValues.tsx
+mui__material-ui-34158	hard	docs/data/joy/components/select/SelectClearable.js	NONE
+mui__material-ui-34158	hard	docs/data/joy/components/select/SelectFieldDemo.js	NONE
+mui__material-ui-34158	hard	docs/data/joy/components/select/SelectUsage.js	NONE
+mui__material-ui-34158	hard	packages/mui-base/src/ListboxUnstyled/useControllableReducer.ts	NONE
+mui__material-ui-34158	hard	packages/mui-base/src/ListboxUnstyled/useListbox.ts	NONE
+mui__material-ui-34158	hard	packages/mui-base/src/ListboxUnstyled/useListbox.types.ts	d1aada7a8f 2022-02-25 packages/mui-base/src/ListboxUnstyled/types.ts -> packages/mui-base/src/ListboxUnstyled/useListbox.types.ts
+mui__material-ui-34158	hard	packages/mui-base/src/MultiSelectUnstyled/MultiSelectUnstyled.types.ts	NONE
+mui__material-ui-34158	hard	packages/mui-base/src/SelectUnstyled/SelectUnstyled.types.ts	d1aada7a8f 2022-02-25 packages/mui-base/src/SelectUnstyled/SelectUnstyledProps.ts -> packages/mui-base/src/SelectUnstyled/SelectUnstyled.types.ts
+mui__material-ui-34158	hard	packages/mui-base/src/SelectUnstyled/useSelect.ts	NONE
+mui__material-ui-34158	hard	packages/mui-base/src/SelectUnstyled/useSelect.types.ts	NONE
+mui__material-ui-34158	hard	packages/mui-joy/src/Select/SelectProps.ts	NONE
+mui__material-ui-33863	hard	docs/pages/material-ui/api/tab-scroll-button.json	a82d7fb048 2022-02-28 docs/pages/material/api/tab-scroll-button.json -> docs/pages/material-ui/api/tab-scroll-button.json
+mui__material-ui-33863	hard	docs/pages/material-ui/api/tabs.json	a82d7fb048 2022-02-28 docs/pages/material/api/tabs.json -> docs/pages/material-ui/api/tabs.json
+mui__material-ui-33863	hard	docs/translations/api-docs/tab-scroll-button/tab-scroll-button.json	NONE
+mui__material-ui-33863	hard	docs/translations/api-docs/tabs/tabs.json	NONE
+mui__material-ui-33863	hard	packages/mui-material/src/TabScrollButton/TabScrollButton.d.ts	49b3469442 2021-09-06 packages/material-ui/src/TabScrollButton/TabScrollButton.d.ts -> packages/mui-material/src/TabScrollButton/TabScrollButton.d.ts
+mui__material-ui-33863	hard	packages/mui-material/src/TabScrollButton/TabScrollButton.js	49b3469442 2021-09-06 packages/material-ui/src/TabScrollButton/TabScrollButton.js -> packages/mui-material/src/TabScrollButton/TabScrollButton.js|4a02ece1a5 2020-04-27 packages/material-ui/src/Tabs/TabScrollButton.js -> packages/material-ui/src/TabScrollButton/TabScrollButton.js|3e4854b39b 2018-04-16 src/Tabs/TabScrollButton.js -> packages/material-ui/src/Tabs/TabScrollButton.js
+mui__material-ui-33863	hard	packages/mui-material/src/Tabs/Tabs.d.ts	49b3469442 2021-09-06 packages/material-ui/src/Tabs/Tabs.d.ts -> packages/mui-material/src/Tabs/Tabs.d.ts|3e4854b39b 2018-04-16 src/Tabs/Tabs.d.ts -> packages/material-ui/src/Tabs/Tabs.d.ts
+mui__material-ui-33863	hard	packages/mui-material/src/Tabs/Tabs.js	49b3469442 2021-09-06 packages/material-ui/src/Tabs/Tabs.js -> packages/mui-material/src/Tabs/Tabs.js|3e4854b39b 2018-04-16 src/Tabs/Tabs.js -> packages/material-ui/src/Tabs/Tabs.js|c055cf6bbd 2016-03-22 src/Tabs/Tabs.jsx -> src/Tabs/Tabs.js
+mui__material-ui-33812	hard	docs/pages/material-ui/api/breadcrumbs.json	a82d7fb048 2022-02-28 docs/pages/material/api/breadcrumbs.json -> docs/pages/material-ui/api/breadcrumbs.json
+mui__material-ui-33812	hard	docs/translations/api-docs/breadcrumbs/breadcrumbs.json	NONE
+mui__material-ui-33812	hard	packages/mui-material/src/Breadcrumbs/BreadcrumbCollapsed.js	49b3469442 2021-09-06 packages/material-ui/src/Breadcrumbs/BreadcrumbCollapsed.js -> packages/mui-material/src/Breadcrumbs/BreadcrumbCollapsed.js|0a1c7b516f 2019-02-06 packages/material-ui-lab/src/Breadcrumbs/BreadcrumbCollapsed.js -> packages/material-ui/src/Breadcrumbs/BreadcrumbCollapsed.js
+mui__material-ui-33812	hard	packages/mui-material/src/Breadcrumbs/Breadcrumbs.d.ts	49b3469442 2021-09-06 packages/material-ui/src/Breadcrumbs/Breadcrumbs.d.ts -> packages/mui-material/src/Breadcrumbs/Breadcrumbs.d.ts|0a1c7b516f 2019-02-06 packages/material-ui-lab/src/Breadcrumbs/Breadcrumbs.d.ts -> packages/material-ui/src/Breadcrumbs/Breadcrumbs.d.ts
+mui__material-ui-33812	hard	packages/mui-material/src/Breadcrumbs/Breadcrumbs.js	49b3469442 2021-09-06 packages/material-ui/src/Breadcrumbs/Breadcrumbs.js -> packages/mui-material/src/Breadcrumbs/Breadcrumbs.js|0a1c7b516f 2019-02-06 packages/material-ui-lab/src/Breadcrumbs/Breadcrumbs.js -> packages/material-ui/src/Breadcrumbs/Breadcrumbs.js
+mui__material-ui-33582	hard	docs/pages/material-ui/api/alert.json	a82d7fb048 2022-02-28 docs/pages/material/api/alert.json -> docs/pages/material-ui/api/alert.json
+mui__material-ui-33582	hard	docs/translations/api-docs/alert/alert.json	NONE
+mui__material-ui-33582	hard	packages/mui-material/src/Alert/Alert.d.ts	49b3469442 2021-09-06 packages/material-ui/src/Alert/Alert.d.ts -> packages/mui-material/src/Alert/Alert.d.ts
+mui__material-ui-33582	hard	packages/mui-material/src/Alert/Alert.js	49b3469442 2021-09-06 packages/material-ui/src/Alert/Alert.js -> packages/mui-material/src/Alert/Alert.js
+mui__material-ui-32987	medium	packages/mui-material/src/Dialog/Dialog.js	49b3469442 2021-09-06 packages/material-ui/src/Dialog/Dialog.js -> packages/mui-material/src/Dialog/Dialog.js|3e4854b39b 2018-04-16 src/Dialog/Dialog.js -> packages/material-ui/src/Dialog/Dialog.js|c055cf6bbd 2016-03-22 src/Dialog/Dialog.jsx -> src/Dialog/Dialog.js
+mui__material-ui-32185	medium	packages/mui-base/src/BadgeUnstyled/BadgeUnstyled.js	21dba852b1 2021-11-09 packages/mui-core/src/BadgeUnstyled/BadgeUnstyled.js -> packages/mui-base/src/BadgeUnstyled/BadgeUnstyled.js|49b3469442 2021-09-06 packages/material-ui-unstyled/src/BadgeUnstyled/BadgeUnstyled.js -> packages/mui-core/src/BadgeUnstyled/BadgeUnstyled.js
+mui__material-ui-32185	medium	packages/mui-base/src/BadgeUnstyled/badgeUnstyledClasses.ts	21dba852b1 2021-11-09 packages/mui-core/src/BadgeUnstyled/badgeUnstyledClasses.ts -> packages/mui-base/src/BadgeUnstyled/badgeUnstyledClasses.ts|49b3469442 2021-09-06 packages/material-ui-unstyled/src/BadgeUnstyled/badgeUnstyledClasses.ts -> packages/mui-core/src/BadgeUnstyled/badgeUnstyledClasses.ts
+mui__material-ui-32185	medium	packages/mui-base/src/BadgeUnstyled/index.js	21dba852b1 2021-11-09 packages/mui-core/src/BadgeUnstyled/index.js -> packages/mui-base/src/BadgeUnstyled/index.js|49b3469442 2021-09-06 packages/material-ui-unstyled/src/BadgeUnstyled/index.js -> packages/mui-core/src/BadgeUnstyled/index.js
+mui__material-ui-32185	medium	packages/mui-material/src/Badge/Badge.js	49b3469442 2021-09-06 packages/material-ui/src/Badge/Badge.js -> packages/mui-material/src/Badge/Badge.js|3e4854b39b 2018-04-16 src/Badge/Badge.js -> packages/material-ui/src/Badge/Badge.js|c055cf6bbd 2016-03-22 src/Badge/Badge.jsx -> src/Badge/Badge.js
+mui__material-ui-32182	medium	packages/mui-material/src/Link/Link.js	49b3469442 2021-09-06 packages/material-ui/src/Link/Link.js -> packages/mui-material/src/Link/Link.js
+mui__material-ui-30899	easy	packages/mui-base/src/BadgeUnstyled/BadgeUnstyled.js	21dba852b1 2021-11-09 packages/mui-core/src/BadgeUnstyled/BadgeUnstyled.js -> packages/mui-base/src/BadgeUnstyled/BadgeUnstyled.js|49b3469442 2021-09-06 packages/material-ui-unstyled/src/BadgeUnstyled/BadgeUnstyled.js -> packages/mui-core/src/BadgeUnstyled/BadgeUnstyled.js
+mui__material-ui-30899	easy	packages/mui-base/src/BadgeUnstyled/BadgeUnstyledProps.ts	21dba852b1 2021-11-09 packages/mui-core/src/BadgeUnstyled/BadgeUnstyled.d.ts -> packages/mui-base/src/BadgeUnstyled/BadgeUnstyled.d.ts|49b3469442 2021-09-06 packages/material-ui-unstyled/src/BadgeUnstyled/BadgeUnstyled.d.ts -> packages/mui-core/src/BadgeUnstyled/BadgeUnstyled.d.ts|3e4854b39b 2018-04-16 src/Badge/Badge.d.ts -> packages/material-ui/src/Badge/Badge.d.ts
+mui__material-ui-30899	easy	packages/mui-base/src/BadgeUnstyled/useBadge.ts	NONE
+mui__material-ui-30899	easy	packages/mui-material/src/Badge/Badge.js	49b3469442 2021-09-06 packages/material-ui/src/Badge/Badge.js -> packages/mui-material/src/Badge/Badge.js|3e4854b39b 2018-04-16 src/Badge/Badge.js -> packages/material-ui/src/Badge/Badge.js|c055cf6bbd 2016-03-22 src/Badge/Badge.jsx -> src/Badge/Badge.js
+mui__material-ui-30788	medium	packages/mui-material/src/Select/Select.js	49b3469442 2021-09-06 packages/material-ui/src/Select/Select.js -> packages/mui-material/src/Select/Select.js|3e4854b39b 2018-04-16 src/Select/Select.js -> packages/material-ui/src/Select/Select.js
+mui__material-ui-30333	medium	packages/mui-material/src/Grid/Grid.js	49b3469442 2021-09-06 packages/material-ui/src/Grid/Grid.js -> packages/mui-material/src/Grid/Grid.js|3e4854b39b 2018-04-16 src/Grid/Grid.js -> packages/material-ui/src/Grid/Grid.js|7782818657 2017-05-05 src/Layout/Layout.js -> src/Grid/Grid.js
+mui__material-ui-29901	hard	docs/scripts/buildApi.ts	54e2adbbc9 2020-08-05 docs/scripts/buildApi.js -> docs/scripts/buildApi.ts
+mui__material-ui-29901	hard	packages/mui-base/src/generateUtilityClass/ClassNameGenerator.ts	21dba852b1 2021-11-09 packages/mui-core/src/generateUtilityClass/ClassNameGenerator.ts -> packages/mui-base/src/generateUtilityClass/ClassNameGenerator.ts
+mui__material-ui-29901	hard	packages/mui-base/src/generateUtilityClass/ClassNameGenerator.tsx	NONE
+mui__material-ui-29901	hard	packages/mui-base/src/generateUtilityClass/generateUtilityClass.ts	21dba852b1 2021-11-09 packages/mui-core/src/generateUtilityClass/generateUtilityClass.ts -> packages/mui-base/src/generateUtilityClass/generateUtilityClass.ts|49b3469442 2021-09-06 packages/material-ui-unstyled/src/generateUtilityClass/generateUtilityClass.ts -> packages/mui-core/src/generateUtilityClass/generateUtilityClass.ts|0194bb27ba 2021-04-15 packages/material-ui-unstyled/src/generateUtilityClass/generateUtilityClass.js -> packages/material-ui-unstyled/src/generateUtilityClass/generateUtilityClass.ts
+mui__material-ui-29901	hard	packages/mui-base/src/index.d.ts	21dba852b1 2021-11-09 packages/mui-core/src/index.d.ts -> packages/mui-base/src/index.d.ts|49b3469442 2021-09-06 packages/material-ui-unstyled/src/index.d.ts -> packages/mui-core/src/index.d.ts
+mui__material-ui-29901	hard	packages/mui-base/src/index.js	21dba852b1 2021-11-09 packages/mui-core/src/index.js -> packages/mui-base/src/index.js|49b3469442 2021-09-06 packages/material-ui-unstyled/src/index.js -> packages/mui-core/src/index.js
+mui__material-ui-29901	hard	packages/mui-material/src/ListItem/ListItem.js	49b3469442 2021-09-06 packages/material-ui/src/ListItem/ListItem.js -> packages/mui-material/src/ListItem/ListItem.js|f4be182606 2018-05-12 packages/material-ui/src/List/ListItem.js -> packages/material-ui/src/ListItem/ListItem.js|3e4854b39b 2018-04-16 src/List/ListItem.js -> packages/material-ui/src/List/ListItem.js
+mui__material-ui-29901	hard	packages/mui-material/src/ListItem/listItemClasses.ts	49b3469442 2021-09-06 packages/material-ui/src/ListItem/listItemClasses.ts -> packages/mui-material/src/ListItem/listItemClasses.ts
+mui__material-ui-29901	hard	packages/mui-material/src/ListItemButton/ListItemButton.js	49b3469442 2021-09-06 packages/material-ui/src/ListItemButton/ListItemButton.js -> packages/mui-material/src/ListItemButton/ListItemButton.js
+mui__material-ui-29901	hard	packages/mui-material/src/ListItemButton/listItemButtonClasses.ts	49b3469442 2021-09-06 packages/material-ui/src/ListItemButton/listItemButtonClasses.ts -> packages/mui-material/src/ListItemButton/listItemButtonClasses.ts
+mui__material-ui-29901	hard	packages/mui-material/src/utils/index.d.ts	49b3469442 2021-09-06 packages/material-ui/src/utils/index.d.ts -> packages/mui-material/src/utils/index.d.ts
+mui__material-ui-29901	hard	packages/mui-material/src/utils/index.js	49b3469442 2021-09-06 packages/material-ui/src/utils/index.js -> packages/mui-material/src/utils/index.js
+mui__material-ui-29880	medium	packages/mui-material/src/Grid/Grid.js	49b3469442 2021-09-06 packages/material-ui/src/Grid/Grid.js -> packages/mui-material/src/Grid/Grid.js|3e4854b39b 2018-04-16 src/Grid/Grid.js -> packages/material-ui/src/Grid/Grid.js|7782818657 2017-05-05 src/Layout/Layout.js -> src/Grid/Grid.js
+mui__material-ui-26186	hard	docs/pages/api-docs/native-select.json	NONE
+mui__material-ui-26186	hard	docs/pages/api-docs/select.json	NONE
+mui__material-ui-26186	hard	docs/src/pages/guides/migration-v4/migration-v4.md	NONE
+mui__material-ui-26186	hard	docs/translations/api-docs/native-select/native-select.json	NONE
+mui__material-ui-26186	hard	docs/translations/api-docs/select/select.json	NONE
+mui__material-ui-26186	hard	packages/material-ui/src/NativeSelect/NativeSelect.d.ts	NONE
+mui__material-ui-26186	hard	packages/material-ui/src/NativeSelect/NativeSelect.js	3e4854b39b 2018-04-16 src/Select/Select.js -> packages/material-ui/src/Select/Select.js
+mui__material-ui-26186	hard	packages/material-ui/src/NativeSelect/NativeSelectInput.js	NONE
+mui__material-ui-26186	hard	packages/material-ui/src/NativeSelect/nativeSelectClasses.js	NONE
+mui__material-ui-26186	hard	packages/material-ui/src/Select/Select.d.ts	3e4854b39b 2018-04-16 src/Select/Select.d.ts -> packages/material-ui/src/Select/Select.d.ts
+mui__material-ui-26186	hard	packages/material-ui/src/Select/Select.js	3e4854b39b 2018-04-16 src/Select/Select.js -> packages/material-ui/src/Select/Select.js
+mui__material-ui-26186	hard	packages/material-ui/src/Select/SelectInput.js	3e4854b39b 2018-04-16 src/Select/SelectInput.js -> packages/material-ui/src/Select/SelectInput.js
+mui__material-ui-26186	hard	packages/material-ui/src/Select/selectClasses.js	NONE
+mui__material-ui-26186	hard	packages/material-ui/src/TablePagination/TablePagination.js	f4be182606 2018-05-12 packages/material-ui/src/Table/TablePagination.js -> packages/material-ui/src/TablePagination/TablePagination.js|3e4854b39b 2018-04-16 src/Table/TablePagination.js -> packages/material-ui/src/Table/TablePagination.js
+mui__material-ui-26173	medium	docs/pages/api-docs/autocomplete.json	NONE
+mui__material-ui-26173	medium	docs/src/pages/components/autocomplete/Asynchronous.js	NONE
+mui__material-ui-26173	medium	docs/src/pages/components/autocomplete/Asynchronous.tsx	NONE
+mui__material-ui-26173	medium	docs/src/pages/guides/migration-v4/migration-v4.md	NONE
+mui__material-ui-26173	medium	docs/translations/api-docs/autocomplete/autocomplete.json	NONE
+mui__material-ui-26173	medium	packages/material-ui/src/Autocomplete/Autocomplete.js	NONE
+mui__material-ui-26173	medium	packages/material-ui/src/useAutocomplete/useAutocomplete.d.ts	4d50a9ed6a 2020-10-01 packages/material-ui-lab/src/useAutocomplete/useAutocomplete.d.ts -> packages/material-ui/src/useAutocomplete/useAutocomplete.d.ts
+mui__material-ui-26173	medium	packages/material-ui/src/useAutocomplete/useAutocomplete.js	4d50a9ed6a 2020-10-01 packages/material-ui-lab/src/useAutocomplete/useAutocomplete.js -> packages/material-ui/src/useAutocomplete/useAutocomplete.js
+mui__material-ui-25825	medium	packages/material-ui/src/styles/colorManipulator.js	3e4854b39b 2018-04-16 src/styles/colorManipulator.js -> packages/material-ui/src/styles/colorManipulator.js|cf0934dda2 2016-06-20 src/utils/colorManipulator.js -> src/styles/colorManipulator.js|6b7b5c66ca 2016-03-13 src/utils/color-manipulator.js -> src/utils/colorManipulator.js
+mui__material-ui-25637	easy	packages/material-ui-styles/src/getStylesCreator/getStylesCreator.js	bdb4baa668 2019-03-13 packages/material-ui-styles/src/getStylesCreator.js -> packages/material-ui-styles/src/getStylesCreator/getStylesCreator.js|3e4854b39b 2018-04-16 src/styles/getStylesCreator.js -> packages/material-ui/src/styles/getStylesCreator.js
+mui__material-ui-25431	easy	docs/pages/api-docs/snackbar.json	NONE
+mui__material-ui-25431	easy	docs/src/modules/utils/generatePropTypeDescription.ts	NONE
+mui__material-ui-25431	easy	packages/material-ui/src/Snackbar/Snackbar.js	3e4854b39b 2018-04-16 src/Snackbar/Snackbar.js -> packages/material-ui/src/Snackbar/Snackbar.js|c055cf6bbd 2016-03-22 src/Snackbar/Snackbar.jsx -> src/Snackbar/Snackbar.js|01018f199d 2016-03-20 src/snackbar.jsx -> src/Snackbar/Snackbar.jsx
+mui__material-ui-25431	easy	packages/typescript-to-proptypes/src/generator.ts	cfa329aa91 2020-06-18 src/generator.ts -> packages/typescript-to-proptypes/src/generator.ts
+mui__material-ui-25259	medium	packages/material-ui/src/SpeedDial/SpeedDial.js	fca1061644 2018-02-18 packages/lab/src/SpeedDial/SpeedDial.js -> packages/material-ui-lab/src/SpeedDial/SpeedDial.js
+mui__material-ui-25259	medium	packages/material-ui/src/SpeedDialAction/SpeedDialAction.js	fca1061644 2018-02-18 packages/lab/src/SpeedDialAction/SpeedDialAction.js -> packages/material-ui-lab/src/SpeedDialAction/SpeedDialAction.js
+mui__material-ui-24794	medium	docs/src/pages/guides/migration-v4/migration-v4.md	NONE
+mui__material-ui-24794	medium	docs/src/pages/system/grid/Gap.js	NONE
+mui__material-ui-24794	medium	docs/src/pages/system/grid/Gap.tsx	NONE
+mui__material-ui-24794	medium	docs/src/pages/system/grid/GridAutoColumns.js	NONE
+mui__material-ui-24794	medium	docs/src/pages/system/grid/GridAutoColumns.tsx	NONE
+mui__material-ui-24794	medium	docs/src/pages/system/grid/GridAutoFlow.js	NONE
+mui__material-ui-24794	medium	docs/src/pages/system/grid/GridAutoFlow.tsx	NONE
+mui__material-ui-24794	medium	docs/src/pages/system/grid/GridAutoRows.js	NONE
+mui__material-ui-24794	medium	docs/src/pages/system/grid/GridAutoRows.tsx	NONE
+mui__material-ui-24794	medium	docs/src/pages/system/grid/GridTemplateAreas.js	NONE
+mui__material-ui-24794	medium	docs/src/pages/system/grid/GridTemplateAreas.tsx	NONE
+mui__material-ui-24794	medium	docs/src/pages/system/grid/RowAndColumnGap.js	NONE
+mui__material-ui-24794	medium	docs/src/pages/system/grid/RowAndColumnGap.tsx	NONE
+mui__material-ui-24794	medium	docs/src/pages/system/grid/grid.md	NONE
+mui__material-ui-24794	medium	packages/material-ui-system/src/borders.js	NONE
+mui__material-ui-24794	medium	packages/material-ui-system/src/grid.js	NONE
+mui__material-ui-24202	easy	docs/pages/api-docs/autocomplete.json	NONE
+mui__material-ui-24202	easy	packages/material-ui/src/Autocomplete/Autocomplete.js	NONE
+mui__material-ui-23487	medium	docs/src/pages/components/autocomplete/autocomplete.md	1555e52367 2019-05-08 docs/src/pages/demos/autocomplete/autocomplete.md -> docs/src/pages/components/autocomplete/autocomplete.md|d7d69ed10e 2018-10-04 docs/src/pages/demos/autocomplete/autocomplete-en.md -> docs/src/pages/demos/autocomplete/autocomplete.md|be342b9617 2018-10-04 docs/src/pages/demos/autocomplete/autocomplete.md -> docs/src/pages/demos/autocomplete/autocomplete-en.md
+mui__material-ui-23487	medium	packages/material-ui/src/SwipeableDrawer/SwipeableDrawer.js	3e4854b39b 2018-04-16 src/SwipeableDrawer/SwipeableDrawer.js -> packages/material-ui/src/SwipeableDrawer/SwipeableDrawer.js
+mui__material-ui-23487	medium	packages/material-ui/src/useAutocomplete/useAutocomplete.js	4d50a9ed6a 2020-10-01 packages/material-ui-lab/src/useAutocomplete/useAutocomplete.js -> packages/material-ui/src/useAutocomplete/useAutocomplete.js
+mui__material-ui-23073	hard	packages/material-ui/src/MenuItem/MenuItem.js	f4be182606 2018-05-12 packages/material-ui/src/Menu/MenuItem.js -> packages/material-ui/src/MenuItem/MenuItem.js|3e4854b39b 2018-04-16 src/Menu/MenuItem.js -> packages/material-ui/src/Menu/MenuItem.js
+mui__material-ui-23073	hard	packages/material-ui/src/MenuList/MenuList.js	f4be182606 2018-05-12 packages/material-ui/src/Menu/MenuList.js -> packages/material-ui/src/MenuList/MenuList.js|3e4854b39b 2018-04-16 src/Menu/MenuList.js -> packages/material-ui/src/Menu/MenuList.js
+mui__material-ui-23073	hard	packages/material-ui/src/MenuList/MenuListContext.js	NONE
