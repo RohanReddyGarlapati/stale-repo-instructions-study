@@ -163,3 +163,18 @@ stale-repo-instructions-study/
 
 Checked 2026-10-06: the [Multi-SWE-bench repository](https://github.com/multi-swe-bench/multi-swe-bench) states Apache-2.0, includes TypeScript and JavaScript, documents Docker setup and public dataset files; its separate [environment repository](https://github.com/multi-swe-bench/multi-swe-bench-env) states MIT. These facts do not establish that every task’s upstream repository or artifact permits redistribution, nor that a particular task environment will build successfully. Recheck licenses and setup for selected instances before using or publishing them.
 
+
+## Amendment 1.1 (2026-10-07, before screening)
+
+Made after the 30-run feasibility pilot and before any screening or confirmatory run.
+
+1. **Agent and model fixed:** Claude Code 2.1.292 with claude-sonnet-5-5; the instruction file is CLAUDE.md. Full settings are in SETUP_NOTES.md.
+2. **Scope narrowed to one staleness category:** stale file paths derived from real renames in repository history. In every case the stale path does not exist at the base commit.
+3. **Relevance rule added:** a task is eligible only if the renamed file holds at least half of the changed source lines in the reference fix (manifests/relevance.tsv). The pilot showed that otherwise the instruction file can be irrelevant to the task.
+4. **Environment rule tightened:** the reference fix must pass in three of three independent validations, to exclude tasks with unreliable tests.
+5. **Two analysis sets:** the pilot suggests tasks are often always solved or never solved. Effort and behaviour do not require intermediate difficulty, so:
+   - the effort set is every eligible task, used for H2 and for stale-following;
+   - the success set is the subset solved in 1 or 2 of 3 no-guidance screening runs, used for H1.
+6. **H2 primary measure:** number of tool calls per run. Turns, wall time and estimated cost are secondary.
+7. **Size:** all eligible tasks (expected about 28) x 3 conditions x 4 repeats. The 15-task fallback remains.
+8. **Pilot record:** of five pilot tasks, one had an invalid environment and one fails the relevance rule; all five are excluded from screening and confirmation.
