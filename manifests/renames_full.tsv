@@ -1,0 +1,717 @@
+vuejs__core-11899	NA	packages/compiler-sfc/src/style/pluginScoped.ts	b2c874e3b 2023-04-05 packages/compiler-sfc/src/stylePluginScoped.ts -> packages/compiler-sfc/src/style/pluginScoped.ts
+vuejs__core-11854	NA	packages/compiler-sfc/src/style/pluginScoped.ts	b2c874e3b 2023-04-05 packages/compiler-sfc/src/stylePluginScoped.ts -> packages/compiler-sfc/src/style/pluginScoped.ts
+vuejs__core-11813	NA	packages/reactivity/src/effect.ts	471899af8 2019-06-11 packages/observer/src/effect.ts -> packages/reactivity/src/effect.ts
+vuejs__core-11761	NA	packages/reactivity/src/arrayInstrumentations.ts	NONE
+vuejs__core-11761	NA	packages/reactivity/src/baseHandlers.ts	471899af8 2019-06-11 packages/observer/src/baseHandlers.ts -> packages/reactivity/src/baseHandlers.ts
+vuejs__core-11694	NA	packages/reactivity/src/baseHandlers.ts	471899af8 2019-06-11 packages/observer/src/baseHandlers.ts -> packages/reactivity/src/baseHandlers.ts
+vuejs__core-11694	NA	packages/reactivity/src/dep.ts	979a84194 2021-07-07 packages/reactivity/src/Dep.ts -> packages/reactivity/src/dep.ts
+vuejs__core-11680	NA	packages/compiler-sfc/src/script/resolveType.ts	NONE
+vuejs__core-11625	NA	packages/runtime-core/src/apiWatch.ts	07403c9ab 2019-06-07 packages/runtime-core/src/reactivity.ts -> packages/runtime-core/src/apiWatch.ts
+vuejs__core-11515	NA	packages/compiler-ssr/src/transforms/ssrTransformTransitionGroup.ts	NONE
+vuejs__core-11502	NA	packages/runtime-core/src/apiInject.ts	NONE
+vuejs__core-11491	NA	packages/runtime-core/src/helpers/renderSlot.ts	NONE
+vuejs__core-11491	NA	packages/runtime-core/src/index.ts	e05673f4d 2018-10-26 packages/core/src/index.ts -> packages/runtime-core/src/index.ts
+vuejs__core-11491	NA	packages/server-renderer/src/helpers/ssrRenderSlot.ts	bc8f91d18 2020-02-06 packages/server-renderer/src/helpers/renderSlot.ts -> packages/server-renderer/src/helpers/ssrRenderSlot.ts
+vuejs__core-11338	NA	packages/runtime-core/src/componentSlots.ts	NONE
+vuejs__core-11201	NA	packages/shared/src/toDisplayString.ts	NONE
+vuejs__core-11165	NA	packages/runtime-dom/src/patchProp.ts	b3f8b5ae0 2019-05-26 packages/runtime-dom/src/patchData.ts -> packages/runtime-dom/src/patchProp.ts|e05673f4d 2018-10-26 packages/renderer-dom/src/patchData.ts -> packages/runtime-dom/src/patchData.ts|d1bc6ee8d 2018-09-19 packages/runtime-dom/src/patchData.ts -> packages/renderer-dom/src/patchData.ts
+vuejs__core-11026	NA	packages/compiler-sfc/src/script/resolveType.ts	NONE
+vuejs__core-10989	NA	packages/runtime-core/src/renderer.ts	90b9884eb 2019-11-02 packages/runtime-core/src/createRenderer.ts -> packages/runtime-core/src/renderer.ts|e05673f4d 2018-10-26 packages/core/src/createRenderer.ts -> packages/runtime-core/src/createRenderer.ts
+vuejs__core-10939	NA	packages/compiler-core/src/transforms/vFor.ts	93440bba9 2019-09-21 packages/compiler-core/src/directives/vFor.ts -> packages/compiler-core/src/transforms/vFor.ts
+vuejs__core-10891	NA	packages/compiler-core/src/transforms/hoistStatic.ts	NONE
+vuejs__core-10891	NA	packages/compiler-core/src/transforms/transformElement.ts	dcf476436 2019-09-23 packages/compiler-core/src/transforms/element.ts -> packages/compiler-core/src/transforms/transformElement.ts
+vuejs__core-10874	NA	packages/compiler-sfc/src/script/resolveType.ts	NONE
+vuejs__core-10869	NA	packages/shared/src/general.ts	NONE
+vuejs__core-10522	NA	packages/compiler-sfc/src/style/pluginScoped.ts	b2c874e3b 2023-04-05 packages/compiler-sfc/src/stylePluginScoped.ts -> packages/compiler-sfc/src/style/pluginScoped.ts
+vuejs__core-10416	NA	packages/runtime-dom/src/modules/props.ts	e05673f4d 2018-10-26 packages/renderer-dom/src/modules/props.ts -> packages/runtime-dom/src/modules/props.ts|d1bc6ee8d 2018-09-19 packages/runtime-dom/src/modules/props.ts -> packages/renderer-dom/src/modules/props.ts
+vuejs__core-10325	NA	packages/runtime-core/src/hydration.ts	NONE
+vuejs__core-10289	NA	packages/reactivity/src/reactive.ts	caba6d5c9 2019-08-16 packages/reactivity/src/state.ts -> packages/reactivity/src/reactive.ts|471899af8 2019-06-11 packages/observer/src/state.ts -> packages/reactivity/src/state.ts
+vuejs__core-10250	NA	packages/runtime-core/src/component.ts	e05673f4d 2018-10-26 packages/core/src/component.ts -> packages/runtime-core/src/component.ts
+vuejs__core-10250	NA	packages/runtime-core/src/hydration.ts	NONE
+vuejs__core-10250	NA	packages/runtime-dom/src/helpers/useCssVars.ts	NONE
+vuejs__core-10218	NA	packages/compiler-core/src/transforms/transformSlotOutlet.ts	ea4a352ee 2019-10-05 packages/compiler-core/src/transforms/transfromSlotOutlet.ts -> packages/compiler-core/src/transforms/transformSlotOutlet.ts
+vuejs__core-10161	NA	packages/runtime-dom/src/directives/vShow.ts	NONE
+vuejs__core-10161	NA	packages/runtime-dom/src/modules/style.ts	e05673f4d 2018-10-26 packages/renderer-dom/src/modules/style.ts -> packages/runtime-dom/src/modules/style.ts|d1bc6ee8d 2018-09-19 packages/runtime-dom/src/modules/style.ts -> packages/renderer-dom/src/modules/style.ts
+vuejs__core-10141	NA	packages/runtime-core/src/hydration.ts	NONE
+vuejs__core-10101	NA	packages/reactivity/src/computed.ts	471899af8 2019-06-11 packages/observer/src/computed.ts -> packages/reactivity/src/computed.ts
+vuejs__core-10101	NA	packages/reactivity/src/constants.ts	NONE
+vuejs__core-10101	NA	packages/reactivity/src/effect.ts	471899af8 2019-06-11 packages/observer/src/effect.ts -> packages/reactivity/src/effect.ts
+vuejs__core-10027	NA	packages/runtime-core/src/scheduler.ts	NONE
+vuejs__core-10004	NA	packages/runtime-core/src/hydration.ts	NONE
+vuejs__core-9751	NA	packages/reactivity/src/baseHandlers.ts	471899af8 2019-06-11 packages/observer/src/baseHandlers.ts -> packages/reactivity/src/baseHandlers.ts
+vuejs__core-9572	NA	packages/runtime-core/src/apiWatch.ts	07403c9ab 2019-06-07 packages/runtime-core/src/reactivity.ts -> packages/runtime-core/src/apiWatch.ts
+vuejs__core-9532	NA	packages/runtime-core/src/hydration.ts	NONE
+vuejs__core-9507	NA	packages/compiler-sfc/src/script/defineEmits.ts	NONE
+vuejs__core-9507	NA	packages/compiler-sfc/src/script/defineProps.ts	NONE
+vuejs__core-9492	NA	packages/compiler-core/src/transforms/transformExpression.ts	dcf476436 2019-09-23 packages/compiler-core/src/transforms/expression.ts -> packages/compiler-core/src/transforms/transformExpression.ts
+vuejs__core-9442	NA	packages/compiler-ssr/src/transforms/ssrVModel.ts	NONE
+vuejs__core-9213	NA	packages/runtime-core/src/helpers/renderSlot.ts	NONE
+vuejs__core-9213	NA	packages/runtime-core/src/renderer.ts	90b9884eb 2019-11-02 packages/runtime-core/src/createRenderer.ts -> packages/runtime-core/src/renderer.ts|e05673f4d 2018-10-26 packages/core/src/createRenderer.ts -> packages/runtime-core/src/createRenderer.ts
+vuejs__core-9213	NA	packages/runtime-core/src/vnode.ts	28a0c5035 2019-05-28 packages/runtime-core/src/h.ts -> packages/runtime-core/src/vnode.ts|e05673f4d 2018-10-26 packages/core/src/h.ts -> packages/runtime-core/src/h.ts
+vuejs__core-8911	NA	packages/compiler-sfc/src/script/utils.ts	NONE
+vuejs__core-8824	NA	packages/compiler-sfc/src/script/utils.ts	NONE
+vuejs__core-8824	NA	packages/compiler-sfc/src/style/cssVars.ts	b2c874e3b 2023-04-05 packages/compiler-sfc/src/cssVars.ts -> packages/compiler-sfc/src/style/cssVars.ts|41bb7fa33 2020-11-16 packages/compiler-sfc/src/genCssVars.ts -> packages/compiler-sfc/src/cssVars.ts
+vuejs__core-8785	NA	packages/compiler-core/src/transforms/transformElement.ts	dcf476436 2019-09-23 packages/compiler-core/src/transforms/element.ts -> packages/compiler-core/src/transforms/transformElement.ts
+vuejs__core-8538	NA	packages/compiler-sfc/src/script/importUsageCheck.ts	NONE
+vuejs__core-8511	NA	packages/compiler-sfc/src/script/resolveType.ts	NONE
+vuejs__core-8470	NA	packages/compiler-sfc/src/script/resolveType.ts	NONE
+vuejs__core-8381	NA	packages/compiler-core/src/babelUtils.ts	NONE
+vuejs__core-8365	NA	packages/compiler-sfc/src/script/resolveType.ts	NONE
+iamkun__dayjs-2532	NA	src/index.js	NONE
+iamkun__dayjs-2420	NA	src/plugin/timezone/index.js	NONE
+iamkun__dayjs-2399	NA	src/index.js	NONE
+iamkun__dayjs-2377	NA	src/plugin/duration/index.js	NONE
+iamkun__dayjs-2369	NA	src/plugin/duration/index.js	NONE
+iamkun__dayjs-2367	NA	src/plugin/duration/index.js	NONE
+iamkun__dayjs-2231	NA	src/index.js	NONE
+iamkun__dayjs-2175	NA	src/plugin/objectSupport/index.js	NONE
+iamkun__dayjs-1964	NA	src/locale/ar-ly.js	NONE
+iamkun__dayjs-1964	NA	src/locale/mr.js	NONE
+iamkun__dayjs-1964	NA	src/locale/sl.js	NONE
+iamkun__dayjs-1953	NA	src/index.js	NONE
+iamkun__dayjs-1725	NA	src/locale/ku.js	NONE
+iamkun__dayjs-1611	NA	src/plugin/duration/index.js	NONE
+iamkun__dayjs-1567	NA	src/plugin/customParseFormat/index.js	NONE
+iamkun__dayjs-1502	NA	src/locale/bg.js	NONE
+iamkun__dayjs-1470	NA	src/index.js	NONE
+iamkun__dayjs-1321	NA	src/plugin/customParseFormat/index.js	NONE
+iamkun__dayjs-1319	NA	src/plugin/weekYear/index.js	NONE
+iamkun__dayjs-1307	NA	src/constant.js	NONE
+iamkun__dayjs-1295	NA	src/constant.js	NONE
+iamkun__dayjs-1209	NA	src/plugin/customParseFormat/index.js	NONE
+iamkun__dayjs-1202	NA	src/constant.js	NONE
+iamkun__dayjs-1202	NA	src/plugin/duration/index.js	NONE
+iamkun__dayjs-1202	NA	types/plugin/duration.d.ts	NONE
+iamkun__dayjs-1201	NA	src/plugin/utc/index.js	NONE
+iamkun__dayjs-1161	NA	src/plugin/timezone/index.js	NONE
+iamkun__dayjs-1161	NA	types/plugin/timezone.d.ts	NONE
+iamkun__dayjs-1160	NA	src/plugin/timezone/index.js	NONE
+iamkun__dayjs-1160	NA	types/plugin/timezone.d.ts	NONE
+iamkun__dayjs-1112	NA	src/locale/hu.js	NONE
+iamkun__dayjs-1023	NA	src/utils.js	NONE
+iamkun__dayjs-1019	NA	src/plugin/localeData/index.js	NONE
+iamkun__dayjs-1010	NA	src/constant.js	NONE
+iamkun__dayjs-1010	NA	src/index.js	NONE
+iamkun__dayjs-1008	NA	src/plugin/duration/index.js	NONE
+iamkun__dayjs-973	NA	src/plugin/utc/index.js	NONE
+iamkun__dayjs-973	NA	types/plugin/utc.d.ts	NONE
+iamkun__dayjs-957	NA	src/index.js	NONE
+iamkun__dayjs-950	NA	src/plugin/duration/index.js	NONE
+iamkun__dayjs-938	NA	src/plugin/localeData/index.js	NONE
+iamkun__dayjs-918	NA	src/plugin/customParseFormat/index.js	NONE
+iamkun__dayjs-889	NA	src/plugin/duration/index.js	NONE
+iamkun__dayjs-882	NA	src/index.js	NONE
+iamkun__dayjs-882	NA	src/plugin/customParseFormat/index.js	NONE
+iamkun__dayjs-882	NA	src/plugin/utc/index.js	NONE
+iamkun__dayjs-873	NA	src/plugin/customParseFormat/index.js	NONE
+iamkun__dayjs-872	NA	src/index.js	NONE
+iamkun__dayjs-872	NA	src/plugin/utc/index.js	NONE
+iamkun__dayjs-867	NA	src/plugin/duration/index.js	NONE
+iamkun__dayjs-858	NA	.gitignore	NONE
+iamkun__dayjs-858	NA	src/plugin/duration/index.js	NONE
+iamkun__dayjs-858	NA	types/plugin/duration.d.ts	NONE
+iamkun__dayjs-745	NA	src/locale/sv.js	NONE
+iamkun__dayjs-734	NA	src/plugin/localeData/index.js	NONE
+iamkun__dayjs-668	NA	src/index.js	NONE
+iamkun__dayjs-668	NA	src/plugin/utc/index.js	NONE
+iamkun__dayjs-668	NA	types/plugin/utc.d.ts	NONE
+iamkun__dayjs-658	NA	src/plugin/weekOfYear/index.js	NONE
+iamkun__dayjs-602	NA	src/index.js	NONE
+iamkun__dayjs-602	NA	src/plugin/localeData/index.js	NONE
+iamkun__dayjs-591	NA	src/plugin/quarterOfYear/index.js	NONE
+iamkun__dayjs-589	NA	src/plugin/quarterOfYear/index.js	NONE
+iamkun__dayjs-556	NA	src/plugin/advancedFormat/index.js	43b4aa6 2018-05-25 src/plugin/advancedFormat.js -> src/plugin/advancedFormat/index.js|fcc607a 2018-05-09 plugins/advancedFormat.js -> src/plugin/advancedFormat.js
+iamkun__dayjs-556	NA	src/plugin/buddhistEra/index.js	NONE
+iamkun__dayjs-337	NA	docs/en/API-reference.md	c7e03c3 2018-05-02 ReadMe.md -> README.md
+iamkun__dayjs-337	NA	src/index.js	NONE
+axios__axios-5919	NA	lib/adapters/adapters.js	NONE
+axios__axios-5919	NA	lib/defaults/index.js	170588f3 2022-03-07 lib/defaults.js -> lib/defaults/index.js
+axios__axios-5661	NA	lib/utils.js	NONE
+axios__axios-5085	NA	index.d.ts	63ee3573 2016-11-10 axios.d.ts -> index.d.ts
+axios__axios-5085	NA	lib/core/AxiosHeaders.js	NONE
+darkreader__darkreader-7241	NA	src/generators/utils/parse.ts	NONE
+darkreader__darkreader-6747	NA	src/generators/dynamic-theme.ts	NONE
+darkreader__darkreader-6747	NA	src/generators/utils/parse.ts	NONE
+anuraghazra__github-readme-stats-2228	NA	src/cards/wakatime-card.js	NONE
+anuraghazra__github-readme-stats-1378	NA	src/cards/repo-card.js	67b434d 2020-08-02 src/renderRepoCard.js -> src/cards/repo-card.js
+anuraghazra__github-readme-stats-1378	NA	src/common/utils.js	67b434d 2020-08-02 src/utils.js -> src/common/utils.js|45941f6 2020-07-11 utils.js -> src/utils.js
+anuraghazra__github-readme-stats-1370	NA	src/cards/repo-card.js	67b434d 2020-08-02 src/renderRepoCard.js -> src/cards/repo-card.js
+anuraghazra__github-readme-stats-1370	NA	src/common/utils.js	67b434d 2020-08-02 src/utils.js -> src/common/utils.js|45941f6 2020-07-11 utils.js -> src/utils.js
+anuraghazra__github-readme-stats-1314	NA	src/cards/repo-card.js	67b434d 2020-08-02 src/renderRepoCard.js -> src/cards/repo-card.js
+anuraghazra__github-readme-stats-1314	NA	src/cards/top-languages-card.js	67b434d 2020-08-02 src/renderTopLanguages.js -> src/cards/top-languages-card.js
+anuraghazra__github-readme-stats-1314	NA	src/common/utils.js	67b434d 2020-08-02 src/utils.js -> src/common/utils.js|45941f6 2020-07-11 utils.js -> src/utils.js
+anuraghazra__github-readme-stats-1041	NA	src/cards/wakatime-card.js	NONE
+anuraghazra__github-readme-stats-721	NA	readme.md	NONE
+anuraghazra__github-readme-stats-721	NA	src/cards/stats-card.js	67b434d 2020-08-02 src/renderStatsCard.js -> src/cards/stats-card.js
+anuraghazra__github-readme-stats-721	NA	src/common/utils.js	67b434d 2020-08-02 src/utils.js -> src/common/utils.js|45941f6 2020-07-11 utils.js -> src/utils.js
+anuraghazra__github-readme-stats-148	NA	api/index.js	NONE
+anuraghazra__github-readme-stats-148	NA	readme.md	NONE
+anuraghazra__github-readme-stats-148	NA	src/fetchStats.js	NONE
+anuraghazra__github-readme-stats-99	NA	src/fetchRepo.js	NONE
+anuraghazra__github-readme-stats-99	NA	src/renderRepoCard.js	NONE
+anuraghazra__github-readme-stats-88	NA	api/index.js	NONE
+anuraghazra__github-readme-stats-88	NA	readme.md	NONE
+anuraghazra__github-readme-stats-88	NA	src/renderStatsCard.js	NONE
+expressjs__express-5555	NA	History.md	NONE
+expressjs__express-5555	NA	lib/response.js	NONE
+expressjs__express-3870	NA	lib/application.js	d0585bd9 2011-10-07 lib/proto.js -> lib/application.js
+expressjs__express-3695	NA	lib/router/layer.js	NONE
+expressjs__express-3495	NA	History.md	NONE
+expressjs__express-3495	NA	lib/request.js	NONE
+Kong__insomnia-7734	NA	packages/insomnia/src/utils/importers/importers/openapi-3.ts	5b2707cb7 2022-11-23 packages/insomnia-importers/src/importers/openapi-3.ts -> packages/insomnia/src/utils/importers/importers/openapi-3.ts
+sveltejs__svelte-15115	NA	.changeset/strong-shoes-whisper.md	NONE
+sveltejs__svelte-15115	NA	packages/svelte/src/compiler/phases/2-analyze/visitors/CallExpression.js	NONE
+sveltejs__svelte-15083	NA	.changeset/pink-wolves-search.md	NONE
+sveltejs__svelte-15083	NA	packages/svelte/src/utils.js	4e8d1c8c5 2024-07-11 packages/svelte/src/compiler/phases/2-analyze/utils.js -> packages/svelte/src/utils.js
+sveltejs__svelte-15057	NA	.changeset/dirty-sloths-move.md	NONE
+sveltejs__svelte-15057	NA	packages/svelte/src/internal/client/dom/elements/attributes.js	NONE
+sveltejs__svelte-15020	NA	.changeset/violet-apes-punch.md	NONE
+sveltejs__svelte-15020	NA	packages/svelte/src/compiler/phases/1-parse/read/expression.js	fe8a9ce31 2023-11-10 packages/svelte/src/compiler/parse/read/expression.js -> packages/svelte/src/compiler/phases/1-parse/read/expression.js|bd51e6f3e 2023-05-28 src/compiler/parse/read/expression.js -> packages/svelte/src/compiler/parse/read/expression.js|d35d9045f 2023-05-19 src/compiler/parse/read/expression.ts -> src/compiler/parse/read/expression.js
+sveltejs__svelte-15020	NA	packages/svelte/src/compiler/phases/2-analyze/visitors/BindDirective.js	NONE
+sveltejs__svelte-15013	NA	.changeset/sour-pots-wonder.md	NONE
+sveltejs__svelte-15013	NA	packages/svelte/src/internal/client/dom/elements/bindings/media.js	eb40417c3 2024-03-12 packages/svelte/src/internal/client/dom/bindings/media.js -> packages/svelte/src/internal/client/dom/elements/bindings/media.js
+sveltejs__svelte-14942	NA	.changeset/gold-olives-care.md	NONE
+sveltejs__svelte-14942	NA	packages/svelte/src/transition/index.js	fe8a9ce31 2023-11-10 packages/svelte/src/runtime/transition/index.js -> packages/svelte/src/transition/index.js|bd51e6f3e 2023-05-28 src/runtime/transition/index.js -> packages/svelte/src/runtime/transition/index.js|d35d9045f 2023-05-19 src/runtime/transition/index.ts -> src/runtime/transition/index.js
+sveltejs__svelte-14937	NA	.changeset/cold-cups-act.md	NONE
+sveltejs__svelte-14937	NA	packages/svelte/src/motion/tweened.js	fe8a9ce31 2023-11-10 packages/svelte/src/runtime/motion/tweened.js -> packages/svelte/src/motion/tweened.js|bd51e6f3e 2023-05-28 src/runtime/motion/tweened.js -> packages/svelte/src/runtime/motion/tweened.js|d35d9045f 2023-05-19 src/runtime/motion/tweened.ts -> src/runtime/motion/tweened.js
+sveltejs__svelte-14935	NA	.changeset/quiet-planets-carry.md	NONE
+sveltejs__svelte-14935	NA	packages/svelte/src/utils.js	4e8d1c8c5 2024-07-11 packages/svelte/src/compiler/phases/2-analyze/utils.js -> packages/svelte/src/utils.js
+sveltejs__svelte-14907	NA	.changeset/happy-candles-clean.md	NONE
+sveltejs__svelte-14907	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/RegularElement.js	NONE
+sveltejs__svelte-14699	NA	.changeset/cold-cows-enjoy.md	NONE
+sveltejs__svelte-14699	NA	packages/svelte/src/reactivity/media-query.js	NONE
+sveltejs__svelte-14677	NA	.changeset/olive-pillows-fetch.md	NONE
+sveltejs__svelte-14677	NA	packages/svelte/src/compiler/phases/3-transform/css/index.js	NONE
+sveltejs__svelte-14640	NA	.changeset/silent-tips-cover.md	NONE
+sveltejs__svelte-14640	NA	packages/svelte/src/internal/client/dom/elements/attributes.js	NONE
+sveltejs__svelte-14626	NA	.changeset/green-pandas-study.md	NONE
+sveltejs__svelte-14626	NA	packages/svelte/src/compiler/phases/2-analyze/visitors/BindDirective.js	NONE
+sveltejs__svelte-14620	NA	.changeset/four-carrots-burn.md	NONE
+sveltejs__svelte-14620	NA	packages/svelte/src/compiler/phases/2-analyze/index.js	NONE
+sveltejs__svelte-14607	NA	.changeset/stupid-buckets-drum.md	NONE
+sveltejs__svelte-14607	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/ClassBody.js	NONE
+sveltejs__svelte-14597	NA	.changeset/rare-cheetahs-laugh.md	NONE
+sveltejs__svelte-14597	NA	packages/svelte/src/internal/client/dom/blocks/if.js	NONE
+sveltejs__svelte-14577	NA	.changeset/red-worms-suffer.md	NONE
+sveltejs__svelte-14577	NA	packages/svelte/src/compiler/phases/3-transform/css/index.js	NONE
+sveltejs__svelte-14575	NA	.changeset/little-berries-worry.md	NONE
+sveltejs__svelte-14575	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/shared/component.js	NONE
+sveltejs__svelte-14575	NA	packages/svelte/src/compiler/phases/3-transform/server/visitors/shared/component.js	NONE
+sveltejs__svelte-14562	NA	.changeset/cool-clocks-film.md	NONE
+sveltejs__svelte-14562	NA	packages/svelte/src/internal/client/dom/elements/attributes.js	NONE
+sveltejs__svelte-14546	NA	.changeset/itchy-cooks-yawn.md	NONE
+sveltejs__svelte-14546	NA	packages/svelte/src/internal/client/dom/elements/attributes.js	NONE
+sveltejs__svelte-14494	NA	.changeset/popular-dogs-exist.md	NONE
+sveltejs__svelte-14494	NA	packages/svelte/src/compiler/phases/2-analyze/css/css-prune.js	cec3540ac 2024-02-15 packages/svelte/src/compiler/css/Selector.js -> packages/svelte/src/compiler/phases/2-analyze/css/css-prune.js|302c379e0 2024-02-14 packages/svelte/src/compiler/phases/2-analyze/css/Selector.js -> packages/svelte/src/compiler/css/Selector.js|fe8a9ce31 2023-11-10 packages/svelte/src/compiler/compile/css/Selector.js -> packages/svelte/src/compiler/phases/2-analyze/css/Selector.js
+sveltejs__svelte-14468	NA	.changeset/brave-keys-rescue.md	NONE
+sveltejs__svelte-14468	NA	packages/svelte/src/compiler/phases/2-analyze/visitors/ExpressionTag.js	NONE
+sveltejs__svelte-14468	NA	packages/svelte/src/compiler/phases/2-analyze/visitors/Text.js	NONE
+sveltejs__svelte-14448	NA	.changeset/big-hats-wonder.md	NONE
+sveltejs__svelte-14448	NA	packages/svelte/src/compiler/phases/3-transform/css/index.js	NONE
+sveltejs__svelte-14440	NA	.changeset/breezy-insects-live.md	NONE
+sveltejs__svelte-14440	NA	packages/svelte/src/internal/client/dom/blocks/await.js	NONE
+sveltejs__svelte-14378	NA	.changeset/tiny-trainers-sleep.md	NONE
+sveltejs__svelte-14378	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/AssignmentExpression.js	NONE
+sveltejs__svelte-14349	NA	.changeset/wicked-grapes-flash.md	NONE
+sveltejs__svelte-14349	NA	packages/svelte/src/internal/client/dom/elements/bindings/input.js	eb40417c3 2024-03-12 packages/svelte/src/internal/client/dom/bindings/input.js -> packages/svelte/src/internal/client/dom/elements/bindings/input.js
+sveltejs__svelte-14317	NA	.changeset/rotten-turkeys-sniff.md	NONE
+sveltejs__svelte-14317	NA	packages/svelte/src/compiler/phases/2-analyze/visitors/Attribute.js	NONE
+sveltejs__svelte-14276	NA	.changeset/plenty-hairs-kneel.md	NONE
+sveltejs__svelte-14276	NA	packages/svelte/src/compiler/phases/2-analyze/css/utils.js	cec3540ac 2024-02-15 packages/svelte/src/compiler/css/utils.js -> packages/svelte/src/compiler/phases/2-analyze/css/utils.js|302c379e0 2024-02-14 packages/svelte/src/compiler/phases/2-analyze/css/gather_possible_values.js -> packages/svelte/src/compiler/css/utils.js
+sveltejs__svelte-14260	NA	.changeset/afraid-donuts-whisper.md	NONE
+sveltejs__svelte-14260	NA	packages/svelte/src/compiler/migrate/index.js	NONE
+sveltejs__svelte-14236	NA	.changeset/bright-papayas-sneeze.md	NONE
+sveltejs__svelte-14236	NA	packages/svelte/src/compiler/phases/2-analyze/index.js	NONE
+sveltejs__svelte-14224	NA	.changeset/lazy-chefs-float.md	NONE
+sveltejs__svelte-14224	NA	packages/svelte/src/compiler/migrate/index.js	NONE
+sveltejs__svelte-14222	NA	.changeset/seven-clocks-pull.md	NONE
+sveltejs__svelte-14222	NA	packages/svelte/src/compiler/migrate/index.js	NONE
+sveltejs__svelte-14216	NA	.changeset/chatty-gorillas-poke.md	NONE
+sveltejs__svelte-14216	NA	packages/svelte/src/compiler/migrate/index.js	NONE
+sveltejs__svelte-14213	NA	.changeset/four-jobs-care.md	NONE
+sveltejs__svelte-14213	NA	packages/svelte/src/compiler/phases/2-analyze/css/css-prune.js	cec3540ac 2024-02-15 packages/svelte/src/compiler/css/Selector.js -> packages/svelte/src/compiler/phases/2-analyze/css/css-prune.js|302c379e0 2024-02-14 packages/svelte/src/compiler/phases/2-analyze/css/Selector.js -> packages/svelte/src/compiler/css/Selector.js|fe8a9ce31 2023-11-10 packages/svelte/src/compiler/compile/css/Selector.js -> packages/svelte/src/compiler/phases/2-analyze/css/Selector.js
+sveltejs__svelte-14195	NA	.changeset/giant-waves-act.md	NONE
+sveltejs__svelte-14195	NA	packages/svelte/src/compiler/phases/2-analyze/index.js	NONE
+sveltejs__svelte-14153	NA	.changeset/four-countries-taste.md	NONE
+sveltejs__svelte-14153	NA	packages/svelte/src/compiler/phases/1-parse/remove_typescript_nodes.js	bce4f3f01 2024-02-01 packages/svelte/src/compiler/phases/3-transform/typescript.js -> packages/svelte/src/compiler/phases/1-parse/remove_typescript_nodes.js
+sveltejs__svelte-14143	NA	.changeset/mean-seas-give.md	NONE
+sveltejs__svelte-14143	NA	.changeset/purple-owls-hug.md	NONE
+sveltejs__svelte-14143	NA	packages/svelte/src/compiler/migrate/index.js	NONE
+sveltejs__svelte-14101	NA	.changeset/polite-timers-tell.md	NONE
+sveltejs__svelte-14101	NA	packages/svelte/src/compiler/phases/2-analyze/visitors/SvelteElement.js	NONE
+sveltejs__svelte-14007	NA	.changeset/wild-oranges-promise.md	NONE
+sveltejs__svelte-14007	NA	packages/svelte/src/compiler/phases/2-analyze/visitors/shared/utils.js	NONE
+sveltejs__svelte-14007	NA	packages/svelte/src/compiler/phases/scope.js	NONE
+sveltejs__svelte-13866	NA	.changeset/tasty-students-peel.md	NONE
+sveltejs__svelte-13866	NA	packages/svelte/src/compiler/phases/2-analyze/css/css-prune.js	cec3540ac 2024-02-15 packages/svelte/src/compiler/css/Selector.js -> packages/svelte/src/compiler/phases/2-analyze/css/css-prune.js|302c379e0 2024-02-14 packages/svelte/src/compiler/phases/2-analyze/css/Selector.js -> packages/svelte/src/compiler/css/Selector.js|fe8a9ce31 2023-11-10 packages/svelte/src/compiler/compile/css/Selector.js -> packages/svelte/src/compiler/phases/2-analyze/css/Selector.js
+sveltejs__svelte-13850	NA	.changeset/sour-feet-carry.md	NONE
+sveltejs__svelte-13850	NA	packages/svelte/src/compiler/migrate/index.js	NONE
+sveltejs__svelte-13849	NA	.changeset/nine-pigs-approve.md	NONE
+sveltejs__svelte-13849	NA	packages/svelte/src/internal/client/reactivity/props.js	NONE
+sveltejs__svelte-13849	NA	packages/svelte/src/internal/server/index.js	NONE
+sveltejs__svelte-13824	NA	.changeset/strong-feet-happen.md	NONE
+sveltejs__svelte-13824	NA	packages/svelte/src/compiler/phases/2-analyze/css/css-prune.js	cec3540ac 2024-02-15 packages/svelte/src/compiler/css/Selector.js -> packages/svelte/src/compiler/phases/2-analyze/css/css-prune.js|302c379e0 2024-02-14 packages/svelte/src/compiler/phases/2-analyze/css/Selector.js -> packages/svelte/src/compiler/css/Selector.js|fe8a9ce31 2023-11-10 packages/svelte/src/compiler/compile/css/Selector.js -> packages/svelte/src/compiler/phases/2-analyze/css/Selector.js
+sveltejs__svelte-13774	NA	.changeset/rare-apes-dream.md	NONE
+sveltejs__svelte-13774	NA	packages/svelte/src/internal/client/reactivity/effects.js	aa29a853d 2024-03-04 packages/svelte/src/internal/client/reactivity/computations.js -> packages/svelte/src/internal/client/reactivity/effects.js
+sveltejs__svelte-13760	NA	.changeset/five-dingos-push.md	NONE
+sveltejs__svelte-13760	NA	packages/svelte/src/compiler/migrate/index.js	NONE
+sveltejs__svelte-13750	NA	.changeset/five-zoos-brush.md	NONE
+sveltejs__svelte-13750	NA	packages/svelte/src/compiler/phases/2-analyze/css/css-prune.js	cec3540ac 2024-02-15 packages/svelte/src/compiler/css/Selector.js -> packages/svelte/src/compiler/phases/2-analyze/css/css-prune.js|302c379e0 2024-02-14 packages/svelte/src/compiler/phases/2-analyze/css/Selector.js -> packages/svelte/src/compiler/css/Selector.js|fe8a9ce31 2023-11-10 packages/svelte/src/compiler/compile/css/Selector.js -> packages/svelte/src/compiler/phases/2-analyze/css/Selector.js
+sveltejs__svelte-13746	NA	.changeset/moody-kids-brake.md	NONE
+sveltejs__svelte-13746	NA	packages/svelte/src/compiler/phases/3-transform/css/index.js	NONE
+sveltejs__svelte-13734	NA	.changeset/tidy-spies-beg.md	NONE
+sveltejs__svelte-13734	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/shared/component.js	NONE
+sveltejs__svelte-13734	NA	packages/svelte/src/compiler/phases/3-transform/server/visitors/shared/component.js	NONE
+sveltejs__svelte-13698	NA	.changeset/sweet-melons-itch.md	NONE
+sveltejs__svelte-13698	NA	packages/svelte/src/compiler/migrate/index.js	NONE
+sveltejs__svelte-13690	NA	.changeset/sharp-tigers-notice.md	NONE
+sveltejs__svelte-13690	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/DebugTag.js	NONE
+sveltejs__svelte-13679	NA	.changeset/ten-vans-divide.md	NONE
+sveltejs__svelte-13679	NA	packages/svelte/src/compiler/migrate/index.js	NONE
+sveltejs__svelte-13668	NA	.changeset/nasty-teachers-end.md	NONE
+sveltejs__svelte-13668	NA	packages/svelte/src/compiler/migrate/index.js	NONE
+sveltejs__svelte-13656	NA	.changeset/new-parrots-pay.md	NONE
+sveltejs__svelte-13656	NA	packages/svelte/src/compiler/migrate/index.js	NONE
+sveltejs__svelte-13646	NA	.changeset/eight-pans-worry.md	NONE
+sveltejs__svelte-13646	NA	packages/svelte/src/internal/client/dom/blocks/svelte-component.js	NONE
+sveltejs__svelte-13632	NA	.changeset/spotty-kings-hug.md	NONE
+sveltejs__svelte-13632	NA	packages/svelte/src/compiler/migrate/index.js	NONE
+sveltejs__svelte-13630	NA	.changeset/popular-dolphins-shake.md	NONE
+sveltejs__svelte-13630	NA	packages/svelte/src/compiler/migrate/index.js	NONE
+sveltejs__svelte-13617	NA	.changeset/cool-apes-confess.md	NONE
+sveltejs__svelte-13617	NA	packages/svelte/src/compiler/migrate/index.js	NONE
+sveltejs__svelte-13559	NA	.changeset/afraid-worms-clean.md	NONE
+sveltejs__svelte-13559	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/UseDirective.js	NONE
+sveltejs__svelte-13553	NA	.changeset/loud-walls-wave.md	NONE
+sveltejs__svelte-13553	NA	packages/svelte/src/internal/client/dom/blocks/each.js	41e7dab75 2024-02-19 packages/svelte/src/internal/client/each.js -> packages/svelte/src/internal/client/dom/blocks/each.js
+sveltejs__svelte-13553	NA	packages/svelte/src/internal/server/index.js	NONE
+sveltejs__svelte-13540	NA	.changeset/chilly-glasses-retire.md	NONE
+sveltejs__svelte-13540	NA	packages/svelte/src/html-tree-validation.js	NONE
+sveltejs__svelte-13473	NA	.changeset/real-timers-complain.md	NONE
+sveltejs__svelte-13473	NA	packages/svelte/src/compiler/migrate/index.js	NONE
+sveltejs__svelte-13461	NA	.changeset/great-dots-wonder.md	NONE
+sveltejs__svelte-13461	NA	packages/svelte/src/compiler/migrate/index.js	NONE
+sveltejs__svelte-13456	NA	.changeset/large-rules-hang.md	NONE
+sveltejs__svelte-13456	NA	packages/svelte/src/compiler/migrate/index.js	NONE
+sveltejs__svelte-13456	NA	packages/svelte/src/compiler/phases/3-transform/client/transform-client.js	NONE
+sveltejs__svelte-13445	NA	packages/svelte/src/compiler/phases/2-analyze/css/css-analyze.js	NONE
+sveltejs__svelte-13416	NA	.changeset/nervous-pans-call.md	NONE
+sveltejs__svelte-13416	NA	packages/svelte/src/compiler/phases/3-transform/client/transform-client.js	NONE
+sveltejs__svelte-13416	NA	packages/svelte/src/internal/client/validate.js	NONE
+sveltejs__svelte-13411	NA	.changeset/nervous-chefs-exist.md	NONE
+sveltejs__svelte-13411	NA	packages/svelte/src/compiler/phases/2-analyze/visitors/shared/a11y.js	71c373d0a 2024-07-30 packages/svelte/src/compiler/phases/2-analyze/a11y.js -> packages/svelte/src/compiler/phases/2-analyze/visitors/shared/a11y.js
+sveltejs__svelte-13316	NA	.changeset/hot-grapes-destroy.md	NONE
+sveltejs__svelte-13316	NA	packages/svelte/src/compiler/phases/3-transform/client/transform-client.js	NONE
+sveltejs__svelte-13291	NA	.changeset/brave-candles-serve.md	NONE
+sveltejs__svelte-13291	NA	packages/svelte/src/compiler/migrate/index.js	NONE
+sveltejs__svelte-13265	NA	.changeset/fuzzy-dancers-buy.md	NONE
+sveltejs__svelte-13265	NA	packages/svelte/src/compiler/phases/2-analyze/visitors/Identifier.js	NONE
+sveltejs__svelte-13262	NA	.changeset/good-zebras-turn.md	NONE
+sveltejs__svelte-13262	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/shared/utils.js	NONE
+sveltejs__svelte-13262	NA	packages/svelte/src/compiler/phases/3-transform/server/visitors/shared/utils.js	NONE
+sveltejs__svelte-13209	NA	.changeset/tough-snails-chew.md	NONE
+sveltejs__svelte-13209	NA	packages/svelte/src/compiler/phases/2-analyze/css/css-prune.js	cec3540ac 2024-02-15 packages/svelte/src/compiler/css/Selector.js -> packages/svelte/src/compiler/phases/2-analyze/css/css-prune.js|302c379e0 2024-02-14 packages/svelte/src/compiler/phases/2-analyze/css/Selector.js -> packages/svelte/src/compiler/css/Selector.js|fe8a9ce31 2023-11-10 packages/svelte/src/compiler/compile/css/Selector.js -> packages/svelte/src/compiler/phases/2-analyze/css/Selector.js
+sveltejs__svelte-13198	NA	.changeset/ten-singers-repair.md	NONE
+sveltejs__svelte-13198	NA	packages/svelte/src/compiler/phases/1-parse/state/element.js	fe8a9ce31 2023-11-10 packages/svelte/src/compiler/parse/state/tag.js -> packages/svelte/src/compiler/phases/1-parse/state/element.js|bd51e6f3e 2023-05-28 src/compiler/parse/state/tag.js -> packages/svelte/src/compiler/parse/state/tag.js|d35d9045f 2023-05-19 src/compiler/parse/state/tag.ts -> src/compiler/parse/state/tag.js
+sveltejs__svelte-13175	NA	.changeset/five-birds-check.md	NONE
+sveltejs__svelte-13175	NA	packages/svelte/src/internal/client/proxy.js	40c295638 2024-01-23 packages/svelte/src/internal/client/proxy/proxy.js -> packages/svelte/src/internal/client/proxy.js
+sveltejs__svelte-13171	NA	.changeset/nasty-eggs-walk.md	NONE
+sveltejs__svelte-13171	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/shared/element.js	NONE
+sveltejs__svelte-13151	NA	.changeset/brave-doors-compete.md	NONE
+sveltejs__svelte-13151	NA	packages/svelte/src/compiler/phases/scope.js	NONE
+sveltejs__svelte-13104	NA	.changeset/chilly-boats-pretend.md	NONE
+sveltejs__svelte-13104	NA	packages/svelte/src/compiler/phases/2-analyze/index.js	NONE
+sveltejs__svelte-13097	NA	.changeset/dirty-jars-tap.md	NONE
+sveltejs__svelte-13097	NA	packages/svelte/src/compiler/phases/1-parse/state/element.js	fe8a9ce31 2023-11-10 packages/svelte/src/compiler/parse/state/tag.js -> packages/svelte/src/compiler/phases/1-parse/state/element.js|bd51e6f3e 2023-05-28 src/compiler/parse/state/tag.js -> packages/svelte/src/compiler/parse/state/tag.js|d35d9045f 2023-05-19 src/compiler/parse/state/tag.ts -> src/compiler/parse/state/tag.js
+sveltejs__svelte-13073	NA	.changeset/orange-sheep-exist.md	NONE
+sveltejs__svelte-13073	NA	packages/svelte/src/compiler/phases/3-transform/utils.js	NONE
+sveltejs__svelte-13026	NA	.changeset/khaki-donkeys-jump.md	NONE
+sveltejs__svelte-13026	NA	packages/svelte/src/internal/client/proxy.js	40c295638 2024-01-23 packages/svelte/src/internal/client/proxy/proxy.js -> packages/svelte/src/internal/client/proxy.js
+sveltejs__svelte-13008	NA	.changeset/beige-lamps-ring.md	NONE
+sveltejs__svelte-13008	NA	.changeset/green-windows-tap.md	NONE
+sveltejs__svelte-13008	NA	packages/svelte/src/internal/client/proxy.js	40c295638 2024-01-23 packages/svelte/src/internal/client/proxy/proxy.js -> packages/svelte/src/internal/client/proxy.js
+sveltejs__svelte-12963	NA	.changeset/happy-coats-marry.md	NONE
+sveltejs__svelte-12963	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/AssignmentExpression.js	NONE
+sveltejs__svelte-12963	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/MemberExpression.js	NONE
+sveltejs__svelte-12938	NA	.changeset/proud-dots-swim.md	NONE
+sveltejs__svelte-12938	NA	packages/svelte/src/internal/client/reactivity/sources.js	NONE
+sveltejs__svelte-12899	NA	.changeset/nasty-mirrors-applaud.md	NONE
+sveltejs__svelte-12899	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/shared/utils.js	NONE
+sveltejs__svelte-12845	NA	.changeset/eleven-teachers-drive.md	NONE
+sveltejs__svelte-12845	NA	packages/svelte/src/compiler/phases/3-transform/client/transform-client.js	NONE
+sveltejs__svelte-12845	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/Program.js	NONE
+sveltejs__svelte-12734	NA	.changeset/forty-guests-chew.md	NONE
+sveltejs__svelte-12734	NA	packages/svelte/src/internal/client/dom/elements/attributes.js	NONE
+sveltejs__svelte-12679	NA	.changeset/smooth-pens-exist.md	NONE
+sveltejs__svelte-12679	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/template.js	NONE
+sveltejs__svelte-12649	NA	.changeset/wild-poems-design.md	NONE
+sveltejs__svelte-12649	NA	packages/svelte/src/internal/client/dom/elements/attributes.js	NONE
+sveltejs__svelte-12638	NA	.changeset/sharp-spies-live.md	NONE
+sveltejs__svelte-12638	NA	packages/svelte/src/compiler/phases/2-analyze/validation.js	NONE
+sveltejs__svelte-12562	NA	.changeset/silver-mice-double.md	NONE
+sveltejs__svelte-12562	NA	packages/svelte/src/internal/client/reactivity/store.js	NONE
+sveltejs__svelte-12524	NA	.changeset/brown-moons-sleep.md	NONE
+sveltejs__svelte-12524	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/template.js	NONE
+sveltejs__svelte-12493	NA	.changeset/popular-cups-bathe.md	NONE
+sveltejs__svelte-12493	NA	packages/svelte/src/compiler/phases/3-transform/client/utils.js	NONE
+sveltejs__svelte-12475	NA	.changeset/clever-toys-laugh.md	NONE
+sveltejs__svelte-12475	NA	packages/svelte/src/internal/client/dom/blocks/svelte-head.js	NONE
+sveltejs__svelte-12474	NA	packages/svelte/messages/compile-errors/style.md	8e1742831 2024-04-25 packages/svelte/messages/compile-errors/css.md -> packages/svelte/messages/compile-errors/style.md
+sveltejs__svelte-12474	NA	packages/svelte/src/compiler/errors.js	NONE
+sveltejs__svelte-12474	NA	packages/svelte/src/compiler/phases/2-analyze/css/css-analyze.js	NONE
+sveltejs__svelte-12469	NA	.changeset/few-mails-play.md	NONE
+sveltejs__svelte-12469	NA	packages/svelte/src/compiler/phases/1-parse/read/expression.js	fe8a9ce31 2023-11-10 packages/svelte/src/compiler/parse/read/expression.js -> packages/svelte/src/compiler/phases/1-parse/read/expression.js|bd51e6f3e 2023-05-28 src/compiler/parse/read/expression.js -> packages/svelte/src/compiler/parse/read/expression.js|d35d9045f 2023-05-19 src/compiler/parse/read/expression.ts -> src/compiler/parse/read/expression.js
+sveltejs__svelte-12460	NA	.changeset/wicked-carrots-explain.md	NONE
+sveltejs__svelte-12460	NA	packages/svelte/src/internal/client/dom/elements/transitions.js	eb40417c3 2024-03-12 packages/svelte/src/internal/client/transitions.js -> packages/svelte/src/internal/client/dom/elements/transitions.js
+sveltejs__svelte-12376	NA	.changeset/small-chefs-sing.md	NONE
+sveltejs__svelte-12376	NA	packages/svelte/src/internal/client/reactivity/effects.js	aa29a853d 2024-03-04 packages/svelte/src/internal/client/reactivity/computations.js -> packages/svelte/src/internal/client/reactivity/effects.js
+sveltejs__svelte-12375	NA	.changeset/small-chefs-sing.md	NONE
+sveltejs__svelte-12375	NA	packages/svelte/src/internal/client/dom/elements/events.js	NONE
+sveltejs__svelte-12375	NA	packages/svelte/src/internal/client/render.js	NONE
+sveltejs__svelte-12373	NA	packages/svelte/src/internal/client/dom/blocks/html.js	NONE
+sveltejs__svelte-12373	NA	sites/svelte-5-preview/src/routes/docs/content/03-appendix/02-breaking-changes.md	NONE
+sveltejs__svelte-12365	NA	.changeset/mean-numbers-cry.md	NONE
+sveltejs__svelte-12365	NA	packages/svelte/src/compiler/phases/2-analyze/css/css-prune.js	cec3540ac 2024-02-15 packages/svelte/src/compiler/css/Selector.js -> packages/svelte/src/compiler/phases/2-analyze/css/css-prune.js|302c379e0 2024-02-14 packages/svelte/src/compiler/phases/2-analyze/css/Selector.js -> packages/svelte/src/compiler/css/Selector.js|fe8a9ce31 2023-11-10 packages/svelte/src/compiler/compile/css/Selector.js -> packages/svelte/src/compiler/phases/2-analyze/css/Selector.js
+sveltejs__svelte-12345	NA	.changeset/tidy-lizards-happen.md	NONE
+sveltejs__svelte-12345	NA	packages/svelte/src/compiler/phases/2-analyze/index.js	NONE
+sveltejs__svelte-12345	NA	packages/svelte/src/compiler/phases/3-transform/client/transform-client.js	NONE
+sveltejs__svelte-12329	NA	.changeset/few-cheetahs-taste.md	NONE
+sveltejs__svelte-12329	NA	packages/svelte/src/compiler/migrate/index.js	NONE
+sveltejs__svelte-12321	NA	.changeset/bright-needles-pretend.md	NONE
+sveltejs__svelte-12321	NA	packages/svelte/src/internal/client/dom/elements/transitions.js	eb40417c3 2024-03-12 packages/svelte/src/internal/client/transitions.js -> packages/svelte/src/internal/client/dom/elements/transitions.js
+sveltejs__svelte-12316	NA	.changeset/light-hounds-carry.md	NONE
+sveltejs__svelte-12316	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/template.js	NONE
+sveltejs__svelte-12316	NA	packages/svelte/src/internal/client/dom/elements/attributes.js	NONE
+sveltejs__svelte-12304	NA	packages/svelte/src/compiler/phases/3-transform/utils.js	NONE
+sveltejs__svelte-12298	NA	.changeset/loud-insects-arrive.md	NONE
+sveltejs__svelte-12298	NA	packages/svelte/src/compiler/phases/3-transform/client/utils.js	NONE
+sveltejs__svelte-12290	NA	.changeset/warm-waves-reply.md	NONE
+sveltejs__svelte-12290	NA	packages/svelte/src/compiler/phases/3-transform/client/transform-client.js	NONE
+sveltejs__svelte-12252	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/template.js	NONE
+sveltejs__svelte-12252	NA	packages/svelte/src/internal/client/dev/hmr.js	NONE
+sveltejs__svelte-12252	NA	packages/svelte/src/internal/client/dom/blocks/svelte-component.js	NONE
+sveltejs__svelte-12176	NA	.changeset/empty-files-prove.md	NONE
+sveltejs__svelte-12176	NA	packages/svelte/src/compiler/migrate/index.js	NONE
+sveltejs__svelte-12176	NA	packages/svelte/src/compiler/phases/1-parse/acorn.js	NONE
+sveltejs__svelte-12119	NA	.changeset/swift-rats-sing.md	NONE
+sveltejs__svelte-12119	NA	packages/svelte/src/compiler/phases/2-analyze/a11y.js	NONE
+sveltejs__svelte-12098	NA	.changeset/happy-lobsters-lick.md	NONE
+sveltejs__svelte-12098	NA	packages/svelte/src/internal/client/dom/blocks/each.js	41e7dab75 2024-02-19 packages/svelte/src/internal/client/each.js -> packages/svelte/src/internal/client/dom/blocks/each.js
+sveltejs__svelte-12056	NA	.changeset/large-waves-join.md	NONE
+sveltejs__svelte-12056	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/template.js	NONE
+sveltejs__svelte-12019	NA	.changeset/clean-cats-wave.md	NONE
+sveltejs__svelte-12019	NA	packages/svelte/src/compiler/migrate/index.js	NONE
+sveltejs__svelte-12019	NA	packages/svelte/src/compiler/phases/2-analyze/index.js	NONE
+sveltejs__svelte-12007	NA	.changeset/late-zebras-argue.md	NONE
+sveltejs__svelte-12007	NA	packages/svelte/src/compiler/phases/3-transform/server/transform-server.js	NONE
+sveltejs__svelte-11947	NA	.changeset/breezy-waves-camp.md	NONE
+sveltejs__svelte-11947	NA	packages/svelte/src/compiler/phases/2-analyze/validation.js	NONE
+sveltejs__svelte-11946	NA	.changeset/thin-spoons-float.md	NONE
+sveltejs__svelte-11946	NA	packages/svelte/src/reactivity/set.js	NONE
+sveltejs__svelte-11937	NA	.changeset/wise-lemons-wave.md	NONE
+sveltejs__svelte-11937	NA	packages/svelte/src/internal/client/render.js	NONE
+sveltejs__svelte-11913	NA	.changeset/cold-beans-tease.md	NONE
+sveltejs__svelte-11913	NA	packages/svelte/src/reactivity/map.js	NONE
+sveltejs__svelte-11835	NA	.changeset/dull-donkeys-smell.md	NONE
+sveltejs__svelte-11835	NA	packages/svelte/src/compiler/phases/3-transform/server/transform-server.js	NONE
+sveltejs__svelte-11784	NA	.changeset/selfish-panthers-add.md	NONE
+sveltejs__svelte-11784	NA	packages/svelte/src/compiler/phases/3-transform/css/index.js	NONE
+sveltejs__svelte-11768	NA	.changeset/chilly-pans-raise.md	NONE
+sveltejs__svelte-11768	NA	packages/svelte/src/compiler/phases/2-analyze/index.js	NONE
+sveltejs__svelte-11766	NA	.changeset/clever-stingrays-shout.md	NONE
+sveltejs__svelte-11766	NA	packages/svelte/src/internal/client/dev/equality.js	NONE
+sveltejs__svelte-11720	NA	.changeset/sour-jeans-collect.md	NONE
+sveltejs__svelte-11720	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/template.js	NONE
+sveltejs__svelte-11676	NA	.changeset/plenty-elephants-fry.md	NONE
+sveltejs__svelte-11676	NA	packages/svelte/src/compiler/phases/2-analyze/validation.js	NONE
+sveltejs__svelte-11676	NA	packages/svelte/src/compiler/phases/bindings.js	NONE
+sveltejs__svelte-11669	NA	.changeset/twelve-beans-drive.md	NONE
+sveltejs__svelte-11669	NA	packages/svelte/src/compiler/utils/extract_svelte_ignore.js	bd51e6f3e 2023-05-28 src/compiler/utils/extract_svelte_ignore.js -> packages/svelte/src/compiler/utils/extract_svelte_ignore.js|d35d9045f 2023-05-19 src/compiler/utils/extract_svelte_ignore.ts -> src/compiler/utils/extract_svelte_ignore.js
+sveltejs__svelte-11652	NA	.changeset/fresh-beds-wash.md	NONE
+sveltejs__svelte-11652	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/template.js	NONE
+sveltejs__svelte-11496	NA	.changeset/shiny-melons-love.md	NONE
+sveltejs__svelte-11496	NA	packages/svelte/src/internal/client/runtime.js	NONE
+sveltejs__svelte-11487	NA	.changeset/gentle-toys-chew.md	NONE
+sveltejs__svelte-11487	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/global.js	NONE
+sveltejs__svelte-11470	NA	.changeset/ten-tables-speak.md	NONE
+sveltejs__svelte-11470	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/template.js	NONE
+sveltejs__svelte-11470	NA	packages/svelte/src/compiler/phases/patterns.js	NONE
+sveltejs__svelte-11463	NA	.changeset/wet-pears-remain.md	NONE
+sveltejs__svelte-11463	NA	packages/svelte/src/compiler/phases/2-analyze/validation.js	NONE
+sveltejs__svelte-11421	NA	.changeset/ninety-dots-train.md	NONE
+sveltejs__svelte-11421	NA	packages/svelte/src/compiler/phases/2-analyze/index.js	NONE
+sveltejs__svelte-11378	NA	.changeset/healthy-ants-film.md	NONE
+sveltejs__svelte-11378	NA	packages/svelte/src/compiler/phases/2-analyze/validation.js	NONE
+sveltejs__svelte-11371	NA	.changeset/blue-lemons-wait.md	NONE
+sveltejs__svelte-11371	NA	packages/svelte/src/internal/client/dom/elements/attributes.js	NONE
+sveltejs__svelte-11367	NA	.changeset/tiny-moose-kiss.md	NONE
+sveltejs__svelte-11367	NA	packages/svelte/src/compiler/phases/3-transform/client/utils.js	NONE
+sveltejs__svelte-11344	NA	.changeset/cyan-squids-drive.md	NONE
+sveltejs__svelte-11344	NA	packages/svelte/src/constants.js	NONE
+sveltejs__svelte-11326	NA	.changeset/honest-nails-share.md	NONE
+sveltejs__svelte-11326	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/javascript-runes.js	NONE
+sveltejs__svelte-11326	NA	packages/svelte/src/compiler/phases/patterns.js	NONE
+sveltejs__svelte-11290	NA	packages/svelte/src/internal/client/reactivity/props.js	NONE
+sveltejs__svelte-11287	NA	packages/svelte/src/reactivity/set.js	NONE
+sveltejs__svelte-11287	NA	packages/svelte/types/index.d.ts	NONE
+sveltejs__svelte-11254	NA	.changeset/brave-carrots-draw.md	NONE
+sveltejs__svelte-11254	NA	packages/svelte/src/internal/client/dom/blocks/each.js	41e7dab75 2024-02-19 packages/svelte/src/internal/client/each.js -> packages/svelte/src/internal/client/dom/blocks/each.js
+sveltejs__svelte-11251	NA	.changeset/funny-ties-jump.md	NONE
+sveltejs__svelte-11251	NA	packages/svelte/src/internal/client/dom/elements/transitions.js	eb40417c3 2024-03-12 packages/svelte/src/internal/client/transitions.js -> packages/svelte/src/internal/client/dom/elements/transitions.js
+sveltejs__svelte-11209	NA	packages/svelte/src/compiler/phases/scope.js	NONE
+sveltejs__svelte-11114	NA	.changeset/nine-cooks-join.md	NONE
+sveltejs__svelte-11114	NA	packages/svelte/src/compiler/phases/2-analyze/validation.js	NONE
+sveltejs__svelte-11114	NA	packages/svelte/src/compiler/warnings.js	NONE
+sveltejs__svelte-11104	NA	.changeset/gold-tools-nail.md	NONE
+sveltejs__svelte-11104	NA	packages/svelte/src/compiler/phases/3-transform/server/transform-server.js	NONE
+sveltejs__svelte-11096	NA	.changeset/giant-plants-grin.md	NONE
+sveltejs__svelte-11096	NA	packages/svelte/src/compiler/phases/2-analyze/css/css-prune.js	cec3540ac 2024-02-15 packages/svelte/src/compiler/css/Selector.js -> packages/svelte/src/compiler/phases/2-analyze/css/css-prune.js|302c379e0 2024-02-14 packages/svelte/src/compiler/phases/2-analyze/css/Selector.js -> packages/svelte/src/compiler/css/Selector.js|fe8a9ce31 2023-11-10 packages/svelte/src/compiler/compile/css/Selector.js -> packages/svelte/src/compiler/phases/2-analyze/css/Selector.js
+sveltejs__svelte-10917	NA	.changeset/lovely-houses-own.md	NONE
+sveltejs__svelte-10917	NA	.changeset/stale-fans-rest.md	NONE
+sveltejs__svelte-10917	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/template.js	NONE
+sveltejs__svelte-10728	NA	.changeset/small-sheep-type.md	NONE
+sveltejs__svelte-10728	NA	packages/svelte/src/compiler/phases/2-analyze/validation.js	NONE
+sveltejs__svelte-10727	NA	.changeset/short-countries-rush.md	NONE
+sveltejs__svelte-10727	NA	packages/svelte/src/compiler/phases/3-transform/client/utils.js	NONE
+sveltejs__svelte-10727	NA	packages/svelte/src/internal/client/reactivity/store.js	NONE
+sveltejs__svelte-10721	NA	.changeset/eleven-cycles-applaud.md	NONE
+sveltejs__svelte-10721	NA	packages/svelte/src/compiler/phases/1-parse/state/element.js	fe8a9ce31 2023-11-10 packages/svelte/src/compiler/parse/state/tag.js -> packages/svelte/src/compiler/phases/1-parse/state/element.js|bd51e6f3e 2023-05-28 src/compiler/parse/state/tag.js -> packages/svelte/src/compiler/parse/state/tag.js|d35d9045f 2023-05-19 src/compiler/parse/state/tag.ts -> src/compiler/parse/state/tag.js
+sveltejs__svelte-10691	NA	.changeset/happy-beds-scream.md	NONE
+sveltejs__svelte-10691	NA	packages/svelte/src/compiler/phases/3-transform/utils.js	NONE
+sveltejs__svelte-10691	NA	packages/svelte/src/compiler/phases/patterns.js	NONE
+sveltejs__svelte-10671	NA	.changeset/popular-ligers-perform.md	NONE
+sveltejs__svelte-10671	NA	packages/svelte/src/compiler/phases/1-parse/read/context.js	fe8a9ce31 2023-11-10 packages/svelte/src/compiler/parse/read/context.js -> packages/svelte/src/compiler/phases/1-parse/read/context.js|bd51e6f3e 2023-05-28 src/compiler/parse/read/context.js -> packages/svelte/src/compiler/parse/read/context.js|d35d9045f 2023-05-19 src/compiler/parse/read/context.ts -> src/compiler/parse/read/context.js
+sveltejs__svelte-10671	NA	packages/svelte/src/compiler/phases/1-parse/state/tag.js	NONE
+sveltejs__svelte-10669	NA	.changeset/unlucky-steaks-warn.md	NONE
+sveltejs__svelte-10669	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/template.js	NONE
+sveltejs__svelte-10655	NA	.changeset/slow-kids-sparkle.md	NONE
+sveltejs__svelte-10655	NA	packages/svelte/src/compiler/phases/2-analyze/validation.js	NONE
+sveltejs__svelte-10655	NA	packages/svelte/src/compiler/warnings.js	NONE
+sveltejs__svelte-10608	NA	.changeset/good-buses-reply.md	NONE
+sveltejs__svelte-10608	NA	packages/svelte/src/compiler/phases/2-analyze/validation.js	NONE
+sveltejs__svelte-10608	NA	packages/svelte/src/internal/client/render.js	NONE
+sveltejs__svelte-10590	NA	.changeset/spotty-turkeys-sparkle.md	NONE
+sveltejs__svelte-10590	NA	packages/svelte/src/compiler/errors.js	NONE
+sveltejs__svelte-10590	NA	packages/svelte/src/compiler/phases/2-analyze/validation.js	NONE
+sveltejs__svelte-10553	NA	.changeset/shaggy-cameras-live.md	NONE
+sveltejs__svelte-10553	NA	packages/svelte/src/internal/client/render.js	NONE
+sveltejs__svelte-10553	NA	packages/svelte/types/index.d.ts	NONE
+sveltejs__svelte-10430	NA	.changeset/odd-taxis-retire.md	NONE
+sveltejs__svelte-10430	NA	packages/svelte/src/compiler/errors.js	NONE
+sveltejs__svelte-10430	NA	packages/svelte/src/compiler/phases/2-analyze/validation.js	NONE
+sveltejs__svelte-10413	NA	.changeset/strange-apricots-happen.md	NONE
+sveltejs__svelte-10413	NA	packages/svelte/src/compiler/phases/bindings.js	NONE
+sveltejs__svelte-10297	NA	.changeset/three-icons-trade.md	NONE
+sveltejs__svelte-10297	NA	packages/svelte/src/internal/server/index.js	NONE
+sveltejs__svelte-10297	NA	packages/svelte/src/main/main-server.js	fe8a9ce31 2023-11-10 packages/svelte/src/runtime/ssr.js -> packages/svelte/src/main/main-server.js|bd51e6f3e 2023-05-28 src/runtime/ssr.js -> packages/svelte/src/runtime/ssr.js|d35d9045f 2023-05-19 src/runtime/ssr.ts -> src/runtime/ssr.js
+sveltejs__svelte-10291	NA	.changeset/tall-mugs-buy.md	NONE
+sveltejs__svelte-10291	NA	packages/svelte/src/compiler/errors.js	NONE
+sveltejs__svelte-10291	NA	packages/svelte/src/compiler/phases/2-analyze/index.js	NONE
+sveltejs__svelte-10287	NA	.changeset/thirty-pears-hug.md	NONE
+sveltejs__svelte-10287	NA	packages/svelte/src/compiler/phases/2-analyze/css/Selector.js	fe8a9ce31 2023-11-10 packages/svelte/src/compiler/compile/css/Selector.js -> packages/svelte/src/compiler/phases/2-analyze/css/Selector.js|bd51e6f3e 2023-05-28 src/compiler/compile/css/Selector.js -> packages/svelte/src/compiler/compile/css/Selector.js|d35d9045f 2023-05-19 src/compiler/compile/css/Selector.ts -> src/compiler/compile/css/Selector.js
+sveltejs__svelte-10267	NA	.changeset/witty-steaks-dream.md	NONE
+sveltejs__svelte-10267	NA	packages/svelte/src/internal/client/proxy/proxy.js	NONE
+sveltejs__svelte-10235	NA	.changeset/hungry-boxes-relate.md	NONE
+sveltejs__svelte-10235	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/template.js	NONE
+sveltejs__svelte-10209	NA	packages/svelte/src/internal/client/runtime.js	NONE
+sveltejs__svelte-10187	NA	.changeset/big-cars-serve.md	NONE
+sveltejs__svelte-10187	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/template.js	NONE
+sveltejs__svelte-10187	NA	packages/svelte/src/compiler/phases/3-transform/server/transform-server.js	NONE
+sveltejs__svelte-10077	NA	.changeset/dry-eggs-retire.md	NONE
+sveltejs__svelte-10077	NA	packages/svelte/src/compiler/phases/1-parse/read/style.js	NONE
+sveltejs__svelte-10071	NA	.changeset/sharp-kids-happen.md	NONE
+sveltejs__svelte-10071	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/template.js	NONE
+sveltejs__svelte-10071	NA	packages/svelte/src/internal/client/render.js	NONE
+sveltejs__svelte-10054	NA	.changeset/metal-beers-learn.md	NONE
+sveltejs__svelte-10054	NA	packages/svelte/src/compiler/phases/1-parse/read/style.js	NONE
+sveltejs__svelte-10054	NA	packages/svelte/src/compiler/types/css.d.ts	NONE
+sveltejs__svelte-10046	NA	.changeset/hip-balloons-begin.md	NONE
+sveltejs__svelte-10046	NA	packages/svelte/src/compiler/phases/1-parse/index.js	NONE
+sveltejs__svelte-10027	NA	.changeset/dull-roses-relate.md	NONE
+sveltejs__svelte-10027	NA	packages/svelte/src/compiler/phases/3-transform/utils.js	NONE
+sveltejs__svelte-9970	NA	.changeset/three-suits-grin.md	NONE
+sveltejs__svelte-9970	NA	packages/svelte/src/compiler/phases/1-parse/read/style.js	NONE
+sveltejs__svelte-9962	NA	.changeset/nasty-yaks-peel.md	NONE
+sveltejs__svelte-9962	NA	packages/svelte/src/compiler/phases/3-transform/client/utils.js	NONE
+sveltejs__svelte-9962	NA	packages/svelte/src/compiler/utils/builders.js	NONE
+sveltejs__svelte-9904	NA	.changeset/chatty-cups-drop.md	NONE
+sveltejs__svelte-9904	NA	packages/svelte/src/compiler/errors.js	NONE
+sveltejs__svelte-9904	NA	packages/svelte/src/compiler/phases/2-analyze/validation.js	NONE
+sveltejs__svelte-9824	NA	.changeset/unlucky-boxes-obey.md	NONE
+sveltejs__svelte-9824	NA	packages/svelte/src/compiler/phases/scope.js	NONE
+sveltejs__svelte-9811	NA	.changeset/healthy-planes-vanish.md	NONE
+sveltejs__svelte-9811	NA	packages/svelte/src/internal/client/runtime.js	NONE
+sveltejs__svelte-9789	NA	.changeset/lazy-months-knock.md	NONE
+sveltejs__svelte-9789	NA	packages/svelte/src/internal/client/proxy/readonly.js	NONE
+sveltejs__svelte-9789	NA	packages/svelte/src/internal/client/runtime.js	NONE
+sveltejs__svelte-9718	NA	.changeset/flat-melons-protect.md	NONE
+sveltejs__svelte-9718	NA	packages/svelte/src/compiler/phases/2-analyze/index.js	NONE
+sveltejs__svelte-9717	NA	.changeset/ninety-dingos-walk.md	NONE
+sveltejs__svelte-9717	NA	packages/svelte/src/internal/client/runtime.js	NONE
+sveltejs__svelte-9713	NA	.changeset/great-icons-retire.md	NONE
+sveltejs__svelte-9713	NA	packages/svelte/src/compiler/phases/2-analyze/validation.js	NONE
+sveltejs__svelte-9665	NA	.changeset/light-pens-watch.md	NONE
+sveltejs__svelte-9665	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/template.js	NONE
+sveltejs__svelte-9665	NA	packages/svelte/src/internal/client/render.js	NONE
+sveltejs__svelte-9664	NA	.changeset/polite-pumpkins-guess.md	NONE
+sveltejs__svelte-9664	NA	packages/svelte/src/compiler/phases/2-analyze/a11y.js	NONE
+sveltejs__svelte-9664	NA	packages/svelte/src/compiler/warnings.js	NONE
+sveltejs__svelte-9550	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/template.js	NONE
+sveltejs__svelte-9550	NA	packages/svelte/src/internal/client/render.js	NONE
+sveltejs__svelte-9500	NA	.changeset/sharp-gorillas-impress.md	NONE
+sveltejs__svelte-9500	NA	packages/svelte/src/compiler/phases/2-analyze/index.js	NONE
+sveltejs__svelte-9497	NA	.changeset/clean-eels-beg.md	NONE
+sveltejs__svelte-9497	NA	packages/svelte/src/compiler/errors.js	NONE
+sveltejs__svelte-9497	NA	packages/svelte/src/compiler/phases/2-analyze/validation.js	NONE
+sveltejs__svelte-9471	NA	.changeset/lazy-spiders-think.md	NONE
+sveltejs__svelte-9471	NA	packages/svelte/src/internal/client/render.js	NONE
+sveltejs__svelte-9462	NA	.changeset/itchy-lions-wash.md	NONE
+sveltejs__svelte-9462	NA	packages/svelte/src/compiler/phases/3-transform/client/visitors/template.js	NONE
+sveltejs__svelte-9456	NA	.changeset/sour-rules-march.md	NONE
+sveltejs__svelte-9456	NA	packages/svelte/src/compiler/phases/3-transform/server/transform-server.js	NONE
+sveltejs__svelte-9328	NA	.changeset/seven-cars-drum.md	NONE
+sveltejs__svelte-9328	NA	packages/svelte/src/compiler/compile/render_dom/wrappers/Element/Attribute.js	bd51e6f3e 2023-05-28 src/compiler/compile/render_dom/wrappers/Element/Attribute.js -> packages/svelte/src/compiler/compile/render_dom/wrappers/Element/Attribute.js|d35d9045f 2023-05-19 src/compiler/compile/render_dom/wrappers/Element/Attribute.ts -> src/compiler/compile/render_dom/wrappers/Element/Attribute.js|80ebdc178 2019-06-24 src/compiler/compile/render-dom/wrappers/Element/Attribute.ts -> src/compiler/compile/render_dom/wrappers/Element/Attribute.ts
+sveltejs__svelte-9328	NA	packages/svelte/src/runtime/internal/dom.js	bd51e6f3e 2023-05-28 src/runtime/internal/dom.js -> packages/svelte/src/runtime/internal/dom.js|d35d9045f 2023-05-19 src/runtime/internal/dom.ts -> src/runtime/internal/dom.js|5161dfb95 2019-05-27 src/internal/dom.ts -> src/runtime/internal/dom.ts
+mui__material-ui-39962	NA	packages/mui-system/src/borders.js	49b3469442 2021-09-06 packages/material-ui-system/src/borders.js -> packages/mui-system/src/borders.js
+mui__material-ui-39962	NA	packages/mui-system/src/styleFunctionSx/defaultSxConfig.js	NONE
+mui__material-ui-39775	NA	packages/mui-material/src/Rating/Rating.js	49b3469442 2021-09-06 packages/material-ui/src/Rating/Rating.js -> packages/mui-material/src/Rating/Rating.js
+mui__material-ui-39465	NA	packages/mui-system/src/style.js	49b3469442 2021-09-06 packages/material-ui-system/src/style.js -> packages/mui-system/src/style.js
+mui__material-ui-39457	NA	packages/mui-system/src/style.js	49b3469442 2021-09-06 packages/material-ui-system/src/style.js -> packages/mui-system/src/style.js
+mui__material-ui-39196	NA	docs/data/system/spacing/spacing.md	27f1c282cf 2022-02-04 docs/src/pages/system/spacing/spacing.md -> docs/data/system/spacing/spacing.md
+mui__material-ui-39196	NA	packages/mui-system/src/spacing.js	49b3469442 2021-09-06 packages/material-ui-system/src/spacing.js -> packages/mui-system/src/spacing.js
+mui__material-ui-39108	NA	packages/mui-joy/src/Select/Select.tsx	NONE
+mui__material-ui-39108	NA	packages/mui-joy/src/Select/SelectProps.ts	NONE
+mui__material-ui-39071	NA	packages/mui-system/src/style.js	49b3469442 2021-09-06 packages/material-ui-system/src/style.js -> packages/mui-system/src/style.js
+mui__material-ui-38788	NA	packages/mui-base/src/useAutocomplete/useAutocomplete.js	cba0019bf8 2023-02-21 packages/mui-base/src/AutocompleteUnstyled/useAutocomplete.js -> packages/mui-base/src/useAutocomplete/useAutocomplete.js|21dba852b1 2021-11-09 packages/mui-core/src/AutocompleteUnstyled/useAutocomplete.js -> packages/mui-base/src/AutocompleteUnstyled/useAutocomplete.js|49b3469442 2021-09-06 packages/material-ui-unstyled/src/AutocompleteUnstyled/useAutocomplete.js -> packages/mui-core/src/AutocompleteUnstyled/useAutocomplete.js
+mui__material-ui-38544	NA	packages/mui-material-next/src/Tabs/Tabs.js	49b3469442 2021-09-06 packages/material-ui/src/Tabs/Tabs.js -> packages/mui-material/src/Tabs/Tabs.js|3e4854b39b 2018-04-16 src/Tabs/Tabs.js -> packages/material-ui/src/Tabs/Tabs.js|c055cf6bbd 2016-03-22 src/Tabs/Tabs.jsx -> src/Tabs/Tabs.js
+mui__material-ui-38544	NA	packages/mui-material/src/Tabs/Tabs.js	49b3469442 2021-09-06 packages/material-ui/src/Tabs/Tabs.js -> packages/mui-material/src/Tabs/Tabs.js|3e4854b39b 2018-04-16 src/Tabs/Tabs.js -> packages/material-ui/src/Tabs/Tabs.js|c055cf6bbd 2016-03-22 src/Tabs/Tabs.jsx -> src/Tabs/Tabs.js
+mui__material-ui-38247	NA	docs/src/modules/sandbox/CreateReactApp.ts	NONE
+mui__material-ui-38188	NA	packages/mui-base/src/useAutocomplete/useAutocomplete.js	cba0019bf8 2023-02-21 packages/mui-base/src/AutocompleteUnstyled/useAutocomplete.js -> packages/mui-base/src/useAutocomplete/useAutocomplete.js|21dba852b1 2021-11-09 packages/mui-core/src/AutocompleteUnstyled/useAutocomplete.js -> packages/mui-base/src/AutocompleteUnstyled/useAutocomplete.js|49b3469442 2021-09-06 packages/material-ui-unstyled/src/AutocompleteUnstyled/useAutocomplete.js -> packages/mui-core/src/AutocompleteUnstyled/useAutocomplete.js
+mui__material-ui-37855	NA	packages/mui-base/src/useSelect/useSelect.ts	cba0019bf8 2023-02-21 packages/mui-base/src/SelectUnstyled/useSelect.ts -> packages/mui-base/src/useSelect/useSelect.ts
+mui__material-ui-37855	NA	packages/mui-base/src/useSelect/useSelect.types.ts	cba0019bf8 2023-02-21 packages/mui-base/src/SelectUnstyled/useSelect.types.ts -> packages/mui-base/src/useSelect/useSelect.types.ts
+mui__material-ui-37692	NA	packages/mui-joy/src/ButtonGroup/ButtonGroup.tsx	NONE
+mui__material-ui-37141	NA	packages/mui-base/src/useSelect/useSelect.ts	cba0019bf8 2023-02-21 packages/mui-base/src/SelectUnstyled/useSelect.ts -> packages/mui-base/src/useSelect/useSelect.ts
+mui__material-ui-37108	NA	packages/mui-system/src/styleFunctionSx/styleFunctionSx.js	49b3469442 2021-09-06 packages/material-ui-system/src/styleFunctionSx/styleFunctionSx.js -> packages/mui-system/src/styleFunctionSx/styleFunctionSx.js|f1389e83a6 2020-12-22 packages/material-ui-system/src/styleFunctionSx.js -> packages/material-ui-system/src/styleFunctionSx/styleFunctionSx.js
+mui__material-ui-37070	NA	packages/mui-system/src/Unstable_Grid/createGrid.tsx	d1d1654deb 2022-07-12 packages/mui-system/src/Grid/createGrid.tsx -> packages/mui-system/src/Unstable_Grid/createGrid.tsx
+mui__material-ui-37070	NA	packages/mui-system/src/Unstable_Grid/gridGenerator.ts	d1d1654deb 2022-07-12 packages/mui-system/src/Grid/gridGenerator.ts -> packages/mui-system/src/Unstable_Grid/gridGenerator.ts
+mui__material-ui-36853	NA	packages/mui-system/src/cssVars/prepareCssVars.ts	NONE
+mui__material-ui-36839	NA	packages/mui-joy/src/Table/Table.tsx	NONE
+mui__material-ui-36659	NA	packages/mui-base/src/useAutocomplete/useAutocomplete.js	cba0019bf8 2023-02-21 packages/mui-base/src/AutocompleteUnstyled/useAutocomplete.js -> packages/mui-base/src/useAutocomplete/useAutocomplete.js|21dba852b1 2021-11-09 packages/mui-core/src/AutocompleteUnstyled/useAutocomplete.js -> packages/mui-base/src/AutocompleteUnstyled/useAutocomplete.js|49b3469442 2021-09-06 packages/material-ui-unstyled/src/AutocompleteUnstyled/useAutocomplete.js -> packages/mui-core/src/AutocompleteUnstyled/useAutocomplete.js
+mui__material-ui-36403	NA	packages/mui-styled-engine-sc/src/index.js	49b3469442 2021-09-06 packages/material-ui-styled-engine-sc/src/index.js -> packages/mui-styled-engine-sc/src/index.js
+mui__material-ui-36403	NA	packages/mui-styled-engine/src/index.d.ts	49b3469442 2021-09-06 packages/material-ui-styled-engine/src/index.d.ts -> packages/mui-styled-engine/src/index.d.ts
+mui__material-ui-36403	NA	packages/mui-styled-engine/src/index.js	49b3469442 2021-09-06 packages/material-ui-styled-engine/src/index.js -> packages/mui-styled-engine/src/index.js
+mui__material-ui-36353	NA	packages/mui-material/src/DialogTitle/DialogTitle.js	49b3469442 2021-09-06 packages/material-ui/src/DialogTitle/DialogTitle.js -> packages/mui-material/src/DialogTitle/DialogTitle.js|f4be182606 2018-05-12 packages/material-ui/src/Dialog/DialogTitle.js -> packages/material-ui/src/DialogTitle/DialogTitle.js|3e4854b39b 2018-04-16 src/Dialog/DialogTitle.js -> packages/material-ui/src/Dialog/DialogTitle.js
+mui__material-ui-36116	NA	packages/mui-base/src/AutocompleteUnstyled/useAutocomplete.js	21dba852b1 2021-11-09 packages/mui-core/src/AutocompleteUnstyled/useAutocomplete.js -> packages/mui-base/src/AutocompleteUnstyled/useAutocomplete.js|49b3469442 2021-09-06 packages/material-ui-unstyled/src/AutocompleteUnstyled/useAutocomplete.js -> packages/mui-core/src/AutocompleteUnstyled/useAutocomplete.js|35ab090c2d 2021-08-03 packages/material-ui/src/useAutocomplete/useAutocomplete.js -> packages/material-ui-unstyled/src/AutocompleteUnstyled/useAutocomplete.js
+mui__material-ui-36088	NA	packages/mui-base/src/AutocompleteUnstyled/useAutocomplete.js	21dba852b1 2021-11-09 packages/mui-core/src/AutocompleteUnstyled/useAutocomplete.js -> packages/mui-base/src/AutocompleteUnstyled/useAutocomplete.js|49b3469442 2021-09-06 packages/material-ui-unstyled/src/AutocompleteUnstyled/useAutocomplete.js -> packages/mui-core/src/AutocompleteUnstyled/useAutocomplete.js|35ab090c2d 2021-08-03 packages/material-ui/src/useAutocomplete/useAutocomplete.js -> packages/material-ui-unstyled/src/AutocompleteUnstyled/useAutocomplete.js
+mui__material-ui-36056	NA	docs/data/material/components/use-media-query/use-media-query.md	27f1c282cf 2022-02-04 docs/src/pages/components/use-media-query/use-media-query.md -> docs/data/material/components/use-media-query/use-media-query.md|1555e52367 2019-05-08 docs/src/pages/layout/use-media-query/use-media-query.md -> docs/src/pages/components/use-media-query/use-media-query.md
+mui__material-ui-36056	NA	packages/mui-material/src/styles/props.d.ts	49b3469442 2021-09-06 packages/material-ui/src/styles/props.d.ts -> packages/mui-material/src/styles/props.d.ts
+mui__material-ui-36056	NA	packages/mui-material/src/useMediaQuery/useMediaQuery.ts	38fc55400d 2021-09-27 packages/mui-material/src/useMediaQuery/useMediaQuery.js -> packages/mui-material/src/useMediaQuery/useMediaQuery.ts|49b3469442 2021-09-06 packages/material-ui/src/useMediaQuery/useMediaQuery.js -> packages/mui-material/src/useMediaQuery/useMediaQuery.js|4fa33add49 2019-03-08 packages/material-ui/src/useMediaQuery/unstable_useMediaQuery.js -> packages/material-ui/src/useMediaQuery/useMediaQuery.js
+mui__material-ui-35838	NA	packages/mui-base/src/ListboxUnstyled/useListbox.ts	NONE
+mui__material-ui-35804	NA	packages/mui-material/src/styles/experimental_extendTheme.js	NONE
+mui__material-ui-35477	NA	packages/mui-utils/src/resolveProps.ts	NONE
+mui__material-ui-35410	NA	packages/mui-base/src/ButtonUnstyled/useButton.ts	21dba852b1 2021-11-09 packages/mui-core/src/ButtonUnstyled/useButton.ts -> packages/mui-base/src/ButtonUnstyled/useButton.ts|49b3469442 2021-09-06 packages/material-ui-unstyled/src/ButtonUnstyled/useButton.ts -> packages/mui-core/src/ButtonUnstyled/useButton.ts
+mui__material-ui-35410	NA	packages/mui-base/src/ButtonUnstyled/useButton.types.ts	NONE
+mui__material-ui-35364	NA	packages/mui-utils/src/deepmerge.ts	49b3469442 2021-09-06 packages/material-ui-utils/src/deepmerge.ts -> packages/mui-utils/src/deepmerge.ts
+mui__material-ui-35360	NA	packages/mui-utils/src/exactProp.ts	49b3469442 2021-09-06 packages/material-ui-utils/src/exactProp.ts -> packages/mui-utils/src/exactProp.ts|6445fb2ad3 2020-08-31 packages/material-ui-utils/src/exactProp.js -> packages/material-ui-utils/src/exactProp.ts|83adb95e59 2018-11-12 packages/material-ui/src/utils/exactProp.js -> packages/material-ui-utils/src/exactProp.js
+mui__material-ui-35178	NA	packages/mui-material/src/styles/experimental_extendTheme.js	NONE
+mui__material-ui-35178	NA	packages/mui-system/src/colorManipulator.d.ts	49b3469442 2021-09-06 packages/material-ui-system/src/colorManipulator.d.ts -> packages/mui-system/src/colorManipulator.d.ts|925c984680 2021-06-11 packages/material-ui/src/styles/colorManipulator.d.ts -> packages/material-ui-system/src/colorManipulator.d.ts|3e4854b39b 2018-04-16 src/styles/colorManipulator.d.ts -> packages/material-ui/src/styles/colorManipulator.d.ts
+mui__material-ui-35178	NA	packages/mui-system/src/colorManipulator.js	49b3469442 2021-09-06 packages/material-ui-system/src/colorManipulator.js -> packages/mui-system/src/colorManipulator.js|925c984680 2021-06-11 packages/material-ui/src/styles/colorManipulator.js -> packages/material-ui-system/src/colorManipulator.js|3e4854b39b 2018-04-16 src/styles/colorManipulator.js -> packages/material-ui/src/styles/colorManipulator.js
+mui__material-ui-35086	NA	packages/mui-material/src/SvgIcon/SvgIcon.js	49b3469442 2021-09-06 packages/material-ui/src/SvgIcon/SvgIcon.js -> packages/mui-material/src/SvgIcon/SvgIcon.js|3e4854b39b 2018-04-16 src/SvgIcon/SvgIcon.js -> packages/material-ui/src/SvgIcon/SvgIcon.js|c055cf6bbd 2016-03-22 src/SvgIcon/SvgIcon.jsx -> src/SvgIcon/SvgIcon.js
+mui__material-ui-35047	NA	packages/mui-material/src/Select/SelectInput.js	49b3469442 2021-09-06 packages/material-ui/src/Select/SelectInput.js -> packages/mui-material/src/Select/SelectInput.js|3e4854b39b 2018-04-16 src/Select/SelectInput.js -> packages/material-ui/src/Select/SelectInput.js
+mui__material-ui-34610	NA	packages/mui-base/src/SliderUnstyled/SliderUnstyled.js	21dba852b1 2021-11-09 packages/mui-core/src/SliderUnstyled/SliderUnstyled.js -> packages/mui-base/src/SliderUnstyled/SliderUnstyled.js|49b3469442 2021-09-06 packages/material-ui-unstyled/src/SliderUnstyled/SliderUnstyled.js -> packages/mui-core/src/SliderUnstyled/SliderUnstyled.js|c13deae820 2020-10-29 packages/material-ui-lab/src/SliderUnstyled/SliderUnstyled.js -> packages/material-ui-unstyled/src/SliderUnstyled/SliderUnstyled.js
+mui__material-ui-34548	NA	packages/mui-system/src/palette.js	49b3469442 2021-09-06 packages/material-ui-system/src/palette.js -> packages/mui-system/src/palette.js
+mui__material-ui-34548	NA	packages/mui-system/src/style.d.ts	49b3469442 2021-09-06 packages/material-ui-system/src/style.d.ts -> packages/mui-system/src/style.d.ts
+mui__material-ui-34548	NA	packages/mui-system/src/style.js	49b3469442 2021-09-06 packages/material-ui-system/src/style.js -> packages/mui-system/src/style.js
+mui__material-ui-34478	NA	packages/mui-joy/src/Radio/Radio.tsx	NONE
+mui__material-ui-34455	NA	packages/mui-joy/src/Chip/Chip.tsx	NONE
+mui__material-ui-34455	NA	packages/mui-joy/src/Chip/ChipProps.ts	NONE
+mui__material-ui-34445	NA	packages/mui-material/src/Popover/Popover.js	49b3469442 2021-09-06 packages/material-ui/src/Popover/Popover.js -> packages/mui-material/src/Popover/Popover.js|3e4854b39b 2018-04-16 src/Popover/Popover.js -> packages/material-ui/src/Popover/Popover.js|b4ca64b82e 2017-08-27 src/internal/Popover.js -> src/Popover/Popover.js
+mui__material-ui-34437	NA	packages/mui-system/src/colorManipulator.js	49b3469442 2021-09-06 packages/material-ui-system/src/colorManipulator.js -> packages/mui-system/src/colorManipulator.js|925c984680 2021-06-11 packages/material-ui/src/styles/colorManipulator.js -> packages/material-ui-system/src/colorManipulator.js|3e4854b39b 2018-04-16 src/styles/colorManipulator.js -> packages/material-ui/src/styles/colorManipulator.js
+mui__material-ui-34337	NA	packages/mui-base/src/ButtonUnstyled/ButtonUnstyled.tsx	21dba852b1 2021-11-09 packages/mui-core/src/ButtonUnstyled/ButtonUnstyled.tsx -> packages/mui-base/src/ButtonUnstyled/ButtonUnstyled.tsx|49b3469442 2021-09-06 packages/material-ui-unstyled/src/ButtonUnstyled/ButtonUnstyled.tsx -> packages/mui-core/src/ButtonUnstyled/ButtonUnstyled.tsx
+mui__material-ui-34247	NA	packages/mui-material/src/Chip/Chip.js	49b3469442 2021-09-06 packages/material-ui/src/Chip/Chip.js -> packages/mui-material/src/Chip/Chip.js|3e4854b39b 2018-04-16 src/Chip/Chip.js -> packages/material-ui/src/Chip/Chip.js
+mui__material-ui-34245	NA	packages/mui-material/src/Fab/Fab.js	49b3469442 2021-09-06 packages/material-ui/src/Fab/Fab.js -> packages/mui-material/src/Fab/Fab.js
+mui__material-ui-34229	NA	packages/mui-material/src/Select/SelectInput.js	49b3469442 2021-09-06 packages/material-ui/src/Select/SelectInput.js -> packages/mui-material/src/Select/SelectInput.js|3e4854b39b 2018-04-16 src/Select/SelectInput.js -> packages/material-ui/src/Select/SelectInput.js
+mui__material-ui-34159	NA	packages/mui-material/src/ListItemButton/ListItemButton.js	49b3469442 2021-09-06 packages/material-ui/src/ListItemButton/ListItemButton.js -> packages/mui-material/src/ListItemButton/ListItemButton.js
+mui__material-ui-33957	NA	packages/mui-material/src/Autocomplete/Autocomplete.js	49b3469442 2021-09-06 packages/material-ui/src/Autocomplete/Autocomplete.js -> packages/mui-material/src/Autocomplete/Autocomplete.js
+mui__material-ui-33934	NA	packages/mui-material/src/Modal/Modal.js	49b3469442 2021-09-06 packages/material-ui/src/Modal/Modal.js -> packages/mui-material/src/Modal/Modal.js|3e4854b39b 2018-04-16 src/Modal/Modal.js -> packages/material-ui/src/Modal/Modal.js|d732bb1cc6 2017-11-08 src/internal/Modal.js -> src/Modal/Modal.js
+mui__material-ui-33880	NA	packages/mui-material/src/ListItemText/ListItemText.js	49b3469442 2021-09-06 packages/material-ui/src/ListItemText/ListItemText.js -> packages/mui-material/src/ListItemText/ListItemText.js|f4be182606 2018-05-12 packages/material-ui/src/List/ListItemText.js -> packages/material-ui/src/ListItemText/ListItemText.js|3e4854b39b 2018-04-16 src/List/ListItemText.js -> packages/material-ui/src/List/ListItemText.js
+mui__material-ui-33873	NA	packages/mui-base/src/InputUnstyled/InputUnstyled.tsx	21dba852b1 2021-11-09 packages/mui-core/src/InputUnstyled/InputUnstyled.tsx -> packages/mui-base/src/InputUnstyled/InputUnstyled.tsx
+mui__material-ui-33873	NA	packages/mui-base/src/InputUnstyled/InputUnstyled.types.ts	b33d38f58f 2022-05-12 packages/mui-base/src/InputUnstyled/InputUnstyledProps.ts -> packages/mui-base/src/InputUnstyled/InputUnstyled.types.ts|21dba852b1 2021-11-09 packages/mui-core/src/InputUnstyled/InputUnstyledProps.ts -> packages/mui-base/src/InputUnstyled/InputUnstyledProps.ts
+mui__material-ui-33820	NA	docs/pages/material-ui/api/icon-button.json	a82d7fb048 2022-02-28 docs/pages/material/api/icon-button.json -> docs/pages/material-ui/api/icon-button.json
+mui__material-ui-33820	NA	docs/translations/api-docs/icon-button/icon-button.json	NONE
+mui__material-ui-33820	NA	packages/mui-material/src/IconButton/iconButtonClasses.ts	49b3469442 2021-09-06 packages/material-ui/src/IconButton/iconButtonClasses.ts -> packages/mui-material/src/IconButton/iconButtonClasses.ts
+mui__material-ui-33801	NA	docs/pages/material-ui/api/chip.json	a82d7fb048 2022-02-28 docs/pages/material/api/chip.json -> docs/pages/material-ui/api/chip.json
+mui__material-ui-33801	NA	docs/translations/api-docs/chip/chip.json	NONE
+mui__material-ui-33801	NA	packages/mui-material/src/Chip/chipClasses.ts	49b3469442 2021-09-06 packages/material-ui/src/Chip/chipClasses.ts -> packages/mui-material/src/Chip/chipClasses.ts
+mui__material-ui-33777	NA	docs/data/material/customization/density/DensityTool.js	27f1c282cf 2022-02-04 docs/src/pages/customization/density/DensityTool.js -> docs/data/material/customization/density/DensityTool.js
+mui__material-ui-33777	NA	packages/mui-material/src/Grid/Grid.js	49b3469442 2021-09-06 packages/material-ui/src/Grid/Grid.js -> packages/mui-material/src/Grid/Grid.js|3e4854b39b 2018-04-16 src/Grid/Grid.js -> packages/material-ui/src/Grid/Grid.js|7782818657 2017-05-05 src/Layout/Layout.js -> src/Grid/Grid.js
+mui__material-ui-33692	NA	packages/mui-codemod/src/v5.0.0/variant-prop.js	49b3469442 2021-09-06 packages/material-ui-codemod/src/v5.0.0/variant-prop.js -> packages/mui-codemod/src/v5.0.0/variant-prop.js
+mui__material-ui-33691	NA	packages/mui-codemod/src/v5.0.0/theme-spacing.js	49b3469442 2021-09-06 packages/material-ui-codemod/src/v5.0.0/theme-spacing.js -> packages/mui-codemod/src/v5.0.0/theme-spacing.js
+mui__material-ui-33145	NA	packages/mui-base/src/ListboxUnstyled/useListbox.ts	NONE
+mui__material-ui-32987	NA	packages/mui-material/src/Dialog/Dialog.js	49b3469442 2021-09-06 packages/material-ui/src/Dialog/Dialog.js -> packages/mui-material/src/Dialog/Dialog.js|3e4854b39b 2018-04-16 src/Dialog/Dialog.js -> packages/material-ui/src/Dialog/Dialog.js|c055cf6bbd 2016-03-22 src/Dialog/Dialog.jsx -> src/Dialog/Dialog.js
+mui__material-ui-32962	NA	packages/mui-codemod/src/v5.0.0/jss-to-tss-react.js	NONE
+mui__material-ui-32713	NA	packages/mui-material/src/styles/createMixins.js	49b3469442 2021-09-06 packages/material-ui/src/styles/createMixins.js -> packages/mui-material/src/styles/createMixins.js|3e4854b39b 2018-04-16 src/styles/createMixins.js -> packages/material-ui/src/styles/createMixins.js|55b583e066 2017-08-28 src/styles/mixins.js -> src/styles/createMixins.js
+mui__material-ui-32626	NA	packages/mui-base/src/AutocompleteUnstyled/useAutocomplete.js	21dba852b1 2021-11-09 packages/mui-core/src/AutocompleteUnstyled/useAutocomplete.js -> packages/mui-base/src/AutocompleteUnstyled/useAutocomplete.js|49b3469442 2021-09-06 packages/material-ui-unstyled/src/AutocompleteUnstyled/useAutocomplete.js -> packages/mui-core/src/AutocompleteUnstyled/useAutocomplete.js|35ab090c2d 2021-08-03 packages/material-ui/src/useAutocomplete/useAutocomplete.js -> packages/material-ui-unstyled/src/AutocompleteUnstyled/useAutocomplete.js
+mui__material-ui-32401	NA	docs/data/base/components/input/input.md	NONE
+mui__material-ui-32401	NA	packages/mui-base/src/InputUnstyled/InputUnstyled.tsx	21dba852b1 2021-11-09 packages/mui-core/src/InputUnstyled/InputUnstyled.tsx -> packages/mui-base/src/InputUnstyled/InputUnstyled.tsx
+mui__material-ui-32182	NA	packages/mui-material/src/Link/Link.js	49b3469442 2021-09-06 packages/material-ui/src/Link/Link.js -> packages/mui-material/src/Link/Link.js
+mui__material-ui-31998	NA	packages/mui-material/src/Grid/Grid.d.ts	49b3469442 2021-09-06 packages/material-ui/src/Grid/Grid.d.ts -> packages/mui-material/src/Grid/Grid.d.ts|3e4854b39b 2018-04-16 src/Grid/Grid.d.ts -> packages/material-ui/src/Grid/Grid.d.ts
+mui__material-ui-31998	NA	packages/mui-material/src/Grid/Grid.js	49b3469442 2021-09-06 packages/material-ui/src/Grid/Grid.js -> packages/mui-material/src/Grid/Grid.js|3e4854b39b 2018-04-16 src/Grid/Grid.js -> packages/material-ui/src/Grid/Grid.js|7782818657 2017-05-05 src/Layout/Layout.js -> src/Grid/Grid.js
+mui__material-ui-31998	NA	packages/mui-types/index.d.ts	49b3469442 2021-09-06 packages/material-ui-types/index.d.ts -> packages/mui-types/index.d.ts
+mui__material-ui-31313	NA	packages/mui-base/src/AutocompleteUnstyled/useAutocomplete.js	21dba852b1 2021-11-09 packages/mui-core/src/AutocompleteUnstyled/useAutocomplete.js -> packages/mui-base/src/AutocompleteUnstyled/useAutocomplete.js|49b3469442 2021-09-06 packages/material-ui-unstyled/src/AutocompleteUnstyled/useAutocomplete.js -> packages/mui-core/src/AutocompleteUnstyled/useAutocomplete.js|35ab090c2d 2021-08-03 packages/material-ui/src/useAutocomplete/useAutocomplete.js -> packages/material-ui-unstyled/src/AutocompleteUnstyled/useAutocomplete.js
+mui__material-ui-30788	NA	packages/mui-material/src/Select/Select.js	49b3469442 2021-09-06 packages/material-ui/src/Select/Select.js -> packages/mui-material/src/Select/Select.js|3e4854b39b 2018-04-16 src/Select/Select.js -> packages/material-ui/src/Select/Select.js
+mui__material-ui-30561	NA	packages/mui-lab/src/internal/pickers/PureDateInput.tsx	49b3469442 2021-09-06 packages/material-ui-lab/src/internal/pickers/PureDateInput.tsx -> packages/mui-lab/src/internal/pickers/PureDateInput.tsx|0b069d97fd 2020-08-09 packages/pickers/lib/src/_shared/PureDateInput.tsx -> packages/material-ui-lab/src/internal/pickers/PureDateInput.tsx
+mui__material-ui-30374	NA	packages/mui-base/src/AutocompleteUnstyled/useAutocomplete.js	21dba852b1 2021-11-09 packages/mui-core/src/AutocompleteUnstyled/useAutocomplete.js -> packages/mui-base/src/AutocompleteUnstyled/useAutocomplete.js|49b3469442 2021-09-06 packages/material-ui-unstyled/src/AutocompleteUnstyled/useAutocomplete.js -> packages/mui-core/src/AutocompleteUnstyled/useAutocomplete.js|35ab090c2d 2021-08-03 packages/material-ui/src/useAutocomplete/useAutocomplete.js -> packages/material-ui-unstyled/src/AutocompleteUnstyled/useAutocomplete.js
+mui__material-ui-30333	NA	packages/mui-material/src/Grid/Grid.js	49b3469442 2021-09-06 packages/material-ui/src/Grid/Grid.js -> packages/mui-material/src/Grid/Grid.js|3e4854b39b 2018-04-16 src/Grid/Grid.js -> packages/material-ui/src/Grid/Grid.js|7782818657 2017-05-05 src/Layout/Layout.js -> src/Grid/Grid.js
+mui__material-ui-30126	NA	docs/pages/api-docs/loading-button.json	NONE
+mui__material-ui-30126	NA	docs/translations/api-docs/loading-button/loading-button.json	NONE
+mui__material-ui-30126	NA	packages/mui-lab/src/LoadingButton/LoadingButton.js	49b3469442 2021-09-06 packages/material-ui-lab/src/LoadingButton/LoadingButton.js -> packages/mui-lab/src/LoadingButton/LoadingButton.js
+mui__material-ui-30118	NA	packages/mui-material/src/Popper/Popper.tsx	NONE
+mui__material-ui-30118	NA	packages/mui-material/src/styles/components.d.ts	49b3469442 2021-09-06 packages/material-ui/src/styles/components.d.ts -> packages/mui-material/src/styles/components.d.ts
+mui__material-ui-30118	NA	packages/mui-material/src/styles/props.d.ts	49b3469442 2021-09-06 packages/material-ui/src/styles/props.d.ts -> packages/mui-material/src/styles/props.d.ts
+mui__material-ui-29988	NA	packages/mui-system/package.json	49b3469442 2021-09-06 packages/material-ui-system/package.json -> packages/mui-system/package.json
+mui__material-ui-29988	NA	packages/mui-system/src/createStyled.js	49b3469442 2021-09-06 packages/material-ui-system/src/createStyled.js -> packages/mui-system/src/createStyled.js
+mui__material-ui-29902	NA	packages/mui-codemod/src/util/propsToObject.js	49b3469442 2021-09-06 packages/material-ui-codemod/src/util/propsToObject.js -> packages/mui-codemod/src/util/propsToObject.js
+mui__material-ui-29902	NA	packages/mui-codemod/src/v5.0.0/box-sx-prop.js	49b3469442 2021-09-06 packages/material-ui-codemod/src/v5.0.0/box-sx-prop.js -> packages/mui-codemod/src/v5.0.0/box-sx-prop.js
+mui__material-ui-29880	NA	packages/mui-material/src/Grid/Grid.js	49b3469442 2021-09-06 packages/material-ui/src/Grid/Grid.js -> packages/mui-material/src/Grid/Grid.js|3e4854b39b 2018-04-16 src/Grid/Grid.js -> packages/material-ui/src/Grid/Grid.js|7782818657 2017-05-05 src/Layout/Layout.js -> src/Grid/Grid.js
+mui__material-ui-29824	NA	packages/mui-codemod/src/v5.0.0/jss-to-styled.js	49b3469442 2021-09-06 packages/material-ui-codemod/src/v5.0.0/jss-to-styled.js -> packages/mui-codemod/src/v5.0.0/jss-to-styled.js
+mui__material-ui-29756	NA	packages/mui-system/src/breakpoints.js	49b3469442 2021-09-06 packages/material-ui-system/src/breakpoints.js -> packages/mui-system/src/breakpoints.js
+mui__material-ui-29756	NA	packages/mui-system/src/styleFunctionSx/styleFunctionSx.js	49b3469442 2021-09-06 packages/material-ui-system/src/styleFunctionSx/styleFunctionSx.js -> packages/mui-system/src/styleFunctionSx/styleFunctionSx.js|f1389e83a6 2020-12-22 packages/material-ui-system/src/styleFunctionSx.js -> packages/material-ui-system/src/styleFunctionSx/styleFunctionSx.js
+mui__material-ui-29613	NA	packages/mui-material/src/Button/Button.js	49b3469442 2021-09-06 packages/material-ui/src/Button/Button.js -> packages/mui-material/src/Button/Button.js|3e4854b39b 2018-04-16 src/Button/Button.js -> packages/material-ui/src/Button/Button.js
+mui__material-ui-29317	NA	docs/src/pages/customization/breakpoints/breakpoints.md	1555e52367 2019-05-08 docs/src/pages/layout/breakpoints/breakpoints.md -> docs/src/pages/customization/breakpoints/breakpoints.md|d7d69ed10e 2018-10-04 docs/src/pages/layout/breakpoints/breakpoints-en.md -> docs/src/pages/layout/breakpoints/breakpoints.md|be342b9617 2018-10-04 docs/src/pages/layout/breakpoints/breakpoints.md -> docs/src/pages/layout/breakpoints/breakpoints-en.md
+mui__material-ui-29317	NA	packages/mui-system/src/createTheme/createBreakpoints.d.ts	49b3469442 2021-09-06 packages/material-ui-system/src/createTheme/createBreakpoints.d.ts -> packages/mui-system/src/createTheme/createBreakpoints.d.ts|8a71384cab 2021-06-04 packages/material-ui/src/styles/createBreakpoints.d.ts -> packages/material-ui-system/src/createTheme/createBreakpoints.d.ts|3e4854b39b 2018-04-16 src/styles/createBreakpoints.d.ts -> packages/material-ui/src/styles/createBreakpoints.d.ts
+mui__material-ui-29317	NA	packages/mui-system/src/createTheme/createBreakpoints.js	49b3469442 2021-09-06 packages/material-ui-system/src/createTheme/createBreakpoints.js -> packages/mui-system/src/createTheme/createBreakpoints.js|8a71384cab 2021-06-04 packages/material-ui/src/styles/createBreakpoints.js -> packages/material-ui-system/src/createTheme/createBreakpoints.js|3e4854b39b 2018-04-16 src/styles/createBreakpoints.js -> packages/material-ui/src/styles/createBreakpoints.js
+mui__material-ui-26413	NA	packages/material-ui-lab/src/TreeView/TreeView.js	NONE
+mui__material-ui-26170	NA	docs/pages/api-docs/tab-list.json	NONE
+mui__material-ui-26170	NA	packages/material-ui-lab/src/TabList/TabList.d.ts	NONE
+mui__material-ui-26170	NA	packages/material-ui-lab/src/TabList/TabList.js	NONE
+mui__material-ui-26061	NA	packages/material-ui/src/Tabs/Tabs.js	3e4854b39b 2018-04-16 src/Tabs/Tabs.js -> packages/material-ui/src/Tabs/Tabs.js|c055cf6bbd 2016-03-22 src/Tabs/Tabs.jsx -> src/Tabs/Tabs.js|01018f199d 2016-03-20 src/tabs/tabs.jsx -> src/Tabs/Tabs.jsx
+mui__material-ui-25825	NA	packages/material-ui/src/styles/colorManipulator.js	3e4854b39b 2018-04-16 src/styles/colorManipulator.js -> packages/material-ui/src/styles/colorManipulator.js|cf0934dda2 2016-06-20 src/utils/colorManipulator.js -> src/styles/colorManipulator.js|6b7b5c66ca 2016-03-13 src/utils/color-manipulator.js -> src/utils/colorManipulator.js
+mui__material-ui-25815	NA	packages/material-ui/src/NativeSelect/NativeSelect.js	3e4854b39b 2018-04-16 src/Select/Select.js -> packages/material-ui/src/Select/Select.js
+mui__material-ui-25815	NA	packages/material-ui/src/Select/Select.js	3e4854b39b 2018-04-16 src/Select/Select.js -> packages/material-ui/src/Select/Select.js
+mui__material-ui-25637	NA	packages/material-ui-styles/src/getStylesCreator/getStylesCreator.js	bdb4baa668 2019-03-13 packages/material-ui-styles/src/getStylesCreator.js -> packages/material-ui-styles/src/getStylesCreator/getStylesCreator.js|3e4854b39b 2018-04-16 src/styles/getStylesCreator.js -> packages/material-ui/src/styles/getStylesCreator.js
+mui__material-ui-25276	NA	packages/material-ui/src/Autocomplete/Autocomplete.js	NONE
+mui__material-ui-25259	NA	packages/material-ui/src/SpeedDial/SpeedDial.js	fca1061644 2018-02-18 packages/lab/src/SpeedDial/SpeedDial.js -> packages/material-ui-lab/src/SpeedDial/SpeedDial.js
+mui__material-ui-25259	NA	packages/material-ui/src/SpeedDialAction/SpeedDialAction.js	fca1061644 2018-02-18 packages/lab/src/SpeedDialAction/SpeedDialAction.js -> packages/material-ui-lab/src/SpeedDialAction/SpeedDialAction.js
+mui__material-ui-25105	NA	packages/material-ui/src/TableCell/TableCell.js	f4be182606 2018-05-12 packages/material-ui/src/Table/TableCell.js -> packages/material-ui/src/TableCell/TableCell.js|3e4854b39b 2018-04-16 src/Table/TableCell.js -> packages/material-ui/src/Table/TableCell.js
+mui__material-ui-24290	NA	packages/material-ui/src/FormLabel/FormLabel.js	f4be182606 2018-05-12 packages/material-ui/src/Form/FormLabel.js -> packages/material-ui/src/FormLabel/FormLabel.js|3e4854b39b 2018-04-16 src/Form/FormLabel.js -> packages/material-ui/src/Form/FormLabel.js
+mui__material-ui-24290	NA	packages/material-ui/src/OutlinedInput/OutlinedInput.js	NONE
+mui__material-ui-24213	NA	.eslintrc.js	NONE
+mui__material-ui-24213	NA	packages/material-ui/src/useAutocomplete/useAutocomplete.js	4d50a9ed6a 2020-10-01 packages/material-ui-lab/src/useAutocomplete/useAutocomplete.js -> packages/material-ui/src/useAutocomplete/useAutocomplete.js
+mui__material-ui-24205	NA	packages/material-ui-lab/src/DateRangePicker/DateRangePickerViewMobile.tsx	0b069d97fd 2020-08-09 packages/pickers/lib/src/DateRangePicker/DateRangePickerViewMobile.tsx -> packages/material-ui-lab/src/DateRangePicker/DateRangePickerViewMobile.tsx
+mui__material-ui-24205	NA	packages/material-ui-lab/src/DayPicker/PickersCalendarHeader.tsx	0b069d97fd 2020-08-09 packages/pickers/lib/src/views/Calendar/CalendarHeader.tsx -> packages/material-ui-lab/src/DayPicker/PickersCalendarHeader.tsx
+mui__material-ui-24202	NA	docs/pages/api-docs/autocomplete.json	NONE
+mui__material-ui-24202	NA	packages/material-ui/src/Autocomplete/Autocomplete.js	NONE
+mui__material-ui-24010	NA	packages/material-ui-system/src/style.js	NONE
+mui__material-ui-23884	NA	packages/material-ui/src/useAutocomplete/useAutocomplete.js	4d50a9ed6a 2020-10-01 packages/material-ui-lab/src/useAutocomplete/useAutocomplete.js -> packages/material-ui/src/useAutocomplete/useAutocomplete.js
+mui__material-ui-23884	NA	scripts/react-next.diff	NONE
+mui__material-ui-23806	NA	docs/src/pages/components/use-media-query/use-media-query.md	1555e52367 2019-05-08 docs/src/pages/layout/use-media-query/use-media-query.md -> docs/src/pages/components/use-media-query/use-media-query.md
+mui__material-ui-23806	NA	packages/material-ui/src/useMediaQuery/useMediaQuery.js	4fa33add49 2019-03-08 packages/material-ui/src/useMediaQuery/unstable_useMediaQuery.js -> packages/material-ui/src/useMediaQuery/useMediaQuery.js
+mui__material-ui-23786	NA	packages/material-ui/src/internal/SwitchBase.js	3e4854b39b 2018-04-16 src/internal/SwitchBase.js -> packages/material-ui/src/internal/SwitchBase.js|c055cf6bbd 2016-03-22 src/Checkbox/Checkbox.jsx -> src/Checkbox/Checkbox.js|01018f199d 2016-03-20 src/checkbox.jsx -> src/Checkbox/Checkbox.jsx
+mui__material-ui-23778	NA	packages/material-ui/src/Select/SelectInput.js	3e4854b39b 2018-04-16 src/Select/SelectInput.js -> packages/material-ui/src/Select/SelectInput.js
+mui__material-ui-23487	NA	docs/src/pages/components/autocomplete/autocomplete.md	1555e52367 2019-05-08 docs/src/pages/demos/autocomplete/autocomplete.md -> docs/src/pages/components/autocomplete/autocomplete.md|d7d69ed10e 2018-10-04 docs/src/pages/demos/autocomplete/autocomplete-en.md -> docs/src/pages/demos/autocomplete/autocomplete.md|be342b9617 2018-10-04 docs/src/pages/demos/autocomplete/autocomplete.md -> docs/src/pages/demos/autocomplete/autocomplete-en.md
+mui__material-ui-23487	NA	packages/material-ui/src/SwipeableDrawer/SwipeableDrawer.js	3e4854b39b 2018-04-16 src/SwipeableDrawer/SwipeableDrawer.js -> packages/material-ui/src/SwipeableDrawer/SwipeableDrawer.js
+mui__material-ui-23487	NA	packages/material-ui/src/useAutocomplete/useAutocomplete.js	4d50a9ed6a 2020-10-01 packages/material-ui-lab/src/useAutocomplete/useAutocomplete.js -> packages/material-ui/src/useAutocomplete/useAutocomplete.js
+mui__material-ui-23073	NA	packages/material-ui/src/MenuItem/MenuItem.js	f4be182606 2018-05-12 packages/material-ui/src/Menu/MenuItem.js -> packages/material-ui/src/MenuItem/MenuItem.js|3e4854b39b 2018-04-16 src/Menu/MenuItem.js -> packages/material-ui/src/Menu/MenuItem.js
+mui__material-ui-23073	NA	packages/material-ui/src/MenuList/MenuList.js	f4be182606 2018-05-12 packages/material-ui/src/Menu/MenuList.js -> packages/material-ui/src/MenuList/MenuList.js|3e4854b39b 2018-04-16 src/Menu/MenuList.js -> packages/material-ui/src/Menu/MenuList.js
+mui__material-ui-23073	NA	packages/material-ui/src/MenuList/MenuListContext.js	NONE
