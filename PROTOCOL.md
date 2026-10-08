@@ -178,3 +178,7 @@ Made after the 30-run feasibility pilot and before any screening or confirmatory
 6. **H2 primary measure:** number of tool calls per run. Turns, wall time and estimated cost are secondary.
 7. **Size:** all eligible tasks (expected about 24) x 3 conditions x 4 repeats. The 15-task fallback remains.
 8. **Pilot record:** of five pilot tasks, one had an invalid environment and one fails the relevance rule; all five are excluded from screening and confirmation.
+
+## Amendment 1.2 (2026-10-07, before screening)
+
+After three independent validations of every pool task and application of the relevance rule, 23 tasks are eligible for screening: 16 from sveltejs/svelte, 5 from mui/material-ui and 2 from vuejs/core (manifests/screening-tasks.txt). The planned minimum of five repositories cannot be met with tasks that pass the validity rules; the only eligible task from a fourth repository had unreliable tests. The study proceeds with three repositories. Conclusions are limited accordingly, results are reported per repository as well as pooled, and the concentration in one repository is stated as a limitation. Of the 50 pool tasks, 42 passed three of three validations; a single validation would have admitted 44.
