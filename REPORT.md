@@ -117,7 +117,7 @@ Changes made before screening and before the confirmatory runs are recorded as a
 
 ## 7. Reproducibility
 
-The repository contains the preregistered rubric, scripts, the 50 instruction-file pairs, manifests, screening and confirmatory results, trace coding and the analysis script. The benchmark data and container images come from Multi-SWE-bench and are not redistributed.
+The repository contains the preregistered rubric, scripts, the 50 instruction-file pairs, manifests, screening and confirmatory results, trace coding and the analysis script. The benchmark data and container images come from Multi-SWE-bench and are not redistributed. The raw per-run agent traces are kept locally and are not in the repository, so the primary analysis, which re-codes tool calls from them, cannot be rerun from the repository alone; the committed results folder holds the per-run outputs and the saved analysis output. Rerunning the analysis on the original run folder reproduces the saved output exactly.
 
 ## References
 
