@@ -182,3 +182,11 @@ Made after the 30-run feasibility pilot and before any screening or confirmatory
 ## Amendment 1.2 (2026-10-07, before screening)
 
 After three independent validations of every pool task and application of the relevance rule, 23 tasks are eligible for screening: 16 from sveltejs/svelte, 5 from mui/material-ui and 2 from vuejs/core (manifests/screening-tasks.txt). The planned minimum of five repositories cannot be met with tasks that pass the validity rules; the only eligible task from a fourth repository had unreliable tests. The study proceeds with three repositories. Conclusions are limited accordingly, results are reported per repository as well as pooled, and the concentration in one repository is stated as a limitation. Of the 50 pool tasks, 42 passed three of three validations; a single validation would have admitted 44.
+
+## Amendment 1.3 and preregistration freeze (2026-10-07, before confirmatory runs)
+
+Screening: 23 tasks x 3 no-guidance runs = 69 valid runs (manifests/screening-results.tsv). Solved 0/3: 6 tasks; 1/3: 5; 2/3: 7; 3/3: 5. The effort set is all 23 tasks (manifests/effort-set.txt). The success set is the 12 tasks solved in 1 or 2 of 3 runs (manifests/success-set.txt); this is below the 15-task fallback, so the H1 comparison is expected to have low precision and is reported as such.
+
+Confirmatory design: 23 tasks x 3 conditions x 4 repeats = 276 runs, schedule seed 20261013, conditions shuffled within each task and repeat.
+
+Analysis (analysis/primary_analysis.py, frozen at this commit): per-task condition means; paired differences with a bootstrap over tasks (10,000 resamples, seed 20261012, percentile 95% interval). Primary contrasts are stale minus accurate, on tool calls in the effort set (H2) and on task success in the success set (H1). The planned mixed-effects model is replaced by a task-level sign-flip permutation test as the robustness check, because it needs no additional software and matches the paired design. Other contrasts and per-repository results are secondary.
