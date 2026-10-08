@@ -33,7 +33,7 @@ while IFS=$'\t' read -r id cond rep; do
   case "$cond" in none) guide=none ;; *) guide="$here/guides/$id/$cond.md" ;; esac
   echo "== $(date +%H:%M:%S) $id $cond r$rep"
   bash "$here/scripts/run_agent.sh" "$root/tasks/$id.jsonl" "$guide" "$out" < /dev/null || true
-  sub=$(tail -n 1 "$out/trace.jsonl" 2>/dev/null | jq -r '.subtype // empty' 2>/dev/null || true)
+  sub=$(tail -n 1 "$out/trace.jsonl" 2>/dev/null | jq -r 'if (.is_error == true and .subtype == "success") then "api_error" else (.subtype // empty) end' 2>/dev/null || true)
   rc=$(jq -r '.exit_code' "$out/meta.json" 2>/dev/null || echo missing)
   if [ "$sub" != "success" ] && [ "$sub" != "error_max_turns" ] && [ "$rc" != "124" ]; then
     mv "$out" "$out.invalid-$(date +%s)"

@@ -1,0 +1,7 @@
+# Deviations from the preregistered protocol
+
+1. **Duplicate launch (2026-10-07).** The confirmatory batch was started twice by mistake. Both were stopped within minutes, the partial folder was set aside unanalysed, and the batch was restarted from the beginning with the same seed.
+2. **Rate-limited runs (2026-10-08).** 167 of 276 confirmatory runs returned "session limit" errors (HTTP 429) and never reached the model. The runner's validity check missed them because they reported subtype "success" with is_error true. They were spread evenly across conditions (56 accurate, 55 none, 56 stale) and began at schedule row 110.
+3. **Invalid-run rule.** A run is invalid if its final result has is_error true with subtype "success" (the model was never successfully called). The rule does not use condition or outcome. Invalid runs are rerun under the unchanged schedule. Where a task-and-repeat block was split by the limit, the whole block is rerun and its valid run is marked superseded (one run).
+4. **Premature analysis.** The analysis script was run once on the data containing the invalid runs before they were identified. Those numbers are discarded and not reported. The analysis code is unchanged from the prereg-v1 tag.
+5. **Runner fix.** scripts/run_batch.sh now treats such runs as invalid and stops. The analysis script and task sets are unchanged.
